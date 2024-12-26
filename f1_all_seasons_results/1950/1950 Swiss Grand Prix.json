@@ -1,0 +1,516 @@
+{
+    "title": "1950 Swiss Grand Prix | Pitwall",
+    "race_name": "1950Swiss Grand Prix",
+    "round": "4/7",
+    "date": "Jun 4, 1950 at 00:00 CET",
+    "location": "Bern, Switzerland",
+    "circuit": "Circuit Bremgarten",
+    "circuit_length": "7.28 m",
+    "race_distance": "305.76 km (42 laps)",
+    "performance": {
+        "winner": "Farina",
+        "winning_time": "2:02:53.700",
+        "pole_position": "Fangio",
+        "fastest_lap": "Farina",
+        "fastest_lap_time": "2:41.600"
+    },
+    "results": {
+        "race": [
+            {
+                "Pos.": "1",
+                "Driver": "#16Nino Farina",
+                "Constructor": "Alfa Romeo",
+                "Time/Retired": "2:02:53.700",
+                "Grid": "2nd",
+                "Laps": "42",
+                "Points": "9"
+            },
+            {
+                "Pos.": "2",
+                "Driver": "#12Luigi Fagioli",
+                "Constructor": "Alfa Romeo",
+                "Time/Retired": "+0.400",
+                "Grid": "3rd",
+                "Laps": "42",
+                "Points": "6"
+            },
+            {
+                "Pos.": "3",
+                "Driver": "#10Louis Rosier",
+                "Constructor": "Talbot-Lago",
+                "Time/Retired": "+1 lap",
+                "Grid": "10th",
+                "Laps": "41",
+                "Points": "4"
+            },
+            {
+                "Pos.": "4",
+                "Driver": "#30Birabongse Bhanudej",
+                "Constructor": "Maserati",
+                "Time/Retired": "+2 laps",
+                "Grid": "8th",
+                "Laps": "40",
+                "Points": "3"
+            },
+            {
+                "Pos.": "5",
+                "Driver": "#34Felice Bonetto",
+                "Constructor": "Maserati",
+                "Time/Retired": "+2 laps",
+                "Grid": "12th",
+                "Laps": "40",
+                "Points": "2"
+            },
+            {
+                "Pos.": "6",
+                "Driver": "#32Emmanuel de Graffenried",
+                "Constructor": "Maserati",
+                "Time/Retired": "+2 laps",
+                "Grid": "11th",
+                "Laps": "40",
+                "Points": ""
+            },
+            {
+                "Pos.": "7",
+                "Driver": "#2Nello Pagani",
+                "Constructor": "Maserati",
+                "Time/Retired": "+3 laps",
+                "Grid": "15th",
+                "Laps": "39",
+                "Points": ""
+            },
+            {
+                "Pos.": "8",
+                "Driver": "#44Harry Schell",
+                "Constructor": "Talbot-Lago",
+                "Time/Retired": "+3 laps",
+                "Grid": "18th",
+                "Laps": "39",
+                "Points": ""
+            },
+            {
+                "Pos.": "9",
+                "Driver": "#26Louis Chiron",
+                "Constructor": "Maserati",
+                "Time/Retired": "+3 laps",
+                "Grid": "16th",
+                "Laps": "39",
+                "Points": ""
+            },
+            {
+                "Pos.": "10",
+                "Driver": "#4Johnny Claes",
+                "Constructor": "Talbot-Lago",
+                "Time/Retired": "+3 laps",
+                "Grid": "14th",
+                "Laps": "39",
+                "Points": ""
+            },
+            {
+                "Pos.": "11",
+                "Driver": "#40Toni Branca",
+                "Constructor": "Maserati",
+                "Time/Retired": "+7 laps",
+                "Grid": "17th",
+                "Laps": "35",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#14Juan Manuel Fangio",
+                "Constructor": "Alfa Romeo",
+                "Time/Retired": "Engine",
+                "Grid": "1st",
+                "Laps": "33",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#42Philippe Étancelin",
+                "Constructor": "Talbot-Lago",
+                "Time/Retired": "Gearbox",
+                "Grid": "6th",
+                "Laps": "25",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#20Raymond Sommer",
+                "Constructor": "Ferrari",
+                "Time/Retired": "Suspension",
+                "Grid": "13th",
+                "Laps": "19",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#8Eugène Martin",
+                "Constructor": "Talbot-Lago",
+                "Time/Retired": "Accident",
+                "Grid": "9th",
+                "Laps": "19",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#22Luigi Villoresi",
+                "Constructor": "Ferrari",
+                "Time/Retired": "Engine",
+                "Grid": "4th",
+                "Laps": "9",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#18Alberto Ascari",
+                "Constructor": "Ferrari",
+                "Time/Retired": "Oil pump",
+                "Grid": "5th",
+                "Laps": "4",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#6Yves Giraud-Cabantous",
+                "Constructor": "Talbot-Lago",
+                "Time/Retired": "Accident",
+                "Grid": "7th",
+                "Laps": "0",
+                "Points": ""
+            }
+        ],
+        "qualifying": [
+            {
+                "Pos.": "1",
+                "Driver": "#14Juan Manuel Fangio",
+                "Constructor": "Alfa Romeo",
+                "Time": "2:42.100",
+                "Gap": ""
+            },
+            {
+                "Pos.": "2",
+                "Driver": "#16Nino Farina",
+                "Constructor": "Alfa Romeo",
+                "Time": "2:42.800",
+                "Gap": "+0.700"
+            },
+            {
+                "Pos.": "3",
+                "Driver": "#12Luigi Fagioli",
+                "Constructor": "Alfa Romeo",
+                "Time": "2:45.200",
+                "Gap": "+3.100"
+            },
+            {
+                "Pos.": "4",
+                "Driver": "#22Luigi Villoresi",
+                "Constructor": "Ferrari",
+                "Time": "2:46.100",
+                "Gap": "+4.000"
+            },
+            {
+                "Pos.": "5",
+                "Driver": "#18Alberto Ascari",
+                "Constructor": "Ferrari",
+                "Time": "2:46.800",
+                "Gap": "+4.700"
+            },
+            {
+                "Pos.": "6",
+                "Driver": "#42Philippe Étancelin",
+                "Constructor": "Talbot-Lago",
+                "Time": "2:51.100",
+                "Gap": "+9.000"
+            },
+            {
+                "Pos.": "7",
+                "Driver": "#6Yves Giraud-Cabantous",
+                "Constructor": "Talbot-Lago",
+                "Time": "2:52.700",
+                "Gap": "+10.600"
+            },
+            {
+                "Pos.": "8",
+                "Driver": "#30Birabongse Bhanudej",
+                "Constructor": "Maserati",
+                "Time": "2:53.200",
+                "Gap": "+11.100"
+            },
+            {
+                "Pos.": "9",
+                "Driver": "#8Eugène Martin",
+                "Constructor": "Talbot-Lago",
+                "Time": "2:53.700",
+                "Gap": "+11.600"
+            },
+            {
+                "Pos.": "10",
+                "Driver": "#10Louis Rosier",
+                "Constructor": "Talbot-Lago",
+                "Time": "2:54.000",
+                "Gap": "+11.900"
+            },
+            {
+                "Pos.": "11",
+                "Driver": "#32Emmanuel de Graffenried",
+                "Constructor": "Maserati",
+                "Time": "2:54.200",
+                "Gap": "+12.100"
+            },
+            {
+                "Pos.": "12",
+                "Driver": "#34Felice Bonetto",
+                "Constructor": "Maserati",
+                "Time": "2:54.600",
+                "Gap": "+12.500"
+            },
+            {
+                "Pos.": "13",
+                "Driver": "#20Raymond Sommer",
+                "Constructor": "Ferrari",
+                "Time": "2:54.600",
+                "Gap": "+12.500"
+            },
+            {
+                "Pos.": "14",
+                "Driver": "#4Johnny Claes",
+                "Constructor": "Talbot-Lago",
+                "Time": "2:59.000",
+                "Gap": "+16.900"
+            },
+            {
+                "Pos.": "15",
+                "Driver": "#2Nello Pagani",
+                "Constructor": "Maserati",
+                "Time": "3:06.900",
+                "Gap": "+24.800"
+            },
+            {
+                "Pos.": "16",
+                "Driver": "#26Louis Chiron",
+                "Constructor": "Maserati",
+                "Time": "3:06.900",
+                "Gap": "+24.800"
+            },
+            {
+                "Pos.": "17",
+                "Driver": "#40Toni Branca",
+                "Constructor": "Maserati",
+                "Time": "3:10.000",
+                "Gap": "+27.900"
+            },
+            {
+                "Pos.": "18",
+                "Driver": "#44Harry Schell",
+                "Constructor": "Talbot-Lago",
+                "Time": "3:11.500",
+                "Gap": "+29.400"
+            }
+        ],
+        "fastest_laps": [
+            {
+                "Pos.": "1",
+                "Driver": "#16Nino Farina",
+                "Constructor": "Alfa Romeo",
+                "Time": "2:41.600",
+                "Gap": "",
+                "Lap": "8"
+            }
+        ],
+        "driver": [
+            {
+                "Pos.": "1",
+                "Driver": "Nino Farina",
+                "Constructor": "Alfa Romeo",
+                "Wins": "2",
+                "Podiums": "2",
+                "Points": "18",
+                "Gap": ""
+            },
+            {
+                "Pos.": "2",
+                "Driver": "Luigi Fagioli",
+                "Constructor": "Alfa Romeo",
+                "Wins": "0",
+                "Podiums": "2",
+                "Points": "12",
+                "Gap": "-6"
+            },
+            {
+                "Pos.": "3",
+                "Driver": "Juan Manuel Fangio",
+                "Constructor": "Alfa Romeo",
+                "Wins": "1",
+                "Podiums": "1",
+                "Points": "9",
+                "Gap": "-9"
+            },
+            {
+                "Pos.": "4",
+                "Driver": "Johnnie Parsons",
+                "Constructor": "Kurtis",
+                "Wins": "1",
+                "Podiums": "1",
+                "Points": "9",
+                "Gap": "-9"
+            },
+            {
+                "Pos.": "5",
+                "Driver": "Alberto Ascari",
+                "Constructor": "Ferrari",
+                "Wins": "0",
+                "Podiums": "1",
+                "Points": "6",
+                "Gap": "-12"
+            },
+            {
+                "Pos.": "6",
+                "Driver": "Bill Holland",
+                "Constructor": "Deidt",
+                "Wins": "0",
+                "Podiums": "1",
+                "Points": "6",
+                "Gap": "-12"
+            },
+            {
+                "Pos.": "7",
+                "Driver": "Louis Rosier",
+                "Constructor": "Talbot-Lago",
+                "Wins": "0",
+                "Podiums": "1",
+                "Points": "6",
+                "Gap": "-12"
+            },
+            {
+                "Pos.": "8",
+                "Driver": "Birabongse Bhanudej",
+                "Constructor": "Maserati",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "5",
+                "Gap": "-13"
+            },
+            {
+                "Pos.": "9",
+                "Driver": "Reg Parnell",
+                "Constructor": "Alfa Romeo",
+                "Wins": "0",
+                "Podiums": "1",
+                "Points": "4",
+                "Gap": "-14"
+            },
+            {
+                "Pos.": "10",
+                "Driver": "Louis Chiron",
+                "Constructor": "Maserati",
+                "Wins": "0",
+                "Podiums": "1",
+                "Points": "4",
+                "Gap": "-14"
+            },
+            {
+                "Pos.": "11",
+                "Driver": "Mauri Rose",
+                "Constructor": "Deidt",
+                "Wins": "0",
+                "Podiums": "1",
+                "Points": "4",
+                "Gap": "-14"
+            },
+            {
+                "Pos.": "12",
+                "Driver": "Yves Giraud-Cabantous",
+                "Constructor": "Talbot-Lago",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "3",
+                "Gap": "-15"
+            },
+            {
+                "Pos.": "13",
+                "Driver": "Raymond Sommer",
+                "Constructor": "Ferrari",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "3",
+                "Gap": "-15"
+            },
+            {
+                "Pos.": "14",
+                "Driver": "Cecil Green",
+                "Constructor": "Kurtis",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "3",
+                "Gap": "-15"
+            },
+            {
+                "Pos.": "15",
+                "Driver": "Felice Bonetto",
+                "Constructor": "Maserati",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "2",
+                "Gap": "-16"
+            },
+            {
+                "Pos.": "16",
+                "Driver": "Joie Chitwood",
+                "Constructor": "Kurtis",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "1",
+                "Gap": "-17"
+            },
+            {
+                "Pos.": "17",
+                "Driver": "Tony Bettenhausen",
+                "Constructor": "Deidt",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "1",
+                "Gap": "-17"
+            },
+            {
+                "Year": "1982",
+                "Winner": "#6Keke Rosberg",
+                "2nd": "Alain Prost",
+                "3rd": "Niki Lauda",
+                "Fastest lap": "1:07.477 - Alain Prost",
+                "Pole position": "Alain Prost"
+            },
+            {
+                "Year": "1954",
+                "Winner": "#4Juan Manuel Fangio",
+                "2nd": "José Froilán González",
+                "3rd": "Hans Herrmann",
+                "Fastest lap": "2:39.700 - Juan Manuel Fangio",
+                "Pole position": "José Froilán González"
+            },
+            {
+                "Year": "1953",
+                "Winner": "#46Alberto Ascari",
+                "2nd": "Nino Farina",
+                "3rd": "Mike Hawthorn",
+                "Fastest lap": "2:41.300 - Alberto Ascari",
+                "Pole position": "Juan Manuel Fangio"
+            },
+            {
+                "Year": "1952",
+                "Winner": "#30Piero Taruffi",
+                "2nd": "Rudi Fischer",
+                "3rd": "Jean Behra",
+                "Fastest lap": "2:49.100 - Piero Taruffi",
+                "Pole position": "Nino Farina"
+            },
+            {
+                "Year": "1951",
+                "Winner": "#24Juan Manuel Fangio",
+                "2nd": "Piero Taruffi",
+                "3rd": "Nino Farina",
+                "Fastest lap": "2:51.100 - Juan Manuel Fangio",
+                "Pole position": "Juan Manuel Fangio"
+            }
+        ]
+    }
+}

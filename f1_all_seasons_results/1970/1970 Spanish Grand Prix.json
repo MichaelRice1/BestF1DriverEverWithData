@@ -1,0 +1,939 @@
+{
+    "title": "1970 Spanish Grand Prix | Pitwall",
+    "race_name": "1970Spanish Grand Prix",
+    "round": "2/13",
+    "date": "Apr 19, 1970 at 00:00 CET",
+    "location": "Madrid, Spain",
+    "circuit": "Circuito del Jarama",
+    "circuit_length": "3.404 m",
+    "race_distance": "306.36 km (90 laps)",
+    "performance": {
+        "winner": "Stewart",
+        "winning_time": "2:10:58.200",
+        "pole_position": "Brabham",
+        "fastest_lap": "Brabham",
+        "fastest_lap_time": "1:24.300"
+    },
+    "results": {
+        "race": [
+            {
+                "Pos.": "1",
+                "Driver": "#1Jackie Stewart",
+                "Constructor": "March",
+                "Time/Retired": "2:10:58.200",
+                "Grid": "3rd",
+                "Laps": "90",
+                "Points": "9"
+            },
+            {
+                "Pos.": "2",
+                "Driver": "#11Bruce McLaren",
+                "Constructor": "McLaren",
+                "Time/Retired": "+1 lap",
+                "Grid": "11th",
+                "Laps": "89",
+                "Points": "6"
+            },
+            {
+                "Pos.": "3",
+                "Driver": "#18Mario Andretti",
+                "Constructor": "March",
+                "Time/Retired": "+1 lap",
+                "Grid": "16th",
+                "Laps": "89",
+                "Points": "4"
+            },
+            {
+                "Pos.": "4",
+                "Driver": "#6Graham Hill",
+                "Constructor": "Lotus",
+                "Time/Retired": "+1 lap",
+                "Grid": "15th",
+                "Laps": "89",
+                "Points": "3"
+            },
+            {
+                "Pos.": "5",
+                "Driver": "#16Johnny Servoz-Gavin",
+                "Constructor": "March",
+                "Time/Retired": "+2 laps",
+                "Grid": "14th",
+                "Laps": "88",
+                "Points": "2"
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#8John Surtees",
+                "Constructor": "McLaren",
+                "Time/Retired": "Gearbox",
+                "Grid": "12th",
+                "Laps": "76",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#7Jack Brabham",
+                "Constructor": "Brabham",
+                "Time/Retired": "Engine",
+                "Grid": "1st",
+                "Laps": "61",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#24Rolf Stommelen",
+                "Constructor": "Brabham",
+                "Time/Retired": "Engine",
+                "Grid": "17th",
+                "Laps": "43",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#22Henri Pescarolo",
+                "Constructor": "Matra",
+                "Time/Retired": "Engine",
+                "Grid": "9th",
+                "Laps": "33",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#4Jean-Pierre Beltoise",
+                "Constructor": "Matra",
+                "Time/Retired": "Engine",
+                "Grid": "4th",
+                "Laps": "31",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#9Chris Amon",
+                "Constructor": "March",
+                "Time/Retired": "Engine",
+                "Grid": "6th",
+                "Laps": "10",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#5Denny Hulme",
+                "Constructor": "McLaren",
+                "Time/Retired": "Ignition",
+                "Grid": "2nd",
+                "Laps": "10",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#3Jochen Rindt",
+                "Constructor": "Lotus",
+                "Time/Retired": "Ignition",
+                "Grid": "8th",
+                "Laps": "9",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#10Pedro Rodríguez",
+                "Constructor": "BRM",
+                "Time/Retired": "Withdrew",
+                "Grid": "5th",
+                "Laps": "4",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#2Jacky Ickx",
+                "Constructor": "Ferrari",
+                "Time/Retired": "Accident",
+                "Grid": "7th",
+                "Laps": "0",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#15Jackie Oliver",
+                "Constructor": "BRM",
+                "Time/Retired": "Accident",
+                "Grid": "10th",
+                "Laps": "0",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNS",
+                "Driver": "#12Piers Courage",
+                "Constructor": "De Tomaso",
+                "Time/Retired": "Accident in practice",
+                "Grid": "13th",
+                "Laps": "",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNQ",
+                "Driver": "#20Andrea de Adamich",
+                "Constructor": "McLaren",
+                "Time/Retired": "",
+                "Grid": "",
+                "Laps": "",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNQ",
+                "Driver": "#19John Miles",
+                "Constructor": "Lotus",
+                "Time/Retired": "",
+                "Grid": "",
+                "Laps": "",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNQ",
+                "Driver": "#14Jo Siffert",
+                "Constructor": "March",
+                "Time/Retired": "",
+                "Grid": "",
+                "Laps": "",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNQ",
+                "Driver": "#23Alex Soler-Roig",
+                "Constructor": "Lotus",
+                "Time/Retired": "",
+                "Grid": "",
+                "Laps": "",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNQ",
+                "Driver": "#21George Eaton",
+                "Constructor": "BRM",
+                "Time/Retired": "",
+                "Grid": "",
+                "Laps": "",
+                "Points": ""
+            }
+        ],
+        "qualifying": [
+            {
+                "Pos.": "1",
+                "Driver": "#7Jack Brabham",
+                "Constructor": "Brabham",
+                "Time": "1:23.900",
+                "Gap": ""
+            },
+            {
+                "Pos.": "2",
+                "Driver": "#5Denny Hulme",
+                "Constructor": "McLaren",
+                "Time": "1:24.100",
+                "Gap": "+0.200"
+            },
+            {
+                "Pos.": "3",
+                "Driver": "#1Jackie Stewart",
+                "Constructor": "March",
+                "Time": "1:24.200",
+                "Gap": "+0.300"
+            },
+            {
+                "Pos.": "4",
+                "Driver": "#4Jean-Pierre Beltoise",
+                "Constructor": "Matra",
+                "Time": "1:24.460",
+                "Gap": "+0.560"
+            },
+            {
+                "Pos.": "5",
+                "Driver": "#10Pedro Rodríguez",
+                "Constructor": "BRM",
+                "Time": "1:24.500",
+                "Gap": "+0.600"
+            },
+            {
+                "Pos.": "6",
+                "Driver": "#9Chris Amon",
+                "Constructor": "March",
+                "Time": "1:24.650",
+                "Gap": "+0.750"
+            },
+            {
+                "Pos.": "7",
+                "Driver": "#2Jacky Ickx",
+                "Constructor": "Ferrari",
+                "Time": "1:24.700",
+                "Gap": "+0.800"
+            },
+            {
+                "Pos.": "8",
+                "Driver": "#3Jochen Rindt",
+                "Constructor": "Lotus",
+                "Time": "1:24.800",
+                "Gap": "+0.900"
+            },
+            {
+                "Pos.": "9",
+                "Driver": "#22Henri Pescarolo",
+                "Constructor": "Matra",
+                "Time": "1:24.900",
+                "Gap": "+1.000"
+            },
+            {
+                "Pos.": "10",
+                "Driver": "#15Jackie Oliver",
+                "Constructor": "BRM",
+                "Time": "1:25.000",
+                "Gap": "+1.100"
+            },
+            {
+                "Pos.": "11",
+                "Driver": "#11Bruce McLaren",
+                "Constructor": "McLaren",
+                "Time": "1:25.000",
+                "Gap": "+1.100"
+            },
+            {
+                "Pos.": "12",
+                "Driver": "#8John Surtees",
+                "Constructor": "McLaren",
+                "Time": "1:25.200",
+                "Gap": "+1.300"
+            },
+            {
+                "Pos.": "13",
+                "Driver": "#12Piers Courage",
+                "Constructor": "De Tomaso",
+                "Time": "1:25.400",
+                "Gap": "+1.500"
+            },
+            {
+                "Pos.": "14",
+                "Driver": "#16Johnny Servoz-Gavin",
+                "Constructor": "March",
+                "Time": "1:25.460",
+                "Gap": "+1.560"
+            },
+            {
+                "Pos.": "15",
+                "Driver": "#6Graham Hill",
+                "Constructor": "Lotus",
+                "Time": "1:25.540",
+                "Gap": "+1.640"
+            },
+            {
+                "Pos.": "16",
+                "Driver": "#18Mario Andretti",
+                "Constructor": "March",
+                "Time": "1:25.700",
+                "Gap": "+1.800"
+            },
+            {
+                "Pos.": "17",
+                "Driver": "#24Rolf Stommelen",
+                "Constructor": "Brabham",
+                "Time": "1:26.200",
+                "Gap": "+2.300"
+            },
+            {
+                "Pos.": "18",
+                "Driver": "#20Andrea de Adamich",
+                "Constructor": "McLaren",
+                "Time": "1:25.150",
+                "Gap": "+1.250"
+            },
+            {
+                "Pos.": "19",
+                "Driver": "#19John Miles",
+                "Constructor": "Lotus",
+                "Time": "1:25.300",
+                "Gap": "+1.400"
+            },
+            {
+                "Pos.": "20",
+                "Driver": "#14Jo Siffert",
+                "Constructor": "March",
+                "Time": "1:25.300",
+                "Gap": "+1.400"
+            },
+            {
+                "Pos.": "21",
+                "Driver": "#23Alex Soler-Roig",
+                "Constructor": "Lotus",
+                "Time": "1:25.800",
+                "Gap": "+1.900"
+            },
+            {
+                "Pos.": "22",
+                "Driver": "#21George Eaton",
+                "Constructor": "BRM",
+                "Time": "1:26.400",
+                "Gap": "+2.500"
+            }
+        ],
+        "fastest_laps": [
+            {
+                "Pos.": "1",
+                "Driver": "#7Jack Brabham",
+                "Constructor": "Brabham",
+                "Time": "1:24.300",
+                "Gap": "",
+                "Lap": "19"
+            }
+        ],
+        "driver": [
+            {
+                "Pos.": "1",
+                "Driver": "Jackie Stewart",
+                "Constructor": "March",
+                "Wins": "1",
+                "Podiums": "2",
+                "Points": "13",
+                "Gap": ""
+            },
+            {
+                "Pos.": "2",
+                "Driver": "Jack Brabham",
+                "Constructor": "Brabham",
+                "Wins": "1",
+                "Podiums": "1",
+                "Points": "9",
+                "Gap": "-4"
+            },
+            {
+                "Pos.": "3",
+                "Driver": "Denny Hulme",
+                "Constructor": "McLaren",
+                "Wins": "0",
+                "Podiums": "1",
+                "Points": "6",
+                "Gap": "-7"
+            },
+            {
+                "Pos.": "4",
+                "Driver": "Bruce McLaren",
+                "Constructor": "McLaren",
+                "Wins": "0",
+                "Podiums": "1",
+                "Points": "6",
+                "Gap": "-7"
+            },
+            {
+                "Pos.": "5",
+                "Driver": "Mario Andretti",
+                "Constructor": "March",
+                "Wins": "0",
+                "Podiums": "1",
+                "Points": "4",
+                "Gap": "-9"
+            },
+            {
+                "Pos.": "6",
+                "Driver": "Graham Hill",
+                "Constructor": "Lotus",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "4",
+                "Gap": "-9"
+            },
+            {
+                "Pos.": "7",
+                "Driver": "Jean-Pierre Beltoise",
+                "Constructor": "Matra",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "3",
+                "Gap": "-10"
+            },
+            {
+                "Pos.": "8",
+                "Driver": "John Miles",
+                "Constructor": "Lotus",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "2",
+                "Gap": "-11"
+            },
+            {
+                "Pos.": "9",
+                "Driver": "Johnny Servoz-Gavin",
+                "Constructor": "March",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "2",
+                "Gap": "-11"
+            }
+        ],
+        "constructor": [
+            {
+                "Pos.": "1",
+                "Constructor": "March",
+                "Engine": "Ford",
+                "Wins": "1",
+                "Podiums": "3",
+                "Points": "13",
+                "Gap": ""
+            },
+            {
+                "Pos.": "2",
+                "Constructor": "McLaren",
+                "Engine": "Ford",
+                "Wins": "0",
+                "Podiums": "2",
+                "Points": "12",
+                "Gap": "-1"
+            },
+            {
+                "Pos.": "3",
+                "Constructor": "Brabham",
+                "Engine": "Ford",
+                "Wins": "1",
+                "Podiums": "1",
+                "Points": "9",
+                "Gap": "-4"
+            },
+            {
+                "Pos.": "4",
+                "Constructor": "Lotus",
+                "Engine": "Ford",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "5",
+                "Gap": "-8"
+            },
+            {
+                "Pos.": "5",
+                "Constructor": "Matra",
+                "Engine": "Matra",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "3",
+                "Gap": "-10"
+            },
+            {
+                "Year": "2024",
+                "Winner": "#1Max Verstappen",
+                "2nd": "Lando Norris",
+                "3rd": "Lewis Hamilton",
+                "Fastest lap": "1:17.115 - Lando Norris",
+                "Pole position": "Lando Norris"
+            },
+            {
+                "Year": "2023",
+                "Winner": "#1Max Verstappen",
+                "2nd": "Lewis Hamilton",
+                "3rd": "George Russell",
+                "Fastest lap": "1:16.330 - Max Verstappen",
+                "Pole position": "Max Verstappen"
+            },
+            {
+                "Year": "2022",
+                "Winner": "#1Max Verstappen",
+                "2nd": "Sergio Pérez",
+                "3rd": "George Russell",
+                "Fastest lap": "1:24.108 - Sergio Pérez",
+                "Pole position": "Charles Leclerc"
+            },
+            {
+                "Year": "2021",
+                "Winner": "#44Lewis Hamilton",
+                "2nd": "Max Verstappen",
+                "3rd": "Valtteri Bottas",
+                "Fastest lap": "1:18.149 - Max Verstappen",
+                "Pole position": "Lewis Hamilton"
+            },
+            {
+                "Year": "2020",
+                "Winner": "#44Lewis Hamilton",
+                "2nd": "Max Verstappen",
+                "3rd": "Valtteri Bottas",
+                "Fastest lap": "1:18.183 - Valtteri Bottas",
+                "Pole position": "Lewis Hamilton"
+            },
+            {
+                "Year": "2019",
+                "Winner": "#44Lewis Hamilton",
+                "2nd": "Valtteri Bottas",
+                "3rd": "Max Verstappen",
+                "Fastest lap": "1:18.492 - Lewis Hamilton",
+                "Pole position": "Valtteri Bottas"
+            },
+            {
+                "Year": "2018",
+                "Winner": "#44Lewis Hamilton",
+                "2nd": "Valtteri Bottas",
+                "3rd": "Max Verstappen",
+                "Fastest lap": "1:18.441 - Daniel Ricciardo",
+                "Pole position": "Lewis Hamilton"
+            },
+            {
+                "Year": "2017",
+                "Winner": "#44Lewis Hamilton",
+                "2nd": "Sebastian Vettel",
+                "3rd": "Daniel Ricciardo",
+                "Fastest lap": "1:23.593 - Lewis Hamilton",
+                "Pole position": "Lewis Hamilton"
+            },
+            {
+                "Year": "2016",
+                "Winner": "#33Max Verstappen",
+                "2nd": "Kimi Räikkönen",
+                "3rd": "Sebastian Vettel",
+                "Fastest lap": "1:26.948 - Daniil Kvyat",
+                "Pole position": "Lewis Hamilton"
+            },
+            {
+                "Year": "2015",
+                "Winner": "#6Nico Rosberg",
+                "2nd": "Lewis Hamilton",
+                "3rd": "Sebastian Vettel",
+                "Fastest lap": "1:28.270 - Lewis Hamilton",
+                "Pole position": "Nico Rosberg"
+            },
+            {
+                "Year": "2014",
+                "Winner": "#44Lewis Hamilton",
+                "2nd": "Nico Rosberg",
+                "3rd": "Daniel Ricciardo",
+                "Fastest lap": "1:28.918 - Sebastian Vettel",
+                "Pole position": "Lewis Hamilton"
+            },
+            {
+                "Year": "2013",
+                "Winner": "#3Fernando Alonso",
+                "2nd": "Kimi Räikkönen",
+                "3rd": "Felipe Massa",
+                "Fastest lap": "1:26.217 - Esteban Gutiérrez",
+                "Pole position": "Nico Rosberg"
+            },
+            {
+                "Year": "2012",
+                "Winner": "#18Pastor Maldonado",
+                "2nd": "Fernando Alonso",
+                "3rd": "Kimi Räikkönen",
+                "Fastest lap": "1:26.250 - Romain Grosjean",
+                "Pole position": "Pastor Maldonado"
+            },
+            {
+                "Year": "2011",
+                "Winner": "#1Sebastian Vettel",
+                "2nd": "Lewis Hamilton",
+                "3rd": "Jenson Button",
+                "Fastest lap": "1:26.727 - Lewis Hamilton",
+                "Pole position": "Mark Webber"
+            },
+            {
+                "Year": "2010",
+                "Winner": "#6Mark Webber",
+                "2nd": "Fernando Alonso",
+                "3rd": "Sebastian Vettel",
+                "Fastest lap": "1:24.357 - Lewis Hamilton",
+                "Pole position": "Mark Webber"
+            },
+            {
+                "Year": "2009",
+                "Winner": "#22Jenson Button",
+                "2nd": "Rubens Barrichello",
+                "3rd": "Mark Webber",
+                "Fastest lap": "1:22.762 - Rubens Barrichello",
+                "Pole position": "Jenson Button"
+            },
+            {
+                "Year": "2008",
+                "Winner": "#1Kimi Räikkönen",
+                "2nd": "Felipe Massa",
+                "3rd": "Lewis Hamilton",
+                "Fastest lap": "1:21.670 - Kimi Räikkönen",
+                "Pole position": "Kimi Räikkönen"
+            },
+            {
+                "Year": "2007",
+                "Winner": "#5Felipe Massa",
+                "2nd": "Lewis Hamilton",
+                "3rd": "Fernando Alonso",
+                "Fastest lap": "1:22.680 - Felipe Massa",
+                "Pole position": "Felipe Massa"
+            },
+            {
+                "Year": "2006",
+                "Winner": "#1Fernando Alonso",
+                "2nd": "Michael Schumacher",
+                "3rd": "Giancarlo Fisichella",
+                "Fastest lap": "1:16.648 - Felipe Massa",
+                "Pole position": "Fernando Alonso"
+            },
+            {
+                "Year": "2005",
+                "Winner": "#9Kimi Räikkönen",
+                "2nd": "Fernando Alonso",
+                "3rd": "Jarno Trulli",
+                "Fastest lap": "1:15.641 - Giancarlo Fisichella",
+                "Pole position": "Kimi Räikkönen"
+            },
+            {
+                "Year": "2004",
+                "Winner": "#1Michael Schumacher",
+                "2nd": "Rubens Barrichello",
+                "3rd": "Jarno Trulli",
+                "Fastest lap": "1:17.450 - Michael Schumacher",
+                "Pole position": "Michael Schumacher"
+            },
+            {
+                "Year": "2003",
+                "Winner": "#1Michael Schumacher",
+                "2nd": "Fernando Alonso",
+                "3rd": "Rubens Barrichello",
+                "Fastest lap": "1:20.143 - Rubens Barrichello",
+                "Pole position": "Michael Schumacher"
+            },
+            {
+                "Year": "2002",
+                "Winner": "#1Michael Schumacher",
+                "2nd": "Juan Pablo Montoya",
+                "3rd": "David Coulthard",
+                "Fastest lap": "1:20.355 - Michael Schumacher",
+                "Pole position": "Michael Schumacher"
+            },
+            {
+                "Year": "2001",
+                "Winner": "#1Michael Schumacher",
+                "2nd": "Juan Pablo Montoya",
+                "3rd": "Jacques Villeneuve",
+                "Fastest lap": "1:21.151 - Michael Schumacher",
+                "Pole position": "Michael Schumacher"
+            },
+            {
+                "Year": "2000",
+                "Winner": "#1Mika Häkkinen",
+                "2nd": "David Coulthard",
+                "3rd": "Rubens Barrichello",
+                "Fastest lap": "1:24.470 - Mika Häkkinen",
+                "Pole position": "Michael Schumacher"
+            },
+            {
+                "Year": "1999",
+                "Winner": "#1Mika Häkkinen",
+                "2nd": "David Coulthard",
+                "3rd": "Michael Schumacher",
+                "Fastest lap": "1:24.982 - Michael Schumacher",
+                "Pole position": "Mika Häkkinen"
+            },
+            {
+                "Year": "1998",
+                "Winner": "#8Mika Häkkinen",
+                "2nd": "David Coulthard",
+                "3rd": "Michael Schumacher",
+                "Fastest lap": "1:24.275 - Mika Häkkinen",
+                "Pole position": "Mika Häkkinen"
+            },
+            {
+                "Year": "1997",
+                "Winner": "#3Jacques Villeneuve",
+                "2nd": "Olivier Panis",
+                "3rd": "Jean Alesi",
+                "Fastest lap": "1:22.242 - Giancarlo Fisichella",
+                "Pole position": "Jacques Villeneuve"
+            },
+            {
+                "Year": "1996",
+                "Winner": "#1Michael Schumacher",
+                "2nd": "Jean Alesi",
+                "3rd": "Jacques Villeneuve",
+                "Fastest lap": "1:45.517 - Michael Schumacher",
+                "Pole position": "Damon Hill"
+            },
+            {
+                "Year": "1995",
+                "Winner": "#1Michael Schumacher",
+                "2nd": "Johnny Herbert",
+                "3rd": "Gerhard Berger",
+                "Fastest lap": "1:24.531 - Damon Hill",
+                "Pole position": "Michael Schumacher"
+            },
+            {
+                "Year": "1994",
+                "Winner": "#0Damon Hill",
+                "2nd": "Michael Schumacher",
+                "3rd": "Mark Blundell",
+                "Fastest lap": "1:25.155 - Michael Schumacher",
+                "Pole position": "Michael Schumacher"
+            },
+            {
+                "Year": "1993",
+                "Winner": "#2Alain Prost",
+                "2nd": "Ayrton Senna",
+                "3rd": "Michael Schumacher",
+                "Fastest lap": "1:20.989 - Michael Schumacher",
+                "Pole position": "Alain Prost"
+            },
+            {
+                "Year": "1992",
+                "Winner": "#5Nigel Mansell",
+                "2nd": "Michael Schumacher",
+                "3rd": "Jean Alesi",
+                "Fastest lap": "1:42.503 - Nigel Mansell",
+                "Pole position": "Nigel Mansell"
+            },
+            {
+                "Year": "1991",
+                "Winner": "#5Nigel Mansell",
+                "2nd": "Alain Prost",
+                "3rd": "Riccardo Patrese",
+                "Fastest lap": "1:22.837 - Riccardo Patrese",
+                "Pole position": "Gerhard Berger"
+            },
+            {
+                "Year": "1990",
+                "Winner": "#1Alain Prost",
+                "2nd": "Nigel Mansell",
+                "3rd": "Alessandro Nannini",
+                "Fastest lap": "1:24.513 - Riccardo Patrese",
+                "Pole position": "Ayrton Senna"
+            },
+            {
+                "Year": "1989",
+                "Winner": "#1Ayrton Senna",
+                "2nd": "Gerhard Berger",
+                "3rd": "Alain Prost",
+                "Fastest lap": "1:25.779 - Ayrton Senna",
+                "Pole position": "Ayrton Senna"
+            },
+            {
+                "Year": "1988",
+                "Winner": "#11Alain Prost",
+                "2nd": "Nigel Mansell",
+                "3rd": "Alessandro Nannini",
+                "Fastest lap": "1:27.845 - Alain Prost",
+                "Pole position": "Ayrton Senna"
+            },
+            {
+                "Year": "1987",
+                "Winner": "#5Nigel Mansell",
+                "2nd": "Alain Prost",
+                "3rd": "Stefan Johansson",
+                "Fastest lap": "1:26.986 - Gerhard Berger",
+                "Pole position": "Nelson Piquet"
+            },
+            {
+                "Year": "1986",
+                "Winner": "#12Ayrton Senna",
+                "2nd": "Nigel Mansell",
+                "3rd": "Alain Prost",
+                "Fastest lap": "1:27.176 - Nigel Mansell",
+                "Pole position": "Ayrton Senna"
+            },
+            {
+                "Year": "1981",
+                "Winner": "#27Gilles Villeneuve",
+                "2nd": "Jacques Laffite",
+                "3rd": "John Watson",
+                "Fastest lap": "1:17.818 - Alan Jones",
+                "Pole position": "Jacques Laffite"
+            },
+            {
+                "Year": "1979",
+                "Winner": "#25Patrick Depailler",
+                "2nd": "Carlos Reutemann",
+                "3rd": "Mario Andretti",
+                "Fastest lap": "1:16.440 - Gilles Villeneuve",
+                "Pole position": "Jacques Laffite"
+            },
+            {
+                "Year": "1978",
+                "Winner": "#5Mario Andretti",
+                "2nd": "Ronnie Peterson",
+                "3rd": "Jacques Laffite",
+                "Fastest lap": "1:20.060 - Mario Andretti",
+                "Pole position": "Mario Andretti"
+            },
+            {
+                "Year": "1977",
+                "Winner": "#5Mario Andretti",
+                "2nd": "Carlos Reutemann",
+                "3rd": "Jody Scheckter",
+                "Fastest lap": "1:20.810 - Jacques Laffite",
+                "Pole position": "Mario Andretti"
+            },
+            {
+                "Year": "1976",
+                "Winner": "#11James Hunt",
+                "2nd": "Niki Lauda",
+                "3rd": "Gunnar Nilsson",
+                "Fastest lap": "1:20.930 - Jochen Mass",
+                "Pole position": "James Hunt"
+            },
+            {
+                "Year": "1975",
+                "Winner": "#2Jochen Mass",
+                "2nd": "Jacky Ickx",
+                "3rd": "Carlos Reutemann",
+                "Fastest lap": "1:25.100 - Mario Andretti",
+                "Pole position": "Niki Lauda"
+            },
+            {
+                "Year": "1974",
+                "Winner": "#12Niki Lauda",
+                "2nd": "Clay Regazzoni",
+                "3rd": "Emerson Fittipaldi",
+                "Fastest lap": "1:20.830 - Niki Lauda",
+                "Pole position": "Niki Lauda"
+            },
+            {
+                "Year": "1973",
+                "Winner": "#1Emerson Fittipaldi",
+                "2nd": "François Cevert",
+                "3rd": "George Follmer",
+                "Fastest lap": "1:23.800 - Ronnie Peterson",
+                "Pole position": "Ronnie Peterson"
+            },
+            {
+                "Year": "1972",
+                "Winner": "#5Emerson Fittipaldi",
+                "2nd": "Jacky Ickx",
+                "3rd": "Clay Regazzoni",
+                "Fastest lap": "1:21.010 - Jacky Ickx",
+                "Pole position": "Jacky Ickx"
+            },
+            {
+                "Year": "1971",
+                "Winner": "#11Jackie Stewart",
+                "2nd": "Jacky Ickx",
+                "3rd": "Chris Amon",
+                "Fastest lap": "1:25.100 - Jacky Ickx",
+                "Pole position": "Jacky Ickx"
+            },
+            {
+                "Year": "1969",
+                "Winner": "#7Jackie Stewart",
+                "2nd": "Bruce McLaren",
+                "3rd": "Jean-Pierre Beltoise",
+                "Fastest lap": "1:28.300 - Jochen Rindt",
+                "Pole position": "Jochen Rindt"
+            },
+            {
+                "Year": "1968",
+                "Winner": "#10Graham Hill",
+                "2nd": "Denny Hulme",
+                "3rd": "Brian Redman",
+                "Fastest lap": "1:28.300 - Jean-Pierre Beltoise",
+                "Pole position": "Chris Amon"
+            },
+            {
+                "Year": "1954",
+                "Winner": "#38Mike Hawthorn",
+                "2nd": "Luigi Musso",
+                "3rd": "Juan Manuel Fangio",
+                "Fastest lap": "2:20.400 - Alberto Ascari",
+                "Pole position": "Alberto Ascari"
+            },
+            {
+                "Year": "1951",
+                "Winner": "#22Juan Manuel Fangio",
+                "2nd": "José Froilán González",
+                "3rd": "Nino Farina",
+                "Fastest lap": "2:16.930 - Juan Manuel Fangio",
+                "Pole position": "Alberto Ascari"
+            }
+        ]
+    }
+}

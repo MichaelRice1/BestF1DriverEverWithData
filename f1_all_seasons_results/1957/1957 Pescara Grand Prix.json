@@ -1,0 +1,471 @@
+{
+    "title": "1957 Pescara Grand Prix | Pitwall",
+    "race_name": "1957Pescara Grand Prix",
+    "round": "7/8",
+    "date": "Aug 18, 1957 at 00:00 CET",
+    "location": "Pescara, Italy",
+    "circuit": "Pescara Circuit",
+    "circuit_length": "25.73 m",
+    "race_distance": "463.14 km (18 laps)",
+    "performance": {
+        "winner": "Moss",
+        "winning_time": "2:59:22.700",
+        "pole_position": "Fangio",
+        "fastest_lap": "Moss",
+        "fastest_lap_time": "9:44.600"
+    },
+    "results": {
+        "race": [
+            {
+                "Pos.": "1",
+                "Driver": "#26Stirling Moss",
+                "Constructor": "Vanwall",
+                "Time/Retired": "2:59:22.700",
+                "Grid": "2nd",
+                "Laps": "18",
+                "Points": "9"
+            },
+            {
+                "Pos.": "2",
+                "Driver": "#2Juan Manuel Fangio",
+                "Constructor": "Maserati",
+                "Time/Retired": "+3:13.900",
+                "Grid": "1st",
+                "Laps": "18",
+                "Points": "6"
+            },
+            {
+                "Pos.": "3",
+                "Driver": "#6Harry Schell",
+                "Constructor": "Maserati",
+                "Time/Retired": "+6:46.800",
+                "Grid": "5th",
+                "Laps": "18",
+                "Points": "4"
+            },
+            {
+                "Pos.": "4",
+                "Driver": "#14Masten Gregory",
+                "Constructor": "Maserati",
+                "Time/Retired": "+8:16.500",
+                "Grid": "7th",
+                "Laps": "18",
+                "Points": "3"
+            },
+            {
+                "Pos.": "5",
+                "Driver": "#30Stuart Lewis-Evans",
+                "Constructor": "Vanwall",
+                "Time/Retired": "+1 lap",
+                "Grid": "8th",
+                "Laps": "17",
+                "Points": "2"
+            },
+            {
+                "Pos.": "6",
+                "Driver": "#8Giorgio Scarlatti",
+                "Constructor": "Maserati",
+                "Time/Retired": "+1 lap",
+                "Grid": "10th",
+                "Laps": "17",
+                "Points": ""
+            },
+            {
+                "Pos.": "7",
+                "Driver": "#24Jack Brabham",
+                "Constructor": "Cooper",
+                "Time/Retired": "+3 laps",
+                "Grid": "16th",
+                "Laps": "15",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#10Paco Godia",
+                "Constructor": "Maserati",
+                "Time/Retired": "Engine",
+                "Grid": "12th",
+                "Laps": "10",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#20Bruce Halford",
+                "Constructor": "Maserati",
+                "Time/Retired": "Transmission",
+                "Grid": "14th",
+                "Laps": "9",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#34Luigi Musso",
+                "Constructor": "Ferrari",
+                "Time/Retired": "Oil leak",
+                "Grid": "3rd",
+                "Laps": "9",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#16Jo Bonnier",
+                "Constructor": "Maserati",
+                "Time/Retired": "Overheating",
+                "Grid": "9th",
+                "Laps": "7",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#4Jean Behra",
+                "Constructor": "Maserati",
+                "Time/Retired": "Oil leak",
+                "Grid": "4th",
+                "Laps": "4",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#22Roy Salvadori",
+                "Constructor": "Cooper",
+                "Time/Retired": "Accident",
+                "Grid": "15th",
+                "Laps": "3",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#12Luigi Piotti",
+                "Constructor": "Maserati",
+                "Time/Retired": "Engine",
+                "Grid": "13th",
+                "Laps": "1",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#18Horace Gould",
+                "Constructor": "Maserati",
+                "Time/Retired": "Accident",
+                "Grid": "11th",
+                "Laps": "1",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#28Tony Brooks",
+                "Constructor": "Vanwall",
+                "Time/Retired": "Engine",
+                "Grid": "6th",
+                "Laps": "1",
+                "Points": ""
+            }
+        ],
+        "qualifying": [
+            {
+                "Pos.": "1",
+                "Driver": "#2Juan Manuel Fangio",
+                "Constructor": "Maserati",
+                "Time": "9:44.600",
+                "Gap": ""
+            },
+            {
+                "Pos.": "2",
+                "Driver": "#26Stirling Moss",
+                "Constructor": "Vanwall",
+                "Time": "9:54.700",
+                "Gap": "+10.100"
+            },
+            {
+                "Pos.": "3",
+                "Driver": "#34Luigi Musso",
+                "Constructor": "Ferrari",
+                "Time": "10:00.000",
+                "Gap": "+15.400"
+            },
+            {
+                "Pos.": "4",
+                "Driver": "#4Jean Behra",
+                "Constructor": "Maserati",
+                "Time": "10:03.100",
+                "Gap": "+18.500"
+            },
+            {
+                "Pos.": "5",
+                "Driver": "#6Harry Schell",
+                "Constructor": "Maserati",
+                "Time": "10:04.600",
+                "Gap": "+20.000"
+            },
+            {
+                "Pos.": "6",
+                "Driver": "#28Tony Brooks",
+                "Constructor": "Vanwall",
+                "Time": "10:08.800",
+                "Gap": "+24.200"
+            },
+            {
+                "Pos.": "7",
+                "Driver": "#14Masten Gregory",
+                "Constructor": "Maserati",
+                "Time": "10:26.100",
+                "Gap": "+41.500"
+            },
+            {
+                "Pos.": "8",
+                "Driver": "#30Stuart Lewis-Evans",
+                "Constructor": "Vanwall",
+                "Time": "10:29.600",
+                "Gap": "+45.000"
+            },
+            {
+                "Pos.": "9",
+                "Driver": "#16Jo Bonnier",
+                "Constructor": "Maserati",
+                "Time": "10:36.200",
+                "Gap": "+51.600"
+            },
+            {
+                "Pos.": "10",
+                "Driver": "#8Giorgio Scarlatti",
+                "Constructor": "Maserati",
+                "Time": "10:36.600",
+                "Gap": "+52.000"
+            },
+            {
+                "Pos.": "11",
+                "Driver": "#18Horace Gould",
+                "Constructor": "Maserati",
+                "Time": "10:49.600",
+                "Gap": "+1:05.000"
+            },
+            {
+                "Pos.": "12",
+                "Driver": "#10Paco Godia",
+                "Constructor": "Maserati",
+                "Time": "11:09.800",
+                "Gap": "+1:25.200"
+            },
+            {
+                "Pos.": "13",
+                "Driver": "#12Luigi Piotti",
+                "Constructor": "Maserati",
+                "Time": "11:10.600",
+                "Gap": "+1:26.000"
+            },
+            {
+                "Pos.": "14",
+                "Driver": "#20Bruce Halford",
+                "Constructor": "Maserati",
+                "Time": "11:16.300",
+                "Gap": "+1:31.700"
+            },
+            {
+                "Pos.": "15",
+                "Driver": "#22Roy Salvadori",
+                "Constructor": "Cooper",
+                "Time": "11:24.200",
+                "Gap": "+1:39.600"
+            },
+            {
+                "Pos.": "16",
+                "Driver": "#24Jack Brabham",
+                "Constructor": "Cooper",
+                "Time": "11:35.200",
+                "Gap": "+1:50.600"
+            }
+        ],
+        "fastest_laps": [
+            {
+                "Pos.": "1",
+                "Driver": "#26Stirling Moss",
+                "Constructor": "Vanwall",
+                "Time": "9:44.600",
+                "Gap": "",
+                "Lap": "9"
+            }
+        ],
+        "driver": [
+            {
+                "Pos.": "1",
+                "Driver": "Juan Manuel Fangio",
+                "Constructor": "Maserati",
+                "Wins": "4",
+                "Podiums": "5",
+                "Points": "40",
+                "Gap": ""
+            },
+            {
+                "Pos.": "2",
+                "Driver": "Stirling Moss",
+                "Constructor": "Vanwall",
+                "Wins": "2",
+                "Podiums": "2",
+                "Points": "17",
+                "Gap": "-23"
+            },
+            {
+                "Pos.": "3",
+                "Driver": "Luigi Musso",
+                "Constructor": "Ferrari",
+                "Wins": "0",
+                "Podiums": "2",
+                "Points": "16",
+                "Gap": "-24"
+            },
+            {
+                "Pos.": "4",
+                "Driver": "Mike Hawthorn",
+                "Constructor": "Ferrari",
+                "Wins": "0",
+                "Podiums": "2",
+                "Points": "13",
+                "Gap": "-27"
+            },
+            {
+                "Pos.": "5",
+                "Driver": "Tony Brooks",
+                "Constructor": "Vanwall",
+                "Wins": "1",
+                "Podiums": "2",
+                "Points": "10",
+                "Gap": "-30"
+            },
+            {
+                "Pos.": "6",
+                "Driver": "Harry Schell",
+                "Constructor": "Maserati",
+                "Wins": "0",
+                "Podiums": "1",
+                "Points": "9",
+                "Gap": "-31"
+            },
+            {
+                "Pos.": "7",
+                "Driver": "Sam Hanks",
+                "Constructor": "Epperly",
+                "Wins": "1",
+                "Podiums": "1",
+                "Points": "8",
+                "Gap": "-32"
+            },
+            {
+                "Pos.": "8",
+                "Driver": "Peter Collins",
+                "Constructor": "Ferrari",
+                "Wins": "0",
+                "Podiums": "2",
+                "Points": "8",
+                "Gap": "-32"
+            },
+            {
+                "Pos.": "9",
+                "Driver": "Jim Rathmann",
+                "Constructor": "Epperly",
+                "Wins": "0",
+                "Podiums": "1",
+                "Points": "7",
+                "Gap": "-33"
+            },
+            {
+                "Pos.": "10",
+                "Driver": "Masten Gregory",
+                "Constructor": "Maserati",
+                "Wins": "0",
+                "Podiums": "1",
+                "Points": "7",
+                "Gap": "-33"
+            },
+            {
+                "Pos.": "11",
+                "Driver": "Jean Behra",
+                "Constructor": "Maserati",
+                "Wins": "0",
+                "Podiums": "1",
+                "Points": "6",
+                "Gap": "-34"
+            },
+            {
+                "Pos.": "12",
+                "Driver": "Maurice Trintignant",
+                "Constructor": "Ferrari",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "5",
+                "Gap": "-35"
+            },
+            {
+                "Pos.": "13",
+                "Driver": "Stuart Lewis-Evans",
+                "Constructor": "Vanwall",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "5",
+                "Gap": "-35"
+            },
+            {
+                "Pos.": "14",
+                "Driver": "Carlos Menditéguy",
+                "Constructor": "Maserati",
+                "Wins": "0",
+                "Podiums": "1",
+                "Points": "4",
+                "Gap": "-36"
+            },
+            {
+                "Pos.": "15",
+                "Driver": "Jimmy Bryan",
+                "Constructor": "Kuzma",
+                "Wins": "0",
+                "Podiums": "1",
+                "Points": "4",
+                "Gap": "-36"
+            },
+            {
+                "Pos.": "16",
+                "Driver": "Paul Russo",
+                "Constructor": "Kurtis",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "3",
+                "Gap": "-37"
+            },
+            {
+                "Pos.": "17",
+                "Driver": "Andy Linden",
+                "Constructor": "Kurtis",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "2",
+                "Gap": "-38"
+            },
+            {
+                "Pos.": "18",
+                "Driver": "Roy Salvadori",
+                "Constructor": "Cooper",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "2",
+                "Gap": "-38"
+            },
+            {
+                "Pos.": "19",
+                "Driver": "Alfonso de Portago",
+                "Constructor": "Ferrari",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "1",
+                "Gap": "-39"
+            },
+            {
+                "Pos.": "20",
+                "Driver": "José Froilán González",
+                "Constructor": "Ferrari",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "1",
+                "Gap": "-39"
+            }
+        ]
+    }
+}

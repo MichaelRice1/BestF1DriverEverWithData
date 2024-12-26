@@ -1,0 +1,1890 @@
+{
+    "title": "2002 German Grand Prix | Pitwall",
+    "race_name": "2002German Grand Prix",
+    "round": "12/17",
+    "date": "Jul 28, 2002 at 00:00 CEST",
+    "location": "Hockenheim, Germany",
+    "circuit": "Hockenheimring",
+    "circuit_length": "4.574 m",
+    "race_distance": "306.458 km (67 laps)",
+    "performance": {
+        "winner": "Schumacher",
+        "winning_time": "1:27:52.078",
+        "pole_position": "Schumacher",
+        "fastest_lap": "Schumacher",
+        "fastest_lap_time": "1:16.462"
+    },
+    "results": {
+        "race": [
+            {
+                "Pos.": "1",
+                "Driver": "#1Michael Schumacher",
+                "Constructor": "Ferrari",
+                "Time/Retired": "1:27:52.078",
+                "Grid": "1st",
+                "Laps": "67",
+                "Points": "10"
+            },
+            {
+                "Pos.": "2",
+                "Driver": "#6Juan Pablo Montoya",
+                "Constructor": "Williams",
+                "Time/Retired": "+10.503",
+                "Grid": "4th",
+                "Laps": "67",
+                "Points": "6"
+            },
+            {
+                "Pos.": "3",
+                "Driver": "#5Ralf Schumacher",
+                "Constructor": "Williams",
+                "Time/Retired": "+14.466",
+                "Grid": "2nd",
+                "Laps": "67",
+                "Points": "4"
+            },
+            {
+                "Pos.": "4",
+                "Driver": "#2Rubens Barrichello",
+                "Constructor": "Ferrari",
+                "Time/Retired": "+23.195",
+                "Grid": "3rd",
+                "Laps": "67",
+                "Points": "3"
+            },
+            {
+                "Pos.": "5",
+                "Driver": "#3David Coulthard",
+                "Constructor": "McLaren",
+                "Time/Retired": "+1 lap",
+                "Grid": "9th",
+                "Laps": "66",
+                "Points": "2"
+            },
+            {
+                "Pos.": "6",
+                "Driver": "#7Nick Heidfeld",
+                "Constructor": "Sauber",
+                "Time/Retired": "+1 lap",
+                "Grid": "10th",
+                "Laps": "66",
+                "Points": "1"
+            },
+            {
+                "Pos.": "7",
+                "Driver": "#8Felipe Massa",
+                "Constructor": "Sauber",
+                "Time/Retired": "+1 lap",
+                "Grid": "14th",
+                "Laps": "66",
+                "Points": ""
+            },
+            {
+                "Pos.": "8",
+                "Driver": "#10Takuma Sato",
+                "Constructor": "Jordan",
+                "Time/Retired": "+1 lap",
+                "Grid": "12th",
+                "Laps": "66",
+                "Points": ""
+            },
+            {
+                "Pos.": "9",
+                "Driver": "#24Mika Salo",
+                "Constructor": "Toyota",
+                "Time/Retired": "+1 lap",
+                "Grid": "19th",
+                "Laps": "66",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#9Giancarlo Fisichella",
+                "Constructor": "Jordan",
+                "Time/Retired": "Engine",
+                "Grid": "6th",
+                "Laps": "59",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#4Kimi Räikkönen",
+                "Constructor": "McLaren",
+                "Time/Retired": "Spun off",
+                "Grid": "5th",
+                "Laps": "59",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#16Eddie Irvine",
+                "Constructor": "Jaguar",
+                "Time/Retired": "Brakes",
+                "Grid": "16th",
+                "Laps": "57",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#21Enrique Bernoldi",
+                "Constructor": "Arrows",
+                "Time/Retired": "Engine",
+                "Grid": "18th",
+                "Laps": "48",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#12Olivier Panis",
+                "Constructor": "BAR",
+                "Time/Retired": "Engine",
+                "Grid": "7th",
+                "Laps": "39",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#14Jarno Trulli",
+                "Constructor": "Renault",
+                "Time/Retired": "Spun off",
+                "Grid": "8th",
+                "Laps": "36",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#11Jacques Villeneuve",
+                "Constructor": "BAR",
+                "Time/Retired": "Gearbox",
+                "Grid": "11th",
+                "Laps": "27",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#15Jenson Button",
+                "Constructor": "Renault",
+                "Time/Retired": "Engine",
+                "Grid": "13th",
+                "Laps": "24",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#25Allan McNish",
+                "Constructor": "Toyota",
+                "Time/Retired": "Engine",
+                "Grid": "17th",
+                "Laps": "23",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#23Mark Webber",
+                "Constructor": "Minardi",
+                "Time/Retired": "Hydraulics",
+                "Grid": "21st",
+                "Laps": "23",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#20Heinz-Harald Frentzen",
+                "Constructor": "Arrows",
+                "Time/Retired": "Hydraulics",
+                "Grid": "15th",
+                "Laps": "18",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#17Pedro de la Rosa",
+                "Constructor": "Jaguar",
+                "Time/Retired": "Transmission",
+                "Grid": "20th",
+                "Laps": "0",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNQ",
+                "Driver": "#22Alex Yoong",
+                "Constructor": "Minardi",
+                "Time/Retired": "",
+                "Grid": "",
+                "Laps": "",
+                "Points": ""
+            }
+        ],
+        "warming_up": [
+            {
+                "Pos.": "1",
+                "Driver": "#1Michael Schumacher",
+                "Constructor": "Ferrari",
+                "Time": "1:16.726",
+                "Gap": "",
+                "Laps": "13"
+            },
+            {
+                "Pos.": "2",
+                "Driver": "#2Rubens Barrichello",
+                "Constructor": "Ferrari",
+                "Time": "1:17.240",
+                "Gap": "+0.514",
+                "Laps": "16"
+            },
+            {
+                "Pos.": "3",
+                "Driver": "#9Giancarlo Fisichella",
+                "Constructor": "Jordan",
+                "Time": "1:17.290",
+                "Gap": "+0.564",
+                "Laps": "17"
+            },
+            {
+                "Pos.": "4",
+                "Driver": "#12Olivier Panis",
+                "Constructor": "BAR",
+                "Time": "1:17.326",
+                "Gap": "+0.600",
+                "Laps": "13"
+            },
+            {
+                "Pos.": "5",
+                "Driver": "#10Takuma Sato",
+                "Constructor": "Jordan",
+                "Time": "1:17.544",
+                "Gap": "+0.818",
+                "Laps": "14"
+            },
+            {
+                "Pos.": "6",
+                "Driver": "#7Nick Heidfeld",
+                "Constructor": "Sauber",
+                "Time": "1:17.711",
+                "Gap": "+0.985",
+                "Laps": "14"
+            },
+            {
+                "Pos.": "7",
+                "Driver": "#3David Coulthard",
+                "Constructor": "McLaren",
+                "Time": "1:17.880",
+                "Gap": "+1.154",
+                "Laps": "10"
+            },
+            {
+                "Pos.": "8",
+                "Driver": "#5Ralf Schumacher",
+                "Constructor": "Williams",
+                "Time": "1:17.893",
+                "Gap": "+1.167",
+                "Laps": "15"
+            },
+            {
+                "Pos.": "9",
+                "Driver": "#4Kimi Räikkönen",
+                "Constructor": "McLaren",
+                "Time": "1:17.963",
+                "Gap": "+1.237",
+                "Laps": "10"
+            },
+            {
+                "Pos.": "10",
+                "Driver": "#6Juan Pablo Montoya",
+                "Constructor": "Williams",
+                "Time": "1:17.972",
+                "Gap": "+1.246",
+                "Laps": "8"
+            },
+            {
+                "Pos.": "11",
+                "Driver": "#8Felipe Massa",
+                "Constructor": "Sauber",
+                "Time": "1:18.033",
+                "Gap": "+1.307",
+                "Laps": "14"
+            },
+            {
+                "Pos.": "12",
+                "Driver": "#21Enrique Bernoldi",
+                "Constructor": "Arrows",
+                "Time": "1:18.226",
+                "Gap": "+1.500",
+                "Laps": "14"
+            },
+            {
+                "Pos.": "13",
+                "Driver": "#14Jarno Trulli",
+                "Constructor": "Renault",
+                "Time": "1:18.295",
+                "Gap": "+1.569",
+                "Laps": "15"
+            },
+            {
+                "Pos.": "14",
+                "Driver": "#16Eddie Irvine",
+                "Constructor": "Jaguar",
+                "Time": "1:18.348",
+                "Gap": "+1.622",
+                "Laps": "15"
+            },
+            {
+                "Pos.": "15",
+                "Driver": "#17Pedro de la Rosa",
+                "Constructor": "Jaguar",
+                "Time": "1:18.420",
+                "Gap": "+1.694",
+                "Laps": "15"
+            },
+            {
+                "Pos.": "16",
+                "Driver": "#24Mika Salo",
+                "Constructor": "Toyota",
+                "Time": "1:18.653",
+                "Gap": "+1.927",
+                "Laps": "15"
+            },
+            {
+                "Pos.": "17",
+                "Driver": "#11Jacques Villeneuve",
+                "Constructor": "BAR",
+                "Time": "1:18.765",
+                "Gap": "+2.039",
+                "Laps": "15"
+            },
+            {
+                "Pos.": "18",
+                "Driver": "#15Jenson Button",
+                "Constructor": "Renault",
+                "Time": "1:18.791",
+                "Gap": "+2.065",
+                "Laps": "11"
+            },
+            {
+                "Pos.": "19",
+                "Driver": "#25Allan McNish",
+                "Constructor": "Toyota",
+                "Time": "1:19.318",
+                "Gap": "+2.592",
+                "Laps": "11"
+            },
+            {
+                "Pos.": "20",
+                "Driver": "#20Heinz-Harald Frentzen",
+                "Constructor": "Arrows",
+                "Time": "1:19.910",
+                "Gap": "+3.184",
+                "Laps": "12"
+            },
+            {
+                "Pos.": "21",
+                "Driver": "#23Mark Webber",
+                "Constructor": "Minardi",
+                "Time": "1:20.158",
+                "Gap": "+3.432",
+                "Laps": "15"
+            }
+        ],
+        "qualifying": [
+            {
+                "Pos.": "1",
+                "Driver": "#1Michael Schumacher",
+                "Constructor": "Ferrari",
+                "Time": "1:14.389",
+                "Gap": "",
+                "Laps": "11"
+            },
+            {
+                "Pos.": "2",
+                "Driver": "#5Ralf Schumacher",
+                "Constructor": "Williams",
+                "Time": "1:14.570",
+                "Gap": "+0.181",
+                "Laps": "12"
+            },
+            {
+                "Pos.": "3",
+                "Driver": "#2Rubens Barrichello",
+                "Constructor": "Ferrari",
+                "Time": "1:14.693",
+                "Gap": "+0.304",
+                "Laps": "12"
+            },
+            {
+                "Pos.": "4",
+                "Driver": "#6Juan Pablo Montoya",
+                "Constructor": "Williams",
+                "Time": "1:15.108",
+                "Gap": "+0.719",
+                "Laps": "11"
+            },
+            {
+                "Pos.": "5",
+                "Driver": "#4Kimi Räikkönen",
+                "Constructor": "McLaren",
+                "Time": "1:15.639",
+                "Gap": "+1.250",
+                "Laps": "11"
+            },
+            {
+                "Pos.": "6",
+                "Driver": "#9Giancarlo Fisichella",
+                "Constructor": "Jordan",
+                "Time": "1:15.690",
+                "Gap": "+1.301",
+                "Laps": "12"
+            },
+            {
+                "Pos.": "7",
+                "Driver": "#12Olivier Panis",
+                "Constructor": "BAR",
+                "Time": "1:15.851",
+                "Gap": "+1.462",
+                "Laps": "12"
+            },
+            {
+                "Pos.": "8",
+                "Driver": "#14Jarno Trulli",
+                "Constructor": "Renault",
+                "Time": "1:15.885",
+                "Gap": "+1.496",
+                "Laps": "12"
+            },
+            {
+                "Pos.": "9",
+                "Driver": "#3David Coulthard",
+                "Constructor": "McLaren",
+                "Time": "1:15.909",
+                "Gap": "+1.520",
+                "Laps": "12"
+            },
+            {
+                "Pos.": "10",
+                "Driver": "#7Nick Heidfeld",
+                "Constructor": "Sauber",
+                "Time": "1:15.990",
+                "Gap": "+1.601",
+                "Laps": "12"
+            },
+            {
+                "Pos.": "11",
+                "Driver": "#11Jacques Villeneuve",
+                "Constructor": "BAR",
+                "Time": "1:16.070",
+                "Gap": "+1.681",
+                "Laps": "11"
+            },
+            {
+                "Pos.": "12",
+                "Driver": "#10Takuma Sato",
+                "Constructor": "Jordan",
+                "Time": "1:16.072",
+                "Gap": "+1.683",
+                "Laps": "12"
+            },
+            {
+                "Pos.": "13",
+                "Driver": "#15Jenson Button",
+                "Constructor": "Renault",
+                "Time": "1:16.278",
+                "Gap": "+1.889",
+                "Laps": "12"
+            },
+            {
+                "Pos.": "14",
+                "Driver": "#8Felipe Massa",
+                "Constructor": "Sauber",
+                "Time": "1:16.351",
+                "Gap": "+1.962",
+                "Laps": "11"
+            },
+            {
+                "Pos.": "15",
+                "Driver": "#20Heinz-Harald Frentzen",
+                "Constructor": "Arrows",
+                "Time": "1:16.505",
+                "Gap": "+2.116",
+                "Laps": "12"
+            },
+            {
+                "Pos.": "16",
+                "Driver": "#16Eddie Irvine",
+                "Constructor": "Jaguar",
+                "Time": "1:16.533",
+                "Gap": "+2.144",
+                "Laps": "12"
+            },
+            {
+                "Pos.": "17",
+                "Driver": "#25Allan McNish",
+                "Constructor": "Toyota",
+                "Time": "1:16.594",
+                "Gap": "+2.205",
+                "Laps": "12"
+            },
+            {
+                "Pos.": "18",
+                "Driver": "#21Enrique Bernoldi",
+                "Constructor": "Arrows",
+                "Time": "1:16.645",
+                "Gap": "+2.256",
+                "Laps": "12"
+            },
+            {
+                "Pos.": "19",
+                "Driver": "#24Mika Salo",
+                "Constructor": "Toyota",
+                "Time": "1:16.685",
+                "Gap": "+2.296",
+                "Laps": "11"
+            },
+            {
+                "Pos.": "20",
+                "Driver": "#17Pedro de la Rosa",
+                "Constructor": "Jaguar",
+                "Time": "1:17.077",
+                "Gap": "+2.688",
+                "Laps": "12"
+            },
+            {
+                "Pos.": "21",
+                "Driver": "#23Mark Webber",
+                "Constructor": "Minardi",
+                "Time": "1:17.996",
+                "Gap": "+3.607",
+                "Laps": "11"
+            },
+            {
+                "Pos.": "22",
+                "Driver": "#22Alex Yoong",
+                "Constructor": "Minardi",
+                "Time": "1:19.775",
+                "Gap": "+5.386",
+                "Laps": "12"
+            }
+        ],
+        "free_practice_2": [
+            {
+                "Pos.": "1",
+                "Driver": "#1Michael Schumacher",
+                "Constructor": "Ferrari",
+                "Time": "1:14.487",
+                "Gap": "",
+                "Laps": "29"
+            },
+            {
+                "Pos.": "2",
+                "Driver": "#5Ralf Schumacher",
+                "Constructor": "Williams",
+                "Time": "1:15.154",
+                "Gap": "+0.667",
+                "Laps": "30"
+            },
+            {
+                "Pos.": "3",
+                "Driver": "#2Rubens Barrichello",
+                "Constructor": "Ferrari",
+                "Time": "1:15.459",
+                "Gap": "+0.972",
+                "Laps": "15"
+            },
+            {
+                "Pos.": "4",
+                "Driver": "#6Juan Pablo Montoya",
+                "Constructor": "Williams",
+                "Time": "1:15.472",
+                "Gap": "+0.985",
+                "Laps": "31"
+            },
+            {
+                "Pos.": "5",
+                "Driver": "#7Nick Heidfeld",
+                "Constructor": "Sauber",
+                "Time": "1:15.862",
+                "Gap": "+1.375",
+                "Laps": "23"
+            },
+            {
+                "Pos.": "6",
+                "Driver": "#8Felipe Massa",
+                "Constructor": "Sauber",
+                "Time": "1:15.997",
+                "Gap": "+1.510",
+                "Laps": "27"
+            },
+            {
+                "Pos.": "7",
+                "Driver": "#9Giancarlo Fisichella",
+                "Constructor": "Jordan",
+                "Time": "1:16.093",
+                "Gap": "+1.606",
+                "Laps": "32"
+            },
+            {
+                "Pos.": "8",
+                "Driver": "#24Mika Salo",
+                "Constructor": "Toyota",
+                "Time": "1:16.195",
+                "Gap": "+1.708",
+                "Laps": "29"
+            },
+            {
+                "Pos.": "9",
+                "Driver": "#3David Coulthard",
+                "Constructor": "McLaren",
+                "Time": "1:16.206",
+                "Gap": "+1.719",
+                "Laps": "29"
+            },
+            {
+                "Pos.": "10",
+                "Driver": "#25Allan McNish",
+                "Constructor": "Toyota",
+                "Time": "1:16.399",
+                "Gap": "+1.912",
+                "Laps": "29"
+            },
+            {
+                "Pos.": "11",
+                "Driver": "#14Jarno Trulli",
+                "Constructor": "Renault",
+                "Time": "1:16.403",
+                "Gap": "+1.916",
+                "Laps": "33"
+            },
+            {
+                "Pos.": "12",
+                "Driver": "#4Kimi Räikkönen",
+                "Constructor": "McLaren",
+                "Time": "1:16.482",
+                "Gap": "+1.995",
+                "Laps": "26"
+            },
+            {
+                "Pos.": "13",
+                "Driver": "#10Takuma Sato",
+                "Constructor": "Jordan",
+                "Time": "1:16.494",
+                "Gap": "+2.007",
+                "Laps": "28"
+            },
+            {
+                "Pos.": "14",
+                "Driver": "#12Olivier Panis",
+                "Constructor": "BAR",
+                "Time": "1:16.694",
+                "Gap": "+2.207",
+                "Laps": "35"
+            },
+            {
+                "Pos.": "15",
+                "Driver": "#16Eddie Irvine",
+                "Constructor": "Jaguar",
+                "Time": "1:16.876",
+                "Gap": "+2.389",
+                "Laps": "31"
+            },
+            {
+                "Pos.": "16",
+                "Driver": "#11Jacques Villeneuve",
+                "Constructor": "BAR",
+                "Time": "1:16.938",
+                "Gap": "+2.451",
+                "Laps": "36"
+            },
+            {
+                "Pos.": "17",
+                "Driver": "#20Heinz-Harald Frentzen",
+                "Constructor": "Arrows",
+                "Time": "1:17.163",
+                "Gap": "+2.676",
+                "Laps": "24"
+            },
+            {
+                "Pos.": "18",
+                "Driver": "#17Pedro de la Rosa",
+                "Constructor": "Jaguar",
+                "Time": "1:17.218",
+                "Gap": "+2.731",
+                "Laps": "31"
+            },
+            {
+                "Pos.": "19",
+                "Driver": "#21Enrique Bernoldi",
+                "Constructor": "Arrows",
+                "Time": "1:17.258",
+                "Gap": "+2.771",
+                "Laps": "33"
+            },
+            {
+                "Pos.": "20",
+                "Driver": "#15Jenson Button",
+                "Constructor": "Renault",
+                "Time": "1:17.455",
+                "Gap": "+2.968",
+                "Laps": "14"
+            },
+            {
+                "Pos.": "21",
+                "Driver": "#23Mark Webber",
+                "Constructor": "Minardi",
+                "Time": "1:18.291",
+                "Gap": "+3.804",
+                "Laps": "36"
+            },
+            {
+                "Pos.": "22",
+                "Driver": "#22Alex Yoong",
+                "Constructor": "Minardi",
+                "Time": "1:20.314",
+                "Gap": "+5.827",
+                "Laps": "25"
+            }
+        ],
+        "free_practice_1": [
+            {
+                "Pos.": "1",
+                "Driver": "#1Michael Schumacher",
+                "Constructor": "Ferrari",
+                "Time": "1:16.086",
+                "Gap": "",
+                "Laps": "45"
+            },
+            {
+                "Pos.": "2",
+                "Driver": "#2Rubens Barrichello",
+                "Constructor": "Ferrari",
+                "Time": "1:16.248",
+                "Gap": "+0.162",
+                "Laps": "49"
+            },
+            {
+                "Pos.": "3",
+                "Driver": "#4Kimi Räikkönen",
+                "Constructor": "McLaren",
+                "Time": "1:16.344",
+                "Gap": "+0.258",
+                "Laps": "34"
+            },
+            {
+                "Pos.": "4",
+                "Driver": "#3David Coulthard",
+                "Constructor": "McLaren",
+                "Time": "1:16.440",
+                "Gap": "+0.354",
+                "Laps": "29"
+            },
+            {
+                "Pos.": "5",
+                "Driver": "#5Ralf Schumacher",
+                "Constructor": "Williams",
+                "Time": "1:16.934",
+                "Gap": "+0.848",
+                "Laps": "48"
+            },
+            {
+                "Pos.": "6",
+                "Driver": "#16Eddie Irvine",
+                "Constructor": "Jaguar",
+                "Time": "1:17.136",
+                "Gap": "+1.050",
+                "Laps": "38"
+            },
+            {
+                "Pos.": "7",
+                "Driver": "#6Juan Pablo Montoya",
+                "Constructor": "Williams",
+                "Time": "1:17.187",
+                "Gap": "+1.101",
+                "Laps": "49"
+            },
+            {
+                "Pos.": "8",
+                "Driver": "#8Felipe Massa",
+                "Constructor": "Sauber",
+                "Time": "1:17.361",
+                "Gap": "+1.275",
+                "Laps": "47"
+            },
+            {
+                "Pos.": "9",
+                "Driver": "#25Allan McNish",
+                "Constructor": "Toyota",
+                "Time": "1:17.422",
+                "Gap": "+1.336",
+                "Laps": "46"
+            },
+            {
+                "Pos.": "10",
+                "Driver": "#20Heinz-Harald Frentzen",
+                "Constructor": "Arrows",
+                "Time": "1:17.471",
+                "Gap": "+1.385",
+                "Laps": "40"
+            },
+            {
+                "Pos.": "11",
+                "Driver": "#21Enrique Bernoldi",
+                "Constructor": "Arrows",
+                "Time": "1:17.481",
+                "Gap": "+1.395",
+                "Laps": "39"
+            },
+            {
+                "Pos.": "12",
+                "Driver": "#12Olivier Panis",
+                "Constructor": "BAR",
+                "Time": "1:17.482",
+                "Gap": "+1.396",
+                "Laps": "34"
+            },
+            {
+                "Pos.": "13",
+                "Driver": "#7Nick Heidfeld",
+                "Constructor": "Sauber",
+                "Time": "1:17.573",
+                "Gap": "+1.487",
+                "Laps": "45"
+            },
+            {
+                "Pos.": "14",
+                "Driver": "#10Takuma Sato",
+                "Constructor": "Jordan",
+                "Time": "1:17.684",
+                "Gap": "+1.598",
+                "Laps": "49"
+            },
+            {
+                "Pos.": "15",
+                "Driver": "#17Pedro de la Rosa",
+                "Constructor": "Jaguar",
+                "Time": "1:17.732",
+                "Gap": "+1.646",
+                "Laps": "25"
+            },
+            {
+                "Pos.": "16",
+                "Driver": "#9Giancarlo Fisichella",
+                "Constructor": "Jordan",
+                "Time": "1:17.805",
+                "Gap": "+1.719",
+                "Laps": "33"
+            },
+            {
+                "Pos.": "17",
+                "Driver": "#11Jacques Villeneuve",
+                "Constructor": "BAR",
+                "Time": "1:17.954",
+                "Gap": "+1.868",
+                "Laps": "52"
+            },
+            {
+                "Pos.": "18",
+                "Driver": "#24Mika Salo",
+                "Constructor": "Toyota",
+                "Time": "1:18.023",
+                "Gap": "+1.937",
+                "Laps": "44"
+            },
+            {
+                "Pos.": "19",
+                "Driver": "#15Jenson Button",
+                "Constructor": "Renault",
+                "Time": "1:18.211",
+                "Gap": "+2.125",
+                "Laps": "44"
+            },
+            {
+                "Pos.": "20",
+                "Driver": "#14Jarno Trulli",
+                "Constructor": "Renault",
+                "Time": "1:18.658",
+                "Gap": "+2.572",
+                "Laps": "25"
+            },
+            {
+                "Pos.": "21",
+                "Driver": "#23Mark Webber",
+                "Constructor": "Minardi",
+                "Time": "1:19.594",
+                "Gap": "+3.508",
+                "Laps": "32"
+            },
+            {
+                "Pos.": "22",
+                "Driver": "#22Alex Yoong",
+                "Constructor": "Minardi",
+                "Time": "1:20.164",
+                "Gap": "+4.078",
+                "Laps": "29"
+            }
+        ],
+        "fastest_laps": [
+            {
+                "Pos.": "1",
+                "Driver": "#1Michael Schumacher",
+                "Constructor": "Ferrari",
+                "Time": "1:16.462",
+                "Gap": "",
+                "Lap": "44"
+            },
+            {
+                "Pos.": "2",
+                "Driver": "#5Ralf Schumacher",
+                "Constructor": "Williams",
+                "Time": "1:16.513",
+                "Gap": "+0.051",
+                "Lap": "47"
+            },
+            {
+                "Pos.": "3",
+                "Driver": "#6Juan Pablo Montoya",
+                "Constructor": "Williams",
+                "Time": "1:16.693",
+                "Gap": "+0.231",
+                "Lap": "33"
+            },
+            {
+                "Pos.": "4",
+                "Driver": "#2Rubens Barrichello",
+                "Constructor": "Ferrari",
+                "Time": "1:16.845",
+                "Gap": "+0.383",
+                "Lap": "45"
+            },
+            {
+                "Pos.": "5",
+                "Driver": "#3David Coulthard",
+                "Constructor": "McLaren",
+                "Time": "1:17.530",
+                "Gap": "+1.068",
+                "Lap": "43"
+            },
+            {
+                "Pos.": "6",
+                "Driver": "#4Kimi Räikkönen",
+                "Constructor": "McLaren",
+                "Time": "1:17.895",
+                "Gap": "+1.433",
+                "Lap": "24"
+            },
+            {
+                "Pos.": "7",
+                "Driver": "#9Giancarlo Fisichella",
+                "Constructor": "Jordan",
+                "Time": "1:18.053",
+                "Gap": "+1.591",
+                "Lap": "44"
+            },
+            {
+                "Pos.": "8",
+                "Driver": "#7Nick Heidfeld",
+                "Constructor": "Sauber",
+                "Time": "1:18.062",
+                "Gap": "+1.600",
+                "Lap": "46"
+            },
+            {
+                "Pos.": "9",
+                "Driver": "#14Jarno Trulli",
+                "Constructor": "Renault",
+                "Time": "1:18.280",
+                "Gap": "+1.818",
+                "Lap": "35"
+            },
+            {
+                "Pos.": "10",
+                "Driver": "#12Olivier Panis",
+                "Constructor": "BAR",
+                "Time": "1:18.405",
+                "Gap": "+1.943",
+                "Lap": "27"
+            },
+            {
+                "Pos.": "11",
+                "Driver": "#10Takuma Sato",
+                "Constructor": "Jordan",
+                "Time": "1:18.448",
+                "Gap": "+1.986",
+                "Lap": "43"
+            },
+            {
+                "Pos.": "12",
+                "Driver": "#24Mika Salo",
+                "Constructor": "Toyota",
+                "Time": "1:18.497",
+                "Gap": "+2.035",
+                "Lap": "45"
+            },
+            {
+                "Pos.": "13",
+                "Driver": "#8Felipe Massa",
+                "Constructor": "Sauber",
+                "Time": "1:18.562",
+                "Gap": "+2.100",
+                "Lap": "44"
+            },
+            {
+                "Pos.": "14",
+                "Driver": "#16Eddie Irvine",
+                "Constructor": "Jaguar",
+                "Time": "1:18.859",
+                "Gap": "+2.397",
+                "Lap": "16"
+            },
+            {
+                "Pos.": "15",
+                "Driver": "#21Enrique Bernoldi",
+                "Constructor": "Arrows",
+                "Time": "1:19.084",
+                "Gap": "+2.622",
+                "Lap": "43"
+            },
+            {
+                "Pos.": "16",
+                "Driver": "#11Jacques Villeneuve",
+                "Constructor": "BAR",
+                "Time": "1:19.400",
+                "Gap": "+2.938",
+                "Lap": "22"
+            },
+            {
+                "Pos.": "17",
+                "Driver": "#23Mark Webber",
+                "Constructor": "Minardi",
+                "Time": "1:19.485",
+                "Gap": "+3.023",
+                "Lap": "22"
+            },
+            {
+                "Pos.": "18",
+                "Driver": "#25Allan McNish",
+                "Constructor": "Toyota",
+                "Time": "1:19.587",
+                "Gap": "+3.125",
+                "Lap": "17"
+            },
+            {
+                "Pos.": "19",
+                "Driver": "#15Jenson Button",
+                "Constructor": "Renault",
+                "Time": "1:19.695",
+                "Gap": "+3.233",
+                "Lap": "23"
+            },
+            {
+                "Pos.": "20",
+                "Driver": "#20Heinz-Harald Frentzen",
+                "Constructor": "Arrows",
+                "Time": "1:19.995",
+                "Gap": "+3.533",
+                "Lap": "16"
+            }
+        ],
+        "driver": [
+            {
+                "Pos.": "1",
+                "Driver": "Michael Schumacher",
+                "Constructor": "Ferrari",
+                "Wins": "9",
+                "Podiums": "12",
+                "Points": "106",
+                "Gap": ""
+            },
+            {
+                "Pos.": "2",
+                "Driver": "Juan Pablo Montoya",
+                "Constructor": "Williams",
+                "Wins": "0",
+                "Podiums": "6",
+                "Points": "40",
+                "Gap": "-66"
+            },
+            {
+                "Pos.": "3",
+                "Driver": "Ralf Schumacher",
+                "Constructor": "Williams",
+                "Wins": "1",
+                "Podiums": "5",
+                "Points": "36",
+                "Gap": "-70"
+            },
+            {
+                "Pos.": "4",
+                "Driver": "Rubens Barrichello",
+                "Constructor": "Ferrari",
+                "Wins": "1",
+                "Podiums": "5",
+                "Points": "35",
+                "Gap": "-71"
+            },
+            {
+                "Pos.": "5",
+                "Driver": "David Coulthard",
+                "Constructor": "McLaren",
+                "Wins": "1",
+                "Podiums": "5",
+                "Points": "32",
+                "Gap": "-74"
+            },
+            {
+                "Pos.": "6",
+                "Driver": "Kimi Räikkönen",
+                "Constructor": "McLaren",
+                "Wins": "0",
+                "Podiums": "3",
+                "Points": "17",
+                "Gap": "-89"
+            },
+            {
+                "Pos.": "7",
+                "Driver": "Jenson Button",
+                "Constructor": "Renault",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "11",
+                "Gap": "-95"
+            },
+            {
+                "Pos.": "8",
+                "Driver": "Nick Heidfeld",
+                "Constructor": "Sauber",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "7",
+                "Gap": "-99"
+            },
+            {
+                "Pos.": "9",
+                "Driver": "Giancarlo Fisichella",
+                "Constructor": "Jordan",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "6",
+                "Gap": "-100"
+            },
+            {
+                "Pos.": "10",
+                "Driver": "Jarno Trulli",
+                "Constructor": "Renault",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "4",
+                "Gap": "-102"
+            },
+            {
+                "Pos.": "11",
+                "Driver": "Felipe Massa",
+                "Constructor": "Sauber",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "4",
+                "Gap": "-102"
+            },
+            {
+                "Pos.": "12",
+                "Driver": "Jacques Villeneuve",
+                "Constructor": "BAR",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "3",
+                "Gap": "-103"
+            },
+            {
+                "Pos.": "13",
+                "Driver": "Eddie Irvine",
+                "Constructor": "Jaguar",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "3",
+                "Gap": "-103"
+            },
+            {
+                "Pos.": "14",
+                "Driver": "Olivier Panis",
+                "Constructor": "BAR",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "2",
+                "Gap": "-104"
+            },
+            {
+                "Pos.": "15",
+                "Driver": "Mark Webber",
+                "Constructor": "Minardi",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "2",
+                "Gap": "-104"
+            },
+            {
+                "Pos.": "16",
+                "Driver": "Mika Salo",
+                "Constructor": "Toyota",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "2",
+                "Gap": "-104"
+            },
+            {
+                "Pos.": "17",
+                "Driver": "Heinz-Harald Frentzen",
+                "Constructor": "Arrows",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "2",
+                "Gap": "-104"
+            },
+            {
+                "Pos.": "18",
+                "Driver": "Allan McNish",
+                "Constructor": "Toyota",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "0",
+                "Gap": "-106"
+            },
+            {
+                "Pos.": "19",
+                "Driver": "Alex Yoong",
+                "Constructor": "Minardi",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "0",
+                "Gap": "-106"
+            },
+            {
+                "Pos.": "20",
+                "Driver": "Pedro de la Rosa",
+                "Constructor": "Jaguar",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "0",
+                "Gap": "-106"
+            },
+            {
+                "Pos.": "21",
+                "Driver": "Takuma Sato",
+                "Constructor": "Jordan",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "0",
+                "Gap": "-106"
+            },
+            {
+                "Pos.": "22",
+                "Driver": "Enrique Bernoldi",
+                "Constructor": "Arrows",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "0",
+                "Gap": "-106"
+            }
+        ],
+        "constructor": [
+            {
+                "Pos.": "1",
+                "Constructor": "Ferrari",
+                "Engine": "Ferrari",
+                "Wins": "10",
+                "Podiums": "17",
+                "Points": "141",
+                "Gap": ""
+            },
+            {
+                "Pos.": "2",
+                "Constructor": "Williams",
+                "Engine": "BMW",
+                "Wins": "1",
+                "Podiums": "11",
+                "Points": "76",
+                "Gap": "-65"
+            },
+            {
+                "Pos.": "3",
+                "Constructor": "McLaren",
+                "Engine": "Mercedes",
+                "Wins": "1",
+                "Podiums": "8",
+                "Points": "49",
+                "Gap": "-92"
+            },
+            {
+                "Pos.": "4",
+                "Constructor": "Renault",
+                "Engine": "Renault",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "15",
+                "Gap": "-126"
+            },
+            {
+                "Pos.": "5",
+                "Constructor": "Sauber",
+                "Engine": "Petronas",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "11",
+                "Gap": "-130"
+            },
+            {
+                "Pos.": "6",
+                "Constructor": "Jordan",
+                "Engine": "Honda",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "6",
+                "Gap": "-135"
+            },
+            {
+                "Pos.": "7",
+                "Constructor": "BAR",
+                "Engine": "Honda",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "5",
+                "Gap": "-136"
+            },
+            {
+                "Pos.": "8",
+                "Constructor": "Jaguar",
+                "Engine": "Cosworth",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "3",
+                "Gap": "-138"
+            },
+            {
+                "Pos.": "9",
+                "Constructor": "Minardi",
+                "Engine": "Asiatech",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "2",
+                "Gap": "-139"
+            },
+            {
+                "Pos.": "10",
+                "Constructor": "Toyota",
+                "Engine": "Toyota",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "2",
+                "Gap": "-139"
+            },
+            {
+                "Pos.": "11",
+                "Constructor": "Arrows",
+                "Engine": "Cosworth",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "2",
+                "Gap": "-139"
+            },
+            {
+                "Year": "2019",
+                "Winner": "#33Max Verstappen",
+                "2nd": "Sebastian Vettel",
+                "3rd": "Daniil Kvyat",
+                "Fastest lap": "1:16.645 - Max Verstappen",
+                "Pole position": "Lewis Hamilton"
+            },
+            {
+                "Year": "2018",
+                "Winner": "#44Lewis Hamilton",
+                "2nd": "Valtteri Bottas",
+                "3rd": "Kimi Räikkönen",
+                "Fastest lap": "1:15.545 - Lewis Hamilton",
+                "Pole position": "Sebastian Vettel"
+            },
+            {
+                "Year": "2016",
+                "Winner": "#44Lewis Hamilton",
+                "2nd": "Daniel Ricciardo",
+                "3rd": "Max Verstappen",
+                "Fastest lap": "1:18.442 - Daniel Ricciardo",
+                "Pole position": "Nico Rosberg"
+            },
+            {
+                "Year": "2014",
+                "Winner": "#6Nico Rosberg",
+                "2nd": "Valtteri Bottas",
+                "3rd": "Lewis Hamilton",
+                "Fastest lap": "1:19.908 - Lewis Hamilton",
+                "Pole position": "Nico Rosberg"
+            },
+            {
+                "Year": "2013",
+                "Winner": "#1Sebastian Vettel",
+                "2nd": "Kimi Räikkönen",
+                "3rd": "Romain Grosjean",
+                "Fastest lap": "1:33.468 - Fernando Alonso",
+                "Pole position": "Lewis Hamilton"
+            },
+            {
+                "Year": "2012",
+                "Winner": "#5Fernando Alonso",
+                "2nd": "Jenson Button",
+                "3rd": "Kimi Räikkönen",
+                "Fastest lap": "1:18.725 - Michael Schumacher",
+                "Pole position": "Fernando Alonso"
+            },
+            {
+                "Year": "2011",
+                "Winner": "#3Lewis Hamilton",
+                "2nd": "Fernando Alonso",
+                "3rd": "Mark Webber",
+                "Fastest lap": "1:34.302 - Lewis Hamilton",
+                "Pole position": "Mark Webber"
+            },
+            {
+                "Year": "2010",
+                "Winner": "#8Fernando Alonso",
+                "2nd": "Felipe Massa",
+                "3rd": "Sebastian Vettel",
+                "Fastest lap": "1:15.824 - Sebastian Vettel",
+                "Pole position": "Sebastian Vettel"
+            },
+            {
+                "Year": "2009",
+                "Winner": "#14Mark Webber",
+                "2nd": "Sebastian Vettel",
+                "3rd": "Felipe Massa",
+                "Fastest lap": "1:33.365 - Fernando Alonso",
+                "Pole position": "Mark Webber"
+            },
+            {
+                "Year": "2008",
+                "Winner": "#22Lewis Hamilton",
+                "2nd": "Nelson Piquet Jr.",
+                "3rd": "Felipe Massa",
+                "Fastest lap": "1:15.987 - Nick Heidfeld",
+                "Pole position": "Lewis Hamilton"
+            },
+            {
+                "Year": "2006",
+                "Winner": "#5Michael Schumacher",
+                "2nd": "Felipe Massa",
+                "3rd": "Kimi Räikkönen",
+                "Fastest lap": "1:16.357 - Michael Schumacher",
+                "Pole position": "Kimi Räikkönen"
+            },
+            {
+                "Year": "2005",
+                "Winner": "#5Fernando Alonso",
+                "2nd": "Juan Pablo Montoya",
+                "3rd": "Jenson Button",
+                "Fastest lap": "1:14.873 - Kimi Räikkönen",
+                "Pole position": "Kimi Räikkönen"
+            },
+            {
+                "Year": "2004",
+                "Winner": "#1Michael Schumacher",
+                "2nd": "Jenson Button",
+                "3rd": "Fernando Alonso",
+                "Fastest lap": "1:13.780 - Kimi Räikkönen",
+                "Pole position": "Michael Schumacher"
+            },
+            {
+                "Year": "2003",
+                "Winner": "#3Juan Pablo Montoya",
+                "2nd": "David Coulthard",
+                "3rd": "Jarno Trulli",
+                "Fastest lap": "1:14.917 - Juan Pablo Montoya",
+                "Pole position": "Juan Pablo Montoya"
+            },
+            {
+                "Year": "2001",
+                "Winner": "#5Ralf Schumacher",
+                "2nd": "Rubens Barrichello",
+                "3rd": "Jacques Villeneuve",
+                "Fastest lap": "1:41.808 - Juan Pablo Montoya",
+                "Pole position": "Juan Pablo Montoya"
+            },
+            {
+                "Year": "2000",
+                "Winner": "#4Rubens Barrichello",
+                "2nd": "Mika Häkkinen",
+                "3rd": "David Coulthard",
+                "Fastest lap": "1:44.300 - Rubens Barrichello",
+                "Pole position": "David Coulthard"
+            },
+            {
+                "Year": "1999",
+                "Winner": "#4Eddie Irvine",
+                "2nd": "Mika Salo",
+                "3rd": "Heinz-Harald Frentzen",
+                "Fastest lap": "1:45.270 - David Coulthard",
+                "Pole position": "Mika Häkkinen"
+            },
+            {
+                "Year": "1998",
+                "Winner": "#8Mika Häkkinen",
+                "2nd": "David Coulthard",
+                "3rd": "Jacques Villeneuve",
+                "Fastest lap": "1:46.116 - David Coulthard",
+                "Pole position": "Mika Häkkinen"
+            },
+            {
+                "Year": "1997",
+                "Winner": "#8Gerhard Berger",
+                "2nd": "Michael Schumacher",
+                "3rd": "Mika Häkkinen",
+                "Fastest lap": "1:45.747 - Gerhard Berger",
+                "Pole position": "Gerhard Berger"
+            },
+            {
+                "Year": "1996",
+                "Winner": "#5Damon Hill",
+                "2nd": "Jean Alesi",
+                "3rd": "Jacques Villeneuve",
+                "Fastest lap": "1:46.504 - Damon Hill",
+                "Pole position": "Damon Hill"
+            },
+            {
+                "Year": "1995",
+                "Winner": "#1Michael Schumacher",
+                "2nd": "David Coulthard",
+                "3rd": "Gerhard Berger",
+                "Fastest lap": "1:48.824 - Michael Schumacher",
+                "Pole position": "Damon Hill"
+            },
+            {
+                "Year": "1994",
+                "Winner": "#28Gerhard Berger",
+                "2nd": "Olivier Panis",
+                "3rd": "Éric Bernard",
+                "Fastest lap": "1:46.211 - David Coulthard",
+                "Pole position": "Gerhard Berger"
+            },
+            {
+                "Year": "1993",
+                "Winner": "#2Alain Prost",
+                "2nd": "Michael Schumacher",
+                "3rd": "Mark Blundell",
+                "Fastest lap": "1:41.859 - Michael Schumacher",
+                "Pole position": "Alain Prost"
+            },
+            {
+                "Year": "1992",
+                "Winner": "#5Nigel Mansell",
+                "2nd": "Ayrton Senna",
+                "3rd": "Michael Schumacher",
+                "Fastest lap": "1:41.591 - Riccardo Patrese",
+                "Pole position": "Nigel Mansell"
+            },
+            {
+                "Year": "1991",
+                "Winner": "#5Nigel Mansell",
+                "2nd": "Riccardo Patrese",
+                "3rd": "Jean Alesi",
+                "Fastest lap": "1:43.569 - Riccardo Patrese",
+                "Pole position": "Nigel Mansell"
+            },
+            {
+                "Year": "1990",
+                "Winner": "#27Ayrton Senna",
+                "2nd": "Alessandro Nannini",
+                "3rd": "Gerhard Berger",
+                "Fastest lap": "1:45.602 - Thierry Boutsen",
+                "Pole position": "Ayrton Senna"
+            },
+            {
+                "Year": "1989",
+                "Winner": "#1Ayrton Senna",
+                "2nd": "Alain Prost",
+                "3rd": "Nigel Mansell",
+                "Fastest lap": "1:45.884 - Ayrton Senna",
+                "Pole position": "Ayrton Senna"
+            },
+            {
+                "Year": "1988",
+                "Winner": "#12Ayrton Senna",
+                "2nd": "Alain Prost",
+                "3rd": "Gerhard Berger",
+                "Fastest lap": "2:03.032 - Alessandro Nannini",
+                "Pole position": "Ayrton Senna"
+            },
+            {
+                "Year": "1987",
+                "Winner": "#6Nelson Piquet",
+                "2nd": "Stefan Johansson",
+                "3rd": "Ayrton Senna",
+                "Fastest lap": "1:45.716 - Nigel Mansell",
+                "Pole position": "Nigel Mansell"
+            },
+            {
+                "Year": "1986",
+                "Winner": "#6Nelson Piquet",
+                "2nd": "Ayrton Senna",
+                "3rd": "Nigel Mansell",
+                "Fastest lap": "1:46.604 - Gerhard Berger",
+                "Pole position": "Keke Rosberg"
+            },
+            {
+                "Year": "1985",
+                "Winner": "#27Michele Alboreto",
+                "2nd": "Alain Prost",
+                "3rd": "Jacques Laffite",
+                "Fastest lap": "1:22.806 - Niki Lauda",
+                "Pole position": "Teo Fabi"
+            },
+            {
+                "Year": "1984",
+                "Winner": "#7Alain Prost",
+                "2nd": "Niki Lauda",
+                "3rd": "Derek Warwick",
+                "Fastest lap": "1:53.538 - Alain Prost",
+                "Pole position": "Alain Prost"
+            },
+            {
+                "Year": "1983",
+                "Winner": "#28René Arnoux",
+                "2nd": "Andrea de Cesaris",
+                "3rd": "Riccardo Patrese",
+                "Fastest lap": "1:53.938 - René Arnoux",
+                "Pole position": "Patrick Tambay"
+            },
+            {
+                "Year": "1982",
+                "Winner": "#27Patrick Tambay",
+                "2nd": "René Arnoux",
+                "3rd": "Keke Rosberg",
+                "Fastest lap": "1:54.035 - Nelson Piquet",
+                "Pole position": "Didier Pironi"
+            },
+            {
+                "Year": "1981",
+                "Winner": "#5Nelson Piquet",
+                "2nd": "Alain Prost",
+                "3rd": "Jacques Laffite",
+                "Fastest lap": "1:52.420 - Alan Jones",
+                "Pole position": "Alain Prost"
+            },
+            {
+                "Year": "1980",
+                "Winner": "#26Jacques Laffite",
+                "2nd": "Carlos Reutemann",
+                "3rd": "Alan Jones",
+                "Fastest lap": "1:48.490 - Alan Jones",
+                "Pole position": "Alan Jones"
+            },
+            {
+                "Year": "1979",
+                "Winner": "#27Alan Jones",
+                "2nd": "Clay Regazzoni",
+                "3rd": "Jacques Laffite",
+                "Fastest lap": "1:51.890 - Gilles Villeneuve",
+                "Pole position": "Jean-Pierre Jabouille"
+            },
+            {
+                "Year": "1978",
+                "Winner": "#5Mario Andretti",
+                "2nd": "Jody Scheckter",
+                "3rd": "Jacques Laffite",
+                "Fastest lap": "1:55.620 - Ronnie Peterson",
+                "Pole position": "Mario Andretti"
+            },
+            {
+                "Year": "1977",
+                "Winner": "#11Niki Lauda",
+                "2nd": "Jody Scheckter",
+                "3rd": "Hans-Joachim Stuck",
+                "Fastest lap": "1:55.990 - Niki Lauda",
+                "Pole position": "Jody Scheckter"
+            },
+            {
+                "Year": "1976",
+                "Winner": "#11James Hunt",
+                "2nd": "Jody Scheckter",
+                "3rd": "Jochen Mass",
+                "Fastest lap": "7:10.800 - Jody Scheckter",
+                "Pole position": "James Hunt"
+            },
+            {
+                "Year": "1975",
+                "Winner": "#7Carlos Reutemann",
+                "2nd": "Jacques Laffite",
+                "3rd": "Niki Lauda",
+                "Fastest lap": "7:06.400 - Clay Regazzoni",
+                "Pole position": "Niki Lauda"
+            },
+            {
+                "Year": "1974",
+                "Winner": "#11Clay Regazzoni",
+                "2nd": "Jody Scheckter",
+                "3rd": "Carlos Reutemann",
+                "Fastest lap": "7:11.100 - Jody Scheckter",
+                "Pole position": "Niki Lauda"
+            },
+            {
+                "Year": "1973",
+                "Winner": "#5Jackie Stewart",
+                "2nd": "François Cevert",
+                "3rd": "Jacky Ickx",
+                "Fastest lap": "7:11.400 - Carlos Pace",
+                "Pole position": "Jackie Stewart"
+            },
+            {
+                "Year": "1972",
+                "Winner": "#4Jacky Ickx",
+                "2nd": "Clay Regazzoni",
+                "3rd": "Ronnie Peterson",
+                "Fastest lap": "7:13.600 - Jacky Ickx",
+                "Pole position": "Jacky Ickx"
+            },
+            {
+                "Year": "1971",
+                "Winner": "#2Jackie Stewart",
+                "2nd": "François Cevert",
+                "3rd": "Clay Regazzoni",
+                "Fastest lap": "7:20.100 - François Cevert",
+                "Pole position": "Jackie Stewart"
+            },
+            {
+                "Year": "1970",
+                "Winner": "#2Jochen Rindt",
+                "2nd": "Jacky Ickx",
+                "3rd": "Denny Hulme",
+                "Fastest lap": "2:00.500 - Jacky Ickx",
+                "Pole position": "Jacky Ickx"
+            },
+            {
+                "Year": "1969",
+                "Winner": "#6Jacky Ickx",
+                "2nd": "Jackie Stewart",
+                "3rd": "Bruce McLaren",
+                "Fastest lap": "7:43.800 - Jacky Ickx",
+                "Pole position": "Jacky Ickx"
+            },
+            {
+                "Year": "1968",
+                "Winner": "#6Jackie Stewart",
+                "2nd": "Graham Hill",
+                "3rd": "Jochen Rindt",
+                "Fastest lap": "9:36.000 - Jackie Stewart",
+                "Pole position": "Jacky Ickx"
+            },
+            {
+                "Year": "1967",
+                "Winner": "#2Denny Hulme",
+                "2nd": "Jack Brabham",
+                "3rd": "Chris Amon",
+                "Fastest lap": "8:15.100 - Dan Gurney",
+                "Pole position": "Jim Clark"
+            },
+            {
+                "Year": "1966",
+                "Winner": "#3Jack Brabham",
+                "2nd": "John Surtees",
+                "3rd": "Jochen Rindt",
+                "Fastest lap": "8:49.000 - John Surtees",
+                "Pole position": "Jim Clark"
+            },
+            {
+                "Year": "1965",
+                "Winner": "#1Jim Clark",
+                "2nd": "Graham Hill",
+                "3rd": "Dan Gurney",
+                "Fastest lap": "8:24.100 - Jim Clark",
+                "Pole position": "Jim Clark"
+            },
+            {
+                "Year": "1964",
+                "Winner": "#7John Surtees",
+                "2nd": "Graham Hill",
+                "3rd": "Lorenzo Bandini",
+                "Fastest lap": "8:39.000 - John Surtees",
+                "Pole position": "John Surtees"
+            },
+            {
+                "Year": "1963",
+                "Winner": "#7John Surtees",
+                "2nd": "Jim Clark",
+                "3rd": "Richie Ginther",
+                "Fastest lap": "8:47.000 - John Surtees",
+                "Pole position": "Jim Clark"
+            },
+            {
+                "Year": "1962",
+                "Winner": "#11Graham Hill",
+                "2nd": "John Surtees",
+                "3rd": "Dan Gurney",
+                "Fastest lap": "10:12.200 - Graham Hill",
+                "Pole position": "Dan Gurney"
+            },
+            {
+                "Year": "1961",
+                "Winner": "#7Stirling Moss",
+                "2nd": "Wolfgang von Trips",
+                "3rd": "Phil Hill",
+                "Fastest lap": "8:57.800 - Phil Hill",
+                "Pole position": "Phil Hill"
+            },
+            {
+                "Year": "1959",
+                "Winner": "#4Tony Brooks",
+                "2nd": "Dan Gurney",
+                "3rd": "Phil Hill",
+                "Fastest lap": "2:04.500 - Tony Brooks",
+                "Pole position": "Tony Brooks"
+            },
+            {
+                "Year": "1958",
+                "Winner": "#8Tony Brooks",
+                "2nd": "Roy Salvadori",
+                "3rd": "Maurice Trintignant",
+                "Fastest lap": "9:09.200 - Stirling Moss",
+                "Pole position": "Mike Hawthorn"
+            },
+            {
+                "Year": "1957",
+                "Winner": "#1Juan Manuel Fangio",
+                "2nd": "Mike Hawthorn",
+                "3rd": "Peter Collins",
+                "Fastest lap": "9:17.400 - Juan Manuel Fangio",
+                "Pole position": "Juan Manuel Fangio"
+            },
+            {
+                "Year": "1956",
+                "Winner": "#1Juan Manuel Fangio",
+                "2nd": "Stirling Moss",
+                "3rd": "Jean Behra",
+                "Fastest lap": "9:41.600 - Juan Manuel Fangio",
+                "Pole position": "Juan Manuel Fangio"
+            },
+            {
+                "Year": "1954",
+                "Winner": "#18Juan Manuel Fangio",
+                "2nd": "José Froilán González",
+                "3rd": "Maurice Trintignant",
+                "Fastest lap": "9:55.100 - Karl Kling",
+                "Pole position": "Juan Manuel Fangio"
+            },
+            {
+                "Year": "1953",
+                "Winner": "#2Nino Farina",
+                "2nd": "Juan Manuel Fangio",
+                "3rd": "Mike Hawthorn",
+                "Fastest lap": "9:56.000 - Alberto Ascari",
+                "Pole position": "Alberto Ascari"
+            },
+            {
+                "Year": "1952",
+                "Winner": "#101Alberto Ascari",
+                "2nd": "Nino Farina",
+                "3rd": "Rudi Fischer",
+                "Fastest lap": "10:05.100 - Alberto Ascari",
+                "Pole position": "Alberto Ascari"
+            },
+            {
+                "Year": "1951",
+                "Winner": "#71Alberto Ascari",
+                "2nd": "Juan Manuel Fangio",
+                "3rd": "José Froilán González",
+                "Fastest lap": "9:55.800 - Juan Manuel Fangio",
+                "Pole position": "Alberto Ascari"
+            }
+        ]
+    }
+}

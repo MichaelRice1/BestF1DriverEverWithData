@@ -1,0 +1,481 @@
+{
+    "title": "1952 Swiss Grand Prix | Pitwall",
+    "race_name": "1952Swiss Grand Prix",
+    "round": "1/8",
+    "date": "May 18, 1952 at 00:00 CET",
+    "location": "Bern, Switzerland",
+    "circuit": "Circuit Bremgarten",
+    "circuit_length": "7.28 m",
+    "race_distance": "451.36 km (62 laps)",
+    "performance": {
+        "winner": "Taruffi",
+        "winning_time": "3:01:46.100",
+        "pole_position": "Farina",
+        "fastest_lap": "Taruffi",
+        "fastest_lap_time": "2:49.100"
+    },
+    "results": {
+        "race": [
+            {
+                "Pos.": "1",
+                "Driver": "#30Piero Taruffi",
+                "Constructor": "Ferrari",
+                "Time/Retired": "3:01:46.100",
+                "Grid": "2nd",
+                "Laps": "62",
+                "Points": "9"
+            },
+            {
+                "Pos.": "2",
+                "Driver": "#42Rudi Fischer",
+                "Constructor": "Ferrari",
+                "Time/Retired": "+2:37.200",
+                "Grid": "5th",
+                "Laps": "62",
+                "Points": "6"
+            },
+            {
+                "Pos.": "3",
+                "Driver": "#6Jean Behra",
+                "Constructor": "Gordini",
+                "Time/Retired": "+1 lap",
+                "Grid": "7th",
+                "Laps": "61",
+                "Points": "4"
+            },
+            {
+                "Pos.": "4",
+                "Driver": "#22Ken Wharton",
+                "Constructor": "Frazer-Nash",
+                "Time/Retired": "+2 laps",
+                "Grid": "13th",
+                "Laps": "60",
+                "Points": "3"
+            },
+            {
+                "Pos.": "5",
+                "Driver": "#26Alan Brown",
+                "Constructor": "Cooper",
+                "Time/Retired": "+3 laps",
+                "Grid": "15th",
+                "Laps": "59",
+                "Points": "2"
+            },
+            {
+                "Pos.": "6",
+                "Driver": "#38Emmanuel de Graffenried",
+                "Constructor": "Maserati",
+                "Time/Retired": "+4 laps",
+                "Grid": "8th",
+                "Laps": "58",
+                "Points": ""
+            },
+            {
+                "Pos.": "7",
+                "Driver": "#44Peter Hirt",
+                "Constructor": "Ferrari",
+                "Time/Retired": "+6 laps",
+                "Grid": "19th",
+                "Laps": "56",
+                "Points": ""
+            },
+            {
+                "Pos.": "8",
+                "Driver": "#24Eric Brandon",
+                "Constructor": "Cooper",
+                "Time/Retired": "+7 laps",
+                "Grid": "17th",
+                "Laps": "55",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#10Birabongse Bhanudej",
+                "Constructor": "Gordini",
+                "Time/Retired": "Engine",
+                "Grid": "11th",
+                "Laps": "52",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#32André Simon",
+                "Constructor": "Ferrari",
+                "Time/Retired": "Magneto",
+                "Grid": "4th",
+                "Laps": "51",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#32Nino Farina",
+                "Constructor": "Ferrari",
+                "Time/Retired": "",
+                "Grid": "",
+                "Laps": "",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#40Harry Schell",
+                "Constructor": "Maserati",
+                "Time/Retired": "Engine",
+                "Grid": "18th",
+                "Laps": "31",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#46Stirling Moss",
+                "Constructor": "HWM",
+                "Time/Retired": "Withdrew",
+                "Grid": "9th",
+                "Laps": "24",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#20Lance Macklin",
+                "Constructor": "HWM",
+                "Time/Retired": "Withdrew",
+                "Grid": "12th",
+                "Laps": "24",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#8Robert Manzon",
+                "Constructor": "Gordini",
+                "Time/Retired": "Radiator",
+                "Grid": "3rd",
+                "Laps": "20",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#28Nino Farina",
+                "Constructor": "Ferrari",
+                "Time/Retired": "Magneto",
+                "Grid": "1st",
+                "Laps": "16",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#18Peter Collins",
+                "Constructor": "HWM",
+                "Time/Retired": "Halfshaft",
+                "Grid": "6th",
+                "Laps": "12",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#16George Abecassis",
+                "Constructor": "HWM",
+                "Time/Retired": "Halfshaft",
+                "Grid": "10th",
+                "Laps": "12",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#4Toni Ulmen",
+                "Constructor": "Veritas",
+                "Time/Retired": "Fuel leak",
+                "Grid": "16th",
+                "Laps": "4",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#2Hans Stuck",
+                "Constructor": "AFM",
+                "Time/Retired": "Engine",
+                "Grid": "14th",
+                "Laps": "4",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#12Louis Rosier",
+                "Constructor": "Ferrari",
+                "Time/Retired": "Accident",
+                "Grid": "20th",
+                "Laps": "2",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNF",
+                "Driver": "#50Max de Terra",
+                "Constructor": "Simca-Gordini",
+                "Time/Retired": "Magneto",
+                "Grid": "21st",
+                "Laps": "1",
+                "Points": ""
+            },
+            {
+                "Pos.": "DNS",
+                "Driver": "#14Maurice Trintignant",
+                "Constructor": "Ferrari",
+                "Time/Retired": "Engine",
+                "Grid": "22nd",
+                "Laps": "",
+                "Points": ""
+            }
+        ],
+        "qualifying": [
+            {
+                "Pos.": "1",
+                "Driver": "#28Nino Farina",
+                "Constructor": "Ferrari",
+                "Time": "2:47.500",
+                "Gap": ""
+            },
+            {
+                "Pos.": "2",
+                "Driver": "#30Piero Taruffi",
+                "Constructor": "Ferrari",
+                "Time": "2:50.100",
+                "Gap": "+2.600"
+            },
+            {
+                "Pos.": "3",
+                "Driver": "#8Robert Manzon",
+                "Constructor": "Gordini",
+                "Time": "2:52.100",
+                "Gap": "+4.600"
+            },
+            {
+                "Pos.": "4",
+                "Driver": "#32André Simon",
+                "Constructor": "Ferrari",
+                "Time": "2:52.400",
+                "Gap": "+4.900"
+            },
+            {
+                "Pos.": "5",
+                "Driver": "#42Rudi Fischer",
+                "Constructor": "Ferrari",
+                "Time": "2:53.300",
+                "Gap": "+5.800"
+            },
+            {
+                "Pos.": "6",
+                "Driver": "#18Peter Collins",
+                "Constructor": "HWM",
+                "Time": "2:55.900",
+                "Gap": "+8.400"
+            },
+            {
+                "Pos.": "7",
+                "Driver": "#6Jean Behra",
+                "Constructor": "Gordini",
+                "Time": "2:55.900",
+                "Gap": "+8.400"
+            },
+            {
+                "Pos.": "8",
+                "Driver": "#38Emmanuel de Graffenried",
+                "Constructor": "Maserati",
+                "Time": "2:56.400",
+                "Gap": "+8.900"
+            },
+            {
+                "Pos.": "9",
+                "Driver": "#46Stirling Moss",
+                "Constructor": "HWM",
+                "Time": "2:56.400",
+                "Gap": "+8.900"
+            },
+            {
+                "Pos.": "10",
+                "Driver": "#16George Abecassis",
+                "Constructor": "HWM",
+                "Time": "2:56.900",
+                "Gap": "+9.400"
+            },
+            {
+                "Pos.": "11",
+                "Driver": "#10Birabongse Bhanudej",
+                "Constructor": "Gordini",
+                "Time": "2:59.300",
+                "Gap": "+11.800"
+            },
+            {
+                "Pos.": "12",
+                "Driver": "#20Lance Macklin",
+                "Constructor": "HWM",
+                "Time": "3:00.200",
+                "Gap": "+12.700"
+            },
+            {
+                "Pos.": "13",
+                "Driver": "#22Ken Wharton",
+                "Constructor": "Frazer-Nash",
+                "Time": "3:00.900",
+                "Gap": "+13.400"
+            },
+            {
+                "Pos.": "14",
+                "Driver": "#2Hans Stuck",
+                "Constructor": "AFM",
+                "Time": "3:01.700",
+                "Gap": "+14.200"
+            },
+            {
+                "Pos.": "15",
+                "Driver": "#26Alan Brown",
+                "Constructor": "Cooper",
+                "Time": "3:02.500",
+                "Gap": "+15.000"
+            },
+            {
+                "Pos.": "16",
+                "Driver": "#4Toni Ulmen",
+                "Constructor": "Veritas",
+                "Time": "3:05.600",
+                "Gap": "+18.100"
+            },
+            {
+                "Pos.": "17",
+                "Driver": "#24Eric Brandon",
+                "Constructor": "Cooper",
+                "Time": "3:05.800",
+                "Gap": "+18.300"
+            },
+            {
+                "Pos.": "18",
+                "Driver": "#40Harry Schell",
+                "Constructor": "Maserati",
+                "Time": "3:07.600",
+                "Gap": "+20.100"
+            },
+            {
+                "Pos.": "19",
+                "Driver": "#44Peter Hirt",
+                "Constructor": "Ferrari",
+                "Time": "3:10.200",
+                "Gap": "+22.700"
+            },
+            {
+                "Pos.": "20",
+                "Driver": "#12Louis Rosier",
+                "Constructor": "Ferrari",
+                "Time": "",
+                "Gap": ""
+            },
+            {
+                "Pos.": "21",
+                "Driver": "#50Max de Terra",
+                "Constructor": "Simca-Gordini",
+                "Time": "",
+                "Gap": ""
+            },
+            {
+                "Pos.": "22",
+                "Driver": "#14Maurice Trintignant",
+                "Constructor": "Ferrari",
+                "Time": "",
+                "Gap": ""
+            }
+        ],
+        "fastest_laps": [
+            {
+                "Pos.": "1",
+                "Driver": "#30Piero Taruffi",
+                "Constructor": "Ferrari",
+                "Time": "2:49.100",
+                "Gap": "",
+                "Lap": "46"
+            }
+        ],
+        "driver": [
+            {
+                "Pos.": "1",
+                "Driver": "Piero Taruffi",
+                "Constructor": "Ferrari",
+                "Wins": "1",
+                "Podiums": "1",
+                "Points": "9",
+                "Gap": ""
+            },
+            {
+                "Pos.": "2",
+                "Driver": "Rudi Fischer",
+                "Constructor": "Ferrari",
+                "Wins": "0",
+                "Podiums": "1",
+                "Points": "6",
+                "Gap": "-3"
+            },
+            {
+                "Pos.": "3",
+                "Driver": "Jean Behra",
+                "Constructor": "Gordini",
+                "Wins": "0",
+                "Podiums": "1",
+                "Points": "4",
+                "Gap": "-5"
+            },
+            {
+                "Pos.": "4",
+                "Driver": "Ken Wharton",
+                "Constructor": "Frazer-Nash",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "3",
+                "Gap": "-6"
+            },
+            {
+                "Pos.": "5",
+                "Driver": "Alan Brown",
+                "Constructor": "Cooper",
+                "Wins": "0",
+                "Podiums": "0",
+                "Points": "2",
+                "Gap": "-7"
+            },
+            {
+                "Year": "1982",
+                "Winner": "#6Keke Rosberg",
+                "2nd": "Alain Prost",
+                "3rd": "Niki Lauda",
+                "Fastest lap": "1:07.477 - Alain Prost",
+                "Pole position": "Alain Prost"
+            },
+            {
+                "Year": "1954",
+                "Winner": "#4Juan Manuel Fangio",
+                "2nd": "José Froilán González",
+                "3rd": "Hans Herrmann",
+                "Fastest lap": "2:39.700 - Juan Manuel Fangio",
+                "Pole position": "José Froilán González"
+            },
+            {
+                "Year": "1953",
+                "Winner": "#46Alberto Ascari",
+                "2nd": "Nino Farina",
+                "3rd": "Mike Hawthorn",
+                "Fastest lap": "2:41.300 - Alberto Ascari",
+                "Pole position": "Juan Manuel Fangio"
+            },
+            {
+                "Year": "1951",
+                "Winner": "#24Juan Manuel Fangio",
+                "2nd": "Piero Taruffi",
+                "3rd": "Nino Farina",
+                "Fastest lap": "2:51.100 - Juan Manuel Fangio",
+                "Pole position": "Juan Manuel Fangio"
+            },
+            {
+                "Year": "1950",
+                "Winner": "#16Nino Farina",
+                "2nd": "Luigi Fagioli",
+                "3rd": "Louis Rosier",
+                "Fastest lap": "2:41.600 - Nino Farina",
+                "Pole position": "Juan Manuel Fangio"
+            }
+        ]
+    }
+}
