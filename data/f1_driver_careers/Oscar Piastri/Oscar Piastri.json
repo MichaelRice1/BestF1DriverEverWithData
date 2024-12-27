@@ -1,0 +1,33 @@
+{
+    "driver_name": "Oscar Piastri",
+    "2024Abu Dhabi Grand Prix": {
+        "race_position": "10",
+        "quali_position": "2",
+        "fp1_position": "Unknown",
+        "fp2_position": "2",
+        "fp3_position": "1",
+        "fastest_lap_position": "4",
+        "dotd_position": "Unknown",
+        "driver_standings_position": "4",
+        "constructor_standings_position": "1",
+        "rise_fall_factor": -8,
+        "teammate": "#4Lando Norris",
+        "teammate_comp_race": 9,
+        "teammate_comp_quali": 1
+    },
+    "2024Emilia Romagna Grand Prix": {
+        "race_position": "4",
+        "quali_position": "2",
+        "fp1_position": "9",
+        "fp2_position": "2",
+        "fp3_position": "1",
+        "fastest_lap_position": "4",
+        "dotd_position": "3",
+        "driver_standings_position": "6",
+        "constructor_standings_position": "3",
+        "rise_fall_factor": -2,
+        "teammate": "#4Lando Norris",
+        "teammate_comp_race": 2,
+        "teammate_comp_quali": -1
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "driver_name": "Pierre Gasly",
+    "2024Abu Dhabi Grand Prix": {
+        "race_position": "7",
+        "quali_position": "6",
+        "fp1_position": "5",
+        "fp2_position": "12",
+        "fp3_position": "13",
+        "fastest_lap_position": "16",
+        "dotd_position": "Unknown",
+        "driver_standings_position": "10",
+        "constructor_standings_position": "6",
+        "rise_fall_factor": -1,
+        "teammate": "#61Jack Doohan",
+        "teammate_comp_race": -8,
+        "teammate_comp_quali": -14
+    },
+    "2024Emilia Romagna Grand Prix": {
+        "race_position": "16",
+        "quali_position": "15",
+        "fp1_position": "11",
+        "fp2_position": "15",
+        "fp3_position": "19",
+        "fastest_lap_position": "17",
+        "dotd_position": "Unknown",
+        "driver_standings_position": "19",
+        "constructor_standings_position": "8",
+        "rise_fall_factor": -1,
+        "teammate": "#31Esteban Ocon",
+        "teammate_comp_race": 2,
+        "teammate_comp_quali": 3
+    }
+}

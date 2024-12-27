@@ -1,0 +1,33 @@
+{
+    "driver_name": "Lance Stroll",
+    "2024Abu Dhabi Grand Prix": {
+        "race_position": "14",
+        "quali_position": "13",
+        "fp1_position": "Unknown",
+        "fp2_position": "18",
+        "fp3_position": "18",
+        "fastest_lap_position": "11",
+        "dotd_position": "Unknown",
+        "driver_standings_position": "13",
+        "constructor_standings_position": "5",
+        "rise_fall_factor": -1,
+        "teammate": "#14Fernando Alonso",
+        "teammate_comp_race": 5,
+        "teammate_comp_quali": 5
+    },
+    "2024Emilia Romagna Grand Prix": {
+        "race_position": "9",
+        "quali_position": "13",
+        "fp1_position": "12",
+        "fp2_position": "13",
+        "fp3_position": "9",
+        "fastest_lap_position": "10",
+        "dotd_position": "Unknown",
+        "driver_standings_position": "11",
+        "constructor_standings_position": "5",
+        "rise_fall_factor": 4,
+        "teammate": "#14Fernando Alonso",
+        "teammate_comp_race": -10,
+        "teammate_comp_quali": -6
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "driver_name": "Valtteri Bottas",
+    "2024Abu Dhabi Grand Prix": {
+        "race_position": 20,
+        "quali_position": "9",
+        "fp1_position": "13",
+        "fp2_position": "7",
+        "fp3_position": "16",
+        "fastest_lap_position": "19",
+        "dotd_position": "5",
+        "driver_standings_position": "22",
+        "constructor_standings_position": "10",
+        "rise_fall_factor": -11,
+        "teammate": "#24Guanyu Zhou",
+        "teammate_comp_race": 7,
+        "teammate_comp_quali": -8
+    },
+    "2024Emilia Romagna Grand Prix": {
+        "race_position": "18",
+        "quali_position": "16",
+        "fp1_position": "16",
+        "fp2_position": "16",
+        "fp3_position": "14",
+        "fastest_lap_position": "18",
+        "dotd_position": "Unknown",
+        "driver_standings_position": "20",
+        "constructor_standings_position": "10",
+        "rise_fall_factor": -2,
+        "teammate": "#24Guanyu Zhou",
+        "teammate_comp_race": 3,
+        "teammate_comp_quali": -1
+    }
+}
