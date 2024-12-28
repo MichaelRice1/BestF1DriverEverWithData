@@ -1,0 +1,35 @@
+{
+    "driver_name": "Paddy Driver",
+    "1963South African Grand Prix": {
+        "race_position": 20,
+        "quali_position": "21",
+        "fp1_position": "Unknown",
+        "fp2_position": "Unknown",
+        "fp3_position": "Unknown",
+        "fastest_lap_position": "Unknown",
+        "dotd_position": "Unknown",
+        "driver_standings_position": "Unknown",
+        "constructor_standings_position": "1",
+        "rise_fall_factor": 1,
+        "teammate": "#1Jim Clark",
+        "teammate_comp_race": -19,
+        "teammate_comp_quali": -20,
+        "weekend_score": -360
+    },
+    "1974South African Grand Prix": {
+        "race_position": 20,
+        "quali_position": "26",
+        "fp1_position": "Unknown",
+        "fp2_position": "Unknown",
+        "fp3_position": "Unknown",
+        "fastest_lap_position": "Unknown",
+        "dotd_position": "Unknown",
+        "driver_standings_position": "Unknown",
+        "constructor_standings_position": "5",
+        "rise_fall_factor": 6,
+        "teammate": "#29Ian Scheckter",
+        "teammate_comp_race": -7,
+        "teammate_comp_quali": -16,
+        "weekend_score": -194
+    }
+}

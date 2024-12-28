@@ -1,0 +1,51 @@
+{
+    "driver_name": "Tony Shelly",
+    "1962British Grand Prix": {
+        "race_position": 20,
+        "quali_position": "18",
+        "fp1_position": "Unknown",
+        "fp2_position": "Unknown",
+        "fp3_position": "Unknown",
+        "fastest_lap_position": "Unknown",
+        "dotd_position": "Unknown",
+        "driver_standings_position": "Unknown",
+        "constructor_standings_position": "1",
+        "rise_fall_factor": -2,
+        "teammate": "#20Jim Clark",
+        "teammate_comp_race": -19,
+        "teammate_comp_quali": -17,
+        "weekend_score": -330
+    },
+    "1962German Grand Prix": {
+        "race_position": 20,
+        "quali_position": "27",
+        "fp1_position": "Unknown",
+        "fp2_position": "Unknown",
+        "fp3_position": "Unknown",
+        "fastest_lap_position": "Unknown",
+        "dotd_position": "Unknown",
+        "driver_standings_position": "Unknown",
+        "constructor_standings_position": "2",
+        "rise_fall_factor": 7,
+        "teammate": "#5Jim Clark",
+        "teammate_comp_race": -16,
+        "teammate_comp_quali": -24,
+        "weekend_score": -368
+    },
+    "1962Italian Grand Prix": {
+        "race_position": 20,
+        "quali_position": "22",
+        "fp1_position": "Unknown",
+        "fp2_position": "Unknown",
+        "fp3_position": "Unknown",
+        "fastest_lap_position": "Unknown",
+        "dotd_position": "Unknown",
+        "driver_standings_position": "Unknown",
+        "constructor_standings_position": "2",
+        "rise_fall_factor": 2,
+        "teammate": "#24Nino Vaccarella",
+        "teammate_comp_race": -11,
+        "teammate_comp_quali": -21,
+        "weekend_score": -274
+    }
+}

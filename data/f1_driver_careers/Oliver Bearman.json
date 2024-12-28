@@ -1,0 +1,51 @@
+{
+    "driver_name": "Oliver Bearman",
+    "2024Azerbaijan Grand Prix": {
+        "race_position": "10",
+        "quali_position": "11",
+        "fp1_position": "11",
+        "fp2_position": "10",
+        "fp3_position": "20",
+        "fastest_lap_position": "7",
+        "dotd_position": "Unknown",
+        "driver_standings_position": "16",
+        "constructor_standings_position": "7",
+        "rise_fall_factor": 1,
+        "teammate": "#27Nico H\u00fclkenberg",
+        "teammate_comp_race": 1,
+        "teammate_comp_quali": 2,
+        "weekend_score": 447
+    },
+    "2024Saudi Arabian Grand Prix": {
+        "race_position": "7",
+        "quali_position": "11",
+        "fp1_position": "Unknown",
+        "fp2_position": "Unknown",
+        "fp3_position": "10",
+        "fastest_lap_position": "5",
+        "dotd_position": "1",
+        "driver_standings_position": "10",
+        "constructor_standings_position": "2",
+        "rise_fall_factor": 4,
+        "teammate": "#16Charles Leclerc",
+        "teammate_comp_race": -4,
+        "teammate_comp_quali": -9,
+        "weekend_score": 414
+    },
+    "2024S\u00e3o Paulo Grand Prix": {
+        "race_position": "12",
+        "quali_position": "17",
+        "fp1_position": "3",
+        "fp2_position": "Unknown",
+        "fp3_position": "Unknown",
+        "fastest_lap_position": "13",
+        "dotd_position": "Unknown",
+        "driver_standings_position": "18",
+        "constructor_standings_position": "7",
+        "rise_fall_factor": 5,
+        "teammate": "#27Nico H\u00fclkenberg",
+        "teammate_comp_race": 8,
+        "teammate_comp_quali": 2,
+        "weekend_score": 422
+    }
+}

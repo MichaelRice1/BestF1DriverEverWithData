@@ -1,0 +1,51 @@
+{
+    "driver_name": "Roberto Bussinello",
+    "1961Italian Grand Prix": {
+        "race_position": 20,
+        "quali_position": "24",
+        "fp1_position": "Unknown",
+        "fp2_position": "Unknown",
+        "fp3_position": "Unknown",
+        "fastest_lap_position": "Unknown",
+        "dotd_position": "Unknown",
+        "driver_standings_position": "Unknown",
+        "constructor_standings_position": "Unknown",
+        "rise_fall_factor": 4,
+        "teammate": "#50Nino Vaccarella",
+        "teammate_comp_race": 0,
+        "teammate_comp_quali": -4,
+        "weekend_score": -10
+    },
+    "1965German Grand Prix": {
+        "race_position": 20,
+        "quali_position": "21",
+        "fp1_position": "Unknown",
+        "fp2_position": "Unknown",
+        "fp3_position": "Unknown",
+        "fastest_lap_position": "Unknown",
+        "dotd_position": "Unknown",
+        "driver_standings_position": "Unknown",
+        "constructor_standings_position": "2",
+        "rise_fall_factor": 1,
+        "teammate": "#9Graham Hill",
+        "teammate_comp_race": -18,
+        "teammate_comp_quali": -19,
+        "weekend_score": -340
+    },
+    "1965Italian Grand Prix": {
+        "race_position": "13",
+        "quali_position": "21",
+        "fp1_position": "Unknown",
+        "fp2_position": "Unknown",
+        "fp3_position": "Unknown",
+        "fastest_lap_position": "Unknown",
+        "dotd_position": "Unknown",
+        "driver_standings_position": "Unknown",
+        "constructor_standings_position": "2",
+        "rise_fall_factor": 8,
+        "teammate": "#32Jackie Stewart",
+        "teammate_comp_race": -12,
+        "teammate_comp_quali": -18,
+        "weekend_score": -64
+    }
+}

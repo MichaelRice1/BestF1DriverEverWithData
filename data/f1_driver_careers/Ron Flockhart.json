@@ -1,0 +1,35 @@
+{
+    "driver_name": "Ron Flockhart",
+    "1960French Grand Prix": {
+        "race_position": "6",
+        "quali_position": "8",
+        "fp1_position": "Unknown",
+        "fp2_position": "Unknown",
+        "fp3_position": "Unknown",
+        "fastest_lap_position": "Unknown",
+        "dotd_position": "Unknown",
+        "driver_standings_position": "23",
+        "constructor_standings_position": "2",
+        "rise_fall_factor": 2,
+        "teammate": "#24Jim Clark",
+        "teammate_comp_race": -1,
+        "teammate_comp_quali": -4,
+        "weekend_score": 402
+    },
+    "1960United States Grand Prix": {
+        "race_position": 20,
+        "quali_position": "21",
+        "fp1_position": "Unknown",
+        "fp2_position": "Unknown",
+        "fp3_position": "Unknown",
+        "fastest_lap_position": "Unknown",
+        "dotd_position": "Unknown",
+        "driver_standings_position": "26",
+        "constructor_standings_position": "1",
+        "rise_fall_factor": 1,
+        "teammate": "#3Bruce McLaren",
+        "teammate_comp_race": -17,
+        "teammate_comp_quali": -19,
+        "weekend_score": -328
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "driver_name": "Roland Ratzenberger",
+    "1994Brazilian Grand Prix": {
+        "race_position": 20,
+        "quali_position": "27",
+        "fp1_position": "25",
+        "fp2_position": "27",
+        "fp3_position": "Unknown",
+        "fastest_lap_position": "Unknown",
+        "dotd_position": "Unknown",
+        "driver_standings_position": "Unknown",
+        "constructor_standings_position": "Unknown",
+        "rise_fall_factor": 7,
+        "teammate": "#31David Brabham",
+        "teammate_comp_race": -8,
+        "teammate_comp_quali": -1,
+        "weekend_score": -104
+    },
+    "1994Pacific Grand Prix": {
+        "race_position": "11",
+        "quali_position": "26",
+        "fp1_position": "26",
+        "fp2_position": "26",
+        "fp3_position": "Unknown",
+        "fastest_lap_position": "21",
+        "dotd_position": "Unknown",
+        "driver_standings_position": "Unknown",
+        "constructor_standings_position": "Unknown",
+        "rise_fall_factor": 15,
+        "teammate": "#31David Brabham",
+        "teammate_comp_race": 9,
+        "teammate_comp_quali": -1,
+        "weekend_score": 355
+    },
+    "1994San Marino Grand Prix": {
+        "race_position": 20,
+        "quali_position": "26",
+        "fp1_position": "26",
+        "fp2_position": "25",
+        "fp3_position": "Unknown",
+        "fastest_lap_position": "Unknown",
+        "dotd_position": "Unknown",
+        "driver_standings_position": "Unknown",
+        "constructor_standings_position": "Unknown",
+        "rise_fall_factor": 6,
+        "teammate": "#31David Brabham",
+        "teammate_comp_race": 0,
+        "teammate_comp_quali": -2,
+        "weekend_score": -11
+    }
+}
