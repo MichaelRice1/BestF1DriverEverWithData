@@ -61,3 +61,21 @@ All data was scraped, cleaned, and processed into a unified format specifically 
    - Generating driver ranking charts and heatmaps.
 
 ---
+
+
+## **Results**
+
+The analysis yielded several key insights into the performance of Formula 1 drivers across different eras. Below are some of the visualizations generated from the data:
+
+#### **Driver Performance Over Time**
+![Using custom Career-Score metric to compare drivers careers.](results/Top10DriversCareerScore.png)
+
+#### **Teammate Comparison Heatmap**
+![Using custom Weekend-Score metric to compare drivers on any given weekend.](results/Top10DriversOnAnyGivenWeekend.png)
+
+#### **Era Normalized Performance**
+![Top 10 Racing Drivers of All Time](results/Top10DriversRaceOnly.png)
+
+#### **Driver Dominance Chart**
+![Top 10 Qualifying Drivers of all time](results/Top10QualifyingDrivers.png)
+
