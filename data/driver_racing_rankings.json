@@ -1,0 +1,4482 @@
+[
+    {
+        "driver": "Fernando Alonso",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 6.0014148779611505,
+        "avg rise/fall factor": -0.22524752475247525,
+        "race score": 1114.1686140884162
+    },
+    {
+        "driver": "Max Verstappen",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.342334251964811,
+        "avg rise/fall factor": -1.1578947368421053,
+        "race score": 998.5052769593368
+    },
+    {
+        "driver": "Lewis Hamilton",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.87493073085203,
+        "avg rise/fall factor": -0.851123595505618,
+        "race score": 976.0471294276499
+    },
+    {
+        "driver": "Sebastian Vettel",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.703782474656201,
+        "avg rise/fall factor": -0.81,
+        "race score": 950.7064628756956
+    },
+    {
+        "driver": "Emerson Fittipaldi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.9344739331306915,
+        "avg rise/fall factor": 1.381294964028777,
+        "race score": 904.9257196362191
+    },
+    {
+        "driver": "Pierre Gasly",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.0369526024136295,
+        "avg rise/fall factor": -0.18181818181818182,
+        "race score": 904.1984071021091
+    },
+    {
+        "driver": "Michael Schumacher",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.730099782973574,
+        "avg rise/fall factor": -2.5259740259740258,
+        "race score": 898.2489536413312
+    },
+    {
+        "driver": "Nico Rosberg",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.327876168789581,
+        "avg rise/fall factor": -1.4902912621359223,
+        "race score": 891.4364461634491
+    },
+    {
+        "driver": "Jenson Button",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.733341276897746,
+        "avg rise/fall factor": -0.13915857605177995,
+        "race score": 883.7695092553931
+    },
+    {
+        "driver": "Nico H\u00fclkenberg",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.438079308923196,
+        "avg rise/fall factor": -1.2869565217391303,
+        "race score": 881.0397795148044
+    },
+    {
+        "driver": "Valtteri Bottas",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.5093883366279774,
+        "avg rise/fall factor": -1.2955465587044535,
+        "race score": 877.1303115366743
+    },
+    {
+        "driver": "Kimi R\u00e4ikk\u00f6nen",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.863631175598097,
+        "avg rise/fall factor": -1.1477272727272727,
+        "race score": 875.9465390274156
+    },
+    {
+        "driver": "Lando Norris",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.852030263919617,
+        "avg rise/fall factor": -0.75,
+        "race score": 864.2678907606818
+    },
+    {
+        "driver": "George Russell",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.852030263919617,
+        "avg rise/fall factor": -0.4375,
+        "race score": 863.1306961675757
+    },
+    {
+        "driver": "Pierluigi Martini",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.820281565605037,
+        "avg rise/fall factor": 1.5403225806451613,
+        "race score": 854.3560342650605
+    },
+    {
+        "driver": "Daniel Ricciardo",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.54907608489522,
+        "avg rise/fall factor": -0.6575875486381323,
+        "race score": 853.3485798724861
+    },
+    {
+        "driver": "Charles Leclerc",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.003946305945459,
+        "avg rise/fall factor": -1.5100671140939597,
+        "race score": 848.0177729626093
+    },
+    {
+        "driver": "Alexander Albon",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.653960350157523,
+        "avg rise/fall factor": -0.047619047619047616,
+        "race score": 831.9951403124463
+    },
+    {
+        "driver": "Giancarlo Fisichella",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.442417710521793,
+        "avg rise/fall factor": -0.2943722943722944,
+        "race score": 830.3574449767534
+    },
+    {
+        "driver": "Nelson Piquet",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.332718793265369,
+        "avg rise/fall factor": -3.652173913043478,
+        "race score": 829.1991294629586
+    },
+    {
+        "driver": "Sergio P\u00e9rez",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.645446897643238,
+        "avg rise/fall factor": 0.5441696113074205,
+        "race score": 824.7339614461638
+    },
+    {
+        "driver": "Rubens Barrichello",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.786897381366708,
+        "avg rise/fall factor": -1.98159509202454,
+        "race score": 810.7869260549828
+    },
+    {
+        "driver": "Jody Scheckter",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.634728988229636,
+        "avg rise/fall factor": -1.8155339805825244,
+        "race score": 804.282970248704
+    },
+    {
+        "driver": "Olivier Panis",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.062595033026967,
+        "avg rise/fall factor": -0.8164556962025317,
+        "race score": 803.7029823633889
+    },
+    {
+        "driver": "Marc Surer",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.477336814478207,
+        "avg rise/fall factor": 4.125,
+        "race score": 803.3258064067772
+    },
+    {
+        "driver": "Nick Heidfeld",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.220355825078324,
+        "avg rise/fall factor": 0.10810810810810811,
+        "race score": 798.4604779806283
+    },
+    {
+        "driver": "Mark Webber",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.37989735354046,
+        "avg rise/fall factor": -1.967741935483871,
+        "race score": 796.7950278591557
+    },
+    {
+        "driver": "Adrian Sutil",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.852030263919617,
+        "avg rise/fall factor": 0.078125,
+        "race score": 791.8285951798194
+    },
+    {
+        "driver": "James Hunt",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.418840607796598,
+        "avg rise/fall factor": -4.9156626506024095,
+        "race score": 788.5234727960893
+    },
+    {
+        "driver": "Mika Salo",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.709530201312334,
+        "avg rise/fall factor": 1.3783783783783783,
+        "race score": 784.5822746186278
+    },
+    {
+        "driver": "Jacques Laffite",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.135798437050262,
+        "avg rise/fall factor": -0.9470588235294117,
+        "race score": 782.2425231208379
+    },
+    {
+        "driver": "Carlos Sainz Jr.",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.337538079701318,
+        "avg rise/fall factor": -0.9951923076923077,
+        "race score": 775.6879859289012
+    },
+    {
+        "driver": "Esteban Ocon",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.049856007249537,
+        "avg rise/fall factor": 0.14102564102564102,
+        "race score": 774.8615592662318
+    },
+    {
+        "driver": "Felipe Massa",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.602118820879701,
+        "avg rise/fall factor": -0.7675276752767528,
+        "race score": 774.022638414017
+    },
+    {
+        "driver": "Jonathan Palmer",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.477336814478207,
+        "avg rise/fall factor": 6.159090909090909,
+        "race score": 770.8142356743732
+    },
+    {
+        "driver": "Kevin Magnussen",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.225746673713202,
+        "avg rise/fall factor": -0.3064516129032258,
+        "race score": 766.0776051190207
+    },
+    {
+        "driver": "Alain Prost",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.308267697401205,
+        "avg rise/fall factor": -3.742574257425743,
+        "race score": 765.336576332241
+    },
+    {
+        "driver": "Thierry Boutsen",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.099866427824199,
+        "avg rise/fall factor": 0.012195121951219513,
+        "race score": 763.020869143429
+    },
+    {
+        "driver": "Robert Kubica",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.59511985013459,
+        "avg rise/fall factor": -0.41414141414141414,
+        "race score": 759.7264818889188
+    },
+    {
+        "driver": "Jarno Trulli",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.545177444479562,
+        "avg rise/fall factor": -2.4765625,
+        "race score": 755.4221225633778
+    },
+    {
+        "driver": "Timo Glock",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.553876891600541,
+        "avg rise/fall factor": 2.094736842105263,
+        "race score": 755.2724663585064
+    },
+    {
+        "driver": "Michele Alboreto",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.3706380281276624,
+        "avg rise/fall factor": 0.49767441860465117,
+        "race score": 754.1125182844002
+    },
+    {
+        "driver": "Marcus Ericsson",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.574710978503383,
+        "avg rise/fall factor": 2.0618556701030926,
+        "race score": 752.4220510416801
+    },
+    {
+        "driver": "Ayrton Senna",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.087596335232384,
+        "avg rise/fall factor": -5.469135802469136,
+        "race score": 747.2171580505192
+    },
+    {
+        "driver": "Jean Alesi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.308267697401205,
+        "avg rise/fall factor": -2.8366336633663365,
+        "race score": 746.889032156124
+    },
+    {
+        "driver": "Romain Grosjean",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.198497031265826,
+        "avg rise/fall factor": -1.4640883977900552,
+        "race score": 745.9125215414626
+    },
+    {
+        "driver": "Heinz-Harald Frentzen",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.0689042022202315,
+        "avg rise/fall factor": -2.8238993710691824,
+        "race score": 743.5030427935866
+    },
+    {
+        "driver": "Jean-Pierre Jarier",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.890349128221754,
+        "avg rise/fall factor": 0.518796992481203,
+        "race score": 742.0461335085955
+    },
+    {
+        "driver": "Alan Jones",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.700480365792417,
+        "avg rise/fall factor": -0.8545454545454545,
+        "race score": 741.4794118839092
+    },
+    {
+        "driver": "Vittorio Brambilla",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.23410650459726,
+        "avg rise/fall factor": -0.5362318840579711,
+        "race score": 731.3958757723875
+    },
+    {
+        "driver": "Jacques Villeneuve",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.10594547390058,
+        "avg rise/fall factor": -2.533333333333333,
+        "race score": 721.5165131482785
+    },
+    {
+        "driver": "Heikki Kovalainen",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.718498871295094,
+        "avg rise/fall factor": 0.45535714285714285,
+        "race score": 706.3845587054004
+    },
+    {
+        "driver": "Kamui Kobayashi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.330733340286331,
+        "avg rise/fall factor": 0.8026315789473685,
+        "race score": 704.9978011318749
+    },
+    {
+        "driver": "Martin Brundle",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.10594547390058,
+        "avg rise/fall factor": 0.5151515151515151,
+        "race score": 703.1351094422363
+    },
+    {
+        "driver": "Lance Stroll",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.123963979403259,
+        "avg rise/fall factor": 1.4404761904761905,
+        "race score": 696.3101050581929
+    },
+    {
+        "driver": "John Watson",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.969813299576001,
+        "avg rise/fall factor": -0.05555555555555555,
+        "race score": 695.7738619406402
+    },
+    {
+        "driver": "Pascal Wehrlein",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.6635616461296463,
+        "avg rise/fall factor": 2.2051282051282053,
+        "race score": 692.413151118503
+    },
+    {
+        "driver": "S\u00e9bastien Buemi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.007333185232471,
+        "avg rise/fall factor": 0.2545454545454545,
+        "race score": 691.3742653576529
+    },
+    {
+        "driver": "Mika H\u00e4kkinen",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.10594547390058,
+        "avg rise/fall factor": -2.9393939393939394,
+        "race score": 691.3450171661386
+    },
+    {
+        "driver": "\u00c9rik Comas",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.143134726391533,
+        "avg rise/fall factor": 3.9682539682539684,
+        "race score": 686.7739039318535
+    },
+    {
+        "driver": "Philippe Alliot",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.7535901911063645,
+        "avg rise/fall factor": 2.0258620689655173,
+        "race score": 681.3206079080552
+    },
+    {
+        "driver": "Elio de Angelis",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.6913478822291435,
+        "avg rise/fall factor": -1.0825688073394495,
+        "race score": 681.235360366265
+    },
+    {
+        "driver": "Christijan Albers",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.828641396489095,
+        "avg rise/fall factor": 2.108695652173913,
+        "race score": 681.1652432362338
+    },
+    {
+        "driver": "Derek Warwick",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.087596335232384,
+        "avg rise/fall factor": -1.7654320987654322,
+        "race score": 681.0784056924981
+    },
+    {
+        "driver": "Riccardo Patrese",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.54907608489522,
+        "avg rise/fall factor": -4.108949416342412,
+        "race score": 678.5202955946783
+    },
+    {
+        "driver": "Carlos Reutemann",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.912654885736052,
+        "avg rise/fall factor": -2.9779411764705883,
+        "race score": 678.3798437803166
+    },
+    {
+        "driver": "Antonio Giovinazzi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.127134385045092,
+        "avg rise/fall factor": 0.5806451612903226,
+        "race score": 676.3840723619866
+    },
+    {
+        "driver": "Johnny Herbert",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.10594547390058,
+        "avg rise/fall factor": 0.08484848484848485,
+        "race score": 667.3006557526795
+    },
+    {
+        "driver": "Jos Verstappen",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.672828834461906,
+        "avg rise/fall factor": 0.6728971962616822,
+        "race score": 664.633476931549
+    },
+    {
+        "driver": "Paul di Resta",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.07753744390572,
+        "avg rise/fall factor": 0.5423728813559322,
+        "race score": 663.0490548615505
+    },
+    {
+        "driver": "Christian Fittipaldi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.7612001156935624,
+        "avg rise/fall factor": 5.627906976744186,
+        "race score": 662.0586901321994
+    },
+    {
+        "driver": "Felipe Nasr",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.6888794541139363,
+        "avg rise/fall factor": 2.525,
+        "race score": 660.678310231806
+    },
+    {
+        "driver": "Jackie Stewart",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.605170185988092,
+        "avg rise/fall factor": -4.75,
+        "race score": 657.8946127702587
+    },
+    {
+        "driver": "Ralf Schumacher",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.19295685089021,
+        "avg rise/fall factor": -2.95,
+        "race score": 657.8610837269414
+    },
+    {
+        "driver": "Philippe Streiff",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.9889840465642745,
+        "avg rise/fall factor": 4.37037037037037,
+        "race score": 655.9662654350141
+    },
+    {
+        "driver": "Stefano Modena",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.394449154672439,
+        "avg rise/fall factor": 0.3333333333333333,
+        "race score": 655.2611961744904
+    },
+    {
+        "driver": "Pedro de la Rosa",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.672828834461906,
+        "avg rise/fall factor": 0.34579439252336447,
+        "race score": 654.1523655271484
+    },
+    {
+        "driver": "Keke Rosberg",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.852030263919617,
+        "avg rise/fall factor": -1.84375,
+        "race score": 652.8634159022466
+    },
+    {
+        "driver": "John Surtees",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.727387818712341,
+        "avg rise/fall factor": -4.84070796460177,
+        "race score": 652.0030013684233
+    },
+    {
+        "driver": "Tiago Monteiro",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.6109179126442243,
+        "avg rise/fall factor": 3.27027027027027,
+        "race score": 650.2580014040126
+    },
+    {
+        "driver": "Andrea de Cesaris",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.365976015021851,
+        "avg rise/fall factor": -1.47196261682243,
+        "race score": 649.1075752377134
+    },
+    {
+        "driver": "Vitantonio Liuzzi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.382026634673881,
+        "avg rise/fall factor": 1.1875,
+        "race score": 648.4303912658676
+    },
+    {
+        "driver": "Pastor Maldonado",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.564348191467836,
+        "avg rise/fall factor": -1.2291666666666667,
+        "race score": 644.7141820448319
+    },
+    {
+        "driver": "Marc Gen\u00e9",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.58351893845611,
+        "avg rise/fall factor": 5.083333333333333,
+        "race score": 640.255383670825
+    },
+    {
+        "driver": "Daniil Kvyat",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.718498871295094,
+        "avg rise/fall factor": -0.5446428571428571,
+        "race score": 637.7556778005817
+    },
+    {
+        "driver": "Yuki Tsunoda",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.499809670330265,
+        "avg rise/fall factor": -0.9222222222222223,
+        "race score": 637.4730366301209
+    },
+    {
+        "driver": "Alex Caffi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.330733340286331,
+        "avg rise/fall factor": 3.9210526315789473,
+        "race score": 630.805501012759
+    },
+    {
+        "driver": "David Coulthard",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.5093883366279774,
+        "avg rise/fall factor": -2.603238866396761,
+        "race score": 626.1966322368172
+    },
+    {
+        "driver": "Charles Pic",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.6635616461296463,
+        "avg rise/fall factor": 2.7435897435897436,
+        "race score": 622.8054798420399
+    },
+    {
+        "driver": "Jaime Alguersuari",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.828641396489095,
+        "avg rise/fall factor": 1.5217391304347827,
+        "race score": 621.9877642600653
+    },
+    {
+        "driver": "Bruce McLaren",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.553876891600541,
+        "avg rise/fall factor": -2.4210526315789473,
+        "race score": 620.2380326359937
+    },
+    {
+        "driver": "Narain Karthikeyan",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.8501476017100584,
+        "avg rise/fall factor": 2.3191489361702127,
+        "race score": 613.893747387557
+    },
+    {
+        "driver": "Jules Bianchi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.5263605246161616,
+        "avg rise/fall factor": 1.911764705882353,
+        "race score": 611.4086850768315
+    },
+    {
+        "driver": "Gianni Morbidelli",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.248495242049359,
+        "avg rise/fall factor": 1.1142857142857143,
+        "race score": 610.508766282493
+    },
+    {
+        "driver": "Denny Hulme",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.718498871295094,
+        "avg rise/fall factor": -2.044642857142857,
+        "race score": 604.8947035183478
+    },
+    {
+        "driver": "Graham Hill",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.087596335232384,
+        "avg rise/fall factor": -1.3024691358024691,
+        "race score": 600.3363675574212
+    },
+    {
+        "driver": "\u00c9ric Bernard",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.8501476017100584,
+        "avg rise/fall factor": 3.0851063829787235,
+        "race score": 598.6569930488746
+    },
+    {
+        "driver": "Ren\u00e9 Arnoux",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.099866427824199,
+        "avg rise/fall factor": -1.4878048780487805,
+        "race score": 598.5501768460987
+    },
+    {
+        "driver": "Clay Regazzoni",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.859812404361672,
+        "avg rise/fall factor": -2.0155038759689923,
+        "race score": 592.6710755458747
+    },
+    {
+        "driver": "Pierre-Henri Raphanel",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.833213344056216,
+        "avg rise/fall factor": 3.6470588235294117,
+        "race score": 586.9751410450585
+    },
+    {
+        "driver": "Damon Hill",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.804021044733257,
+        "avg rise/fall factor": -2.959016393442623,
+        "race score": 582.9797669448841
+    },
+    {
+        "driver": "Takuma Sato",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.51085950651685,
+        "avg rise/fall factor": 0.14285714285714285,
+        "race score": 582.3470053028566
+    },
+    {
+        "driver": "Christian Danner",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.8501476017100584,
+        "avg rise/fall factor": 5.872340425531915,
+        "race score": 581.9457140967713
+    },
+    {
+        "driver": "Ronnie Peterson",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.727387818712341,
+        "avg rise/fall factor": -3.725663716814159,
+        "race score": 581.5942075729112
+    },
+    {
+        "driver": "Eddie Irvine",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.990432586778736,
+        "avg rise/fall factor": -2.557823129251701,
+        "race score": 578.2791066883605
+    },
+    {
+        "driver": "Chris Amon",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.634728988229636,
+        "avg rise/fall factor": -3.737864077669903,
+        "race score": 576.1463103426433
+    },
+    {
+        "driver": "Guanyu Zhou",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.219507705176107,
+        "avg rise/fall factor": 1.3088235294117647,
+        "race score": 574.659718494646
+    },
+    {
+        "driver": "Jean-\u00c9ric Vergne",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.060443010546419,
+        "avg rise/fall factor": 0.08620689655172414,
+        "race score": 574.6226936304314
+    },
+    {
+        "driver": "Mick Schumacher",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.784189633918261,
+        "avg rise/fall factor": 0.6136363636363636,
+        "race score": 572.7887036794458
+    },
+    {
+        "driver": "Nicholas Latifi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.110873864173311,
+        "avg rise/fall factor": 1.6721311475409837,
+        "race score": 559.4158024016831
+    },
+    {
+        "driver": "Gabriele Tarquini",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.356708826689592,
+        "avg rise/fall factor": 3.5,
+        "race score": 556.6533354716471
+    },
+    {
+        "driver": "Maur\u00edcio Gugelmin",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.382026634673881,
+        "avg rise/fall factor": 0.8875,
+        "race score": 553.1213119617107
+    },
+    {
+        "driver": "Oscar Piastri",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.828641396489095,
+        "avg rise/fall factor": -0.41304347826086957,
+        "race score": 549.5765030655978
+    },
+    {
+        "driver": "Gast\u00f3n Mazzacane",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.044522437723423,
+        "avg rise/fall factor": 5.9523809523809526,
+        "race score": 548.8839023438514
+    },
+    {
+        "driver": "Manfred Winkelhock",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.02535169073515,
+        "avg rise/fall factor": -1.6964285714285714,
+        "race score": 548.5979304230475
+    },
+    {
+        "driver": "Sergey Sirotkin",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.044522437723423,
+        "avg rise/fall factor": 1.380952380952381,
+        "race score": 547.5791070133986
+    },
+    {
+        "driver": "Jochen Mass",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.6443908991413725,
+        "avg rise/fall factor": 2.855769230769231,
+        "race score": 547.1449740026931
+    },
+    {
+        "driver": "Max Chilton",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.5553480614894135,
+        "avg rise/fall factor": 2.8,
+        "race score": 541.225556331874
+    },
+    {
+        "driver": "Eddie Cheever",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.962844630259907,
+        "avg rise/fall factor": 0.1958041958041958,
+        "race score": 540.9847699055344
+    },
+    {
+        "driver": "Jim Clark",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.290459441148391,
+        "avg rise/fall factor": -5.561643835616438,
+        "race score": 539.8926085806729
+    },
+    {
+        "driver": "Bertrand Gachot",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.430816798843313,
+        "avg rise/fall factor": 3.369047619047619,
+        "race score": 538.0277541452596
+    },
+    {
+        "driver": "Stefan Johansson",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.634728988229636,
+        "avg rise/fall factor": 2.825242718446602,
+        "race score": 536.7286152582825
+    },
+    {
+        "driver": "Christian Klien",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.9318256327243257,
+        "avg rise/fall factor": -0.5686274509803921,
+        "race score": 536.1159892149991
+    },
+    {
+        "driver": "Bruno Senna",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.828641396489095,
+        "avg rise/fall factor": 1.9130434782608696,
+        "race score": 536.0930268431797
+    },
+    {
+        "driver": "Piercarlo Ghinzani",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.709530201312334,
+        "avg rise/fall factor": 4.216216216216216,
+        "race score": 533.831612548755
+    },
+    {
+        "driver": "Jacky Ickx",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.7535901911063645,
+        "avg rise/fall factor": -1.9827586206896552,
+        "race score": 533.5495197259039
+    },
+    {
+        "driver": "Scott Speed",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.332204510175204,
+        "avg rise/fall factor": 1.9642857142857142,
+        "race score": 531.9626485886843
+    },
+    {
+        "driver": "Ivan Capelli",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.584967478670572,
+        "avg rise/fall factor": -0.9387755102040817,
+        "race score": 531.3883737014323
+    },
+    {
+        "driver": "JJ Lehto",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.248495242049359,
+        "avg rise/fall factor": 1.4714285714285715,
+        "race score": 531.3046764128585
+    },
+    {
+        "driver": "Gilles Villeneuve",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.219507705176107,
+        "avg rise/fall factor": -4.029411764705882,
+        "race score": 531.2856613487916
+    },
+    {
+        "driver": "Jean-Pierre Beltoise",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.477336814478207,
+        "avg rise/fall factor": -0.42045454545454547,
+        "race score": 529.6485936217971
+    },
+    {
+        "driver": "Alessandro Nannini",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.356708826689592,
+        "avg rise/fall factor": -2.0384615384615383,
+        "race score": 527.8320309258545
+    },
+    {
+        "driver": "Dan Gurney",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.418840607796598,
+        "avg rise/fall factor": -5.710843373493976,
+        "race score": 526.427661805937
+    },
+    {
+        "driver": "Stoffel Vandoorne",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.7376696182833684,
+        "avg rise/fall factor": 1.4523809523809523,
+        "race score": 525.4095577701192
+    },
+    {
+        "driver": "Karl Wendlinger",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.7376696182833684,
+        "avg rise/fall factor": -0.9285714285714286,
+        "race score": 523.8076993622835
+    },
+    {
+        "driver": "Patrick Depailler",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.442651256490317,
+        "avg rise/fall factor": -2.6705882352941175,
+        "race score": 521.6717904827041
+    },
+    {
+        "driver": "Esteban Guti\u00e9rrez",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.07753744390572,
+        "avg rise/fall factor": -0.3050847457627119,
+        "race score": 519.9896903041804
+    },
+    {
+        "driver": "Vitaly Petrov",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.060443010546419,
+        "avg rise/fall factor": 0.3103448275862069,
+        "race score": 518.7565984163615
+    },
+    {
+        "driver": "Luca Badoer",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.060443010546419,
+        "avg rise/fall factor": 4.103448275862069,
+        "race score": 518.3365525876843
+    },
+    {
+        "driver": "Gerhard Berger",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.3471075307174685,
+        "avg rise/fall factor": -4.9,
+        "race score": 516.1486512151133
+    },
+    {
+        "driver": "Patrick Tambay",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.812184355372417,
+        "avg rise/fall factor": -1.951219512195122,
+        "race score": 515.0210963749796
+    },
+    {
+        "driver": "Pedro Diniz",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.59511985013459,
+        "avg rise/fall factor": 1.4747474747474747,
+        "race score": 513.8179468786859
+    },
+    {
+        "driver": "Giedo van der Garde",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.9444389791664403,
+        "avg rise/fall factor": 1.9473684210526316,
+        "race score": 510.93764812167126
+    },
+    {
+        "driver": "Mario Andretti",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.812184355372417,
+        "avg rise/fall factor": -4.471544715447155,
+        "race score": 507.6267643167245
+    },
+    {
+        "driver": "Zsolt Baumgartner",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.995732273553991,
+        "avg rise/fall factor": 2.5,
+        "race score": 506.87790068533525
+    },
+    {
+        "driver": "Yannick Dalmas",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.912023005428146,
+        "avg rise/fall factor": 5.44,
+        "race score": 506.059295982185
+    },
+    {
+        "driver": "Will Stevens",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.995732273553991,
+        "avg rise/fall factor": 2.1,
+        "race score": 505.97918100326916
+    },
+    {
+        "driver": "Sakon Yamamoto",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.044522437723423,
+        "avg rise/fall factor": 3.9523809523809526,
+        "race score": 504.520861108453
+    },
+    {
+        "driver": "J\u00e9r\u00f4me d'Ambrosio",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.995732273553991,
+        "avg rise/fall factor": 3.35,
+        "race score": 503.7323817981036
+    },
+    {
+        "driver": "Toranosuke Takagi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.4657359027997265,
+        "avg rise/fall factor": 1.84375,
+        "race score": 498.7410572622731
+    },
+    {
+        "driver": "Mauro Baldi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.713572066704308,
+        "avg rise/fall factor": 4.609756097560975,
+        "race score": 496.4411828684465
+    },
+    {
+        "driver": "Tom Pryce",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.4657359027997265,
+        "avg rise/fall factor": -1.59375,
+        "race score": 496.14175533517334
+    },
+    {
+        "driver": "Mark Blundell",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.143134726391533,
+        "avg rise/fall factor": -0.31746031746031744,
+        "race score": 495.9924143880149
+    },
+    {
+        "driver": "Hans-Joachim Stuck",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.30406509320417,
+        "avg rise/fall factor": -0.20270270270270271,
+        "race score": 495.7236052618804
+    },
+    {
+        "driver": "Eliseo Salazar",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.6109179126442243,
+        "avg rise/fall factor": 6.1891891891891895,
+        "race score": 494.5005692802239
+    },
+    {
+        "driver": "Tony Brise",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.6094379124341003,
+        "avg rise/fall factor": 2.2,
+        "race score": 494.41932669975563
+    },
+    {
+        "driver": "Cristiano da Matta",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.332204510175204,
+        "avg rise/fall factor": -1.25,
+        "race score": 493.0472602019953
+    },
+    {
+        "driver": "Didier Pironi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.276666119016055,
+        "avg rise/fall factor": -1.6388888888888888,
+        "race score": 492.7075757949747
+    },
+    {
+        "driver": "Aguri Suzuki",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.477336814478207,
+        "avg rise/fall factor": 1.1363636363636365,
+        "race score": 492.1000189731047
+    },
+    {
+        "driver": "Jolyon Palmer",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.6109179126442243,
+        "avg rise/fall factor": 1.1081081081081081,
+        "race score": 491.5727979997016
+    },
+    {
+        "driver": "Ukyo Katayama",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.574710978503383,
+        "avg rise/fall factor": 0.35051546391752575,
+        "race score": 490.95609573422894
+    },
+    {
+        "driver": "Volker Weidler",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.302585092994046,
+        "avg rise/fall factor": 2.0,
+        "race score": 489.06907375193543
+    },
+    {
+        "driver": "Carlos Pace",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.143134726391533,
+        "avg rise/fall factor": -2.746031746031746,
+        "race score": 488.88989771420086
+    },
+    {
+        "driver": "Jack Brabham",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.6443908991413725,
+        "avg rise/fall factor": -4.644230769230769,
+        "race score": 487.39309878104746
+    },
+    {
+        "driver": "Nicola Larini",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.31748811353631,
+        "avg rise/fall factor": 3.16,
+        "race score": 483.38596919152536
+    },
+    {
+        "driver": "Juan Pablo Montoya",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.553876891600541,
+        "avg rise/fall factor": -4.231578947368421,
+        "race score": 481.896046223792
+    },
+    {
+        "driver": "Pedro Lamy",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.4657359027997265,
+        "avg rise/fall factor": 4.375,
+        "race score": 481.1957692543495
+    },
+    {
+        "driver": "Chico Serra",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.4965075614664802,
+        "avg rise/fall factor": 7.818181818181818,
+        "race score": 478.38580727336847
+    },
+    {
+        "driver": "Nigel Mansell",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.25227342804663,
+        "avg rise/fall factor": -5.104712041884817,
+        "race score": 473.77706226081347
+    },
+    {
+        "driver": "Derek Daly",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.1588830833596715,
+        "avg rise/fall factor": 3.734375,
+        "race score": 471.9682474131452
+    },
+    {
+        "driver": "Olivier Grouillard",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.127134385045092,
+        "avg rise/fall factor": 2.596774193548387,
+        "race score": 467.49781913180124
+    },
+    {
+        "driver": "Tarso Marques",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.258096538021482,
+        "avg rise/fall factor": 3.8461538461538463,
+        "race score": 466.15842774768896
+    },
+    {
+        "driver": "Roberto Merhi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.6390573296152584,
+        "avg rise/fall factor": 3.357142857142857,
+        "race score": 463.7200736323954
+    },
+    {
+        "driver": "Bruno Giacomelli",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.406719247264253,
+        "avg rise/fall factor": -2.6463414634146343,
+        "race score": 462.8667423986222
+    },
+    {
+        "driver": "Lucas di Grassi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.9444389791664403,
+        "avg rise/fall factor": 3.3684210526315788,
+        "race score": 457.4728350789122
+    },
+    {
+        "driver": "Stefan Bellof",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.091042453358316,
+        "avg rise/fall factor": 4.7272727272727275,
+        "race score": 456.9122753782384
+    },
+    {
+        "driver": "Enrique Bernoldi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.367295829986474,
+        "avg rise/fall factor": 0.7931034482758621,
+        "race score": 456.6749827357518
+    },
+    {
+        "driver": "S\u00e9bastien Bourdais",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.295836866004329,
+        "avg rise/fall factor": 0.5555555555555556,
+        "race score": 456.65650798971086
+    },
+    {
+        "driver": "Pedro Rodr\u00edguez",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.007333185232471,
+        "avg rise/fall factor": -1.5272727272727273,
+        "race score": 455.3059104457766
+    },
+    {
+        "driver": "Anthony Davidson",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.1780538303479458,
+        "avg rise/fall factor": 0.7083333333333334,
+        "race score": 449.2973602654408
+    },
+    {
+        "driver": "Richie Ginther",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.9889840465642745,
+        "avg rise/fall factor": -1.7222222222222223,
+        "race score": 446.7662132151987
+    },
+    {
+        "driver": "Luis P\u00e9rez-Sala",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.4657359027997265,
+        "avg rise/fall factor": 4.59375,
+        "race score": 445.45536775672736
+    },
+    {
+        "driver": "Alexander Wurz",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.23410650459726,
+        "avg rise/fall factor": 0.2898550724637681,
+        "race score": 443.4766334597738
+    },
+    {
+        "driver": "Rolf Stommelen",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.127134385045092,
+        "avg rise/fall factor": 2.935483870967742,
+        "race score": 441.536812516195
+    },
+    {
+        "driver": "Niki Lauda",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 5.111987788356544,
+        "avg rise/fall factor": -3.5060240963855422,
+        "race score": 437.62926783334245
+    },
+    {
+        "driver": "Karun Chandhok",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.3978952727983707,
+        "avg rise/fall factor": 5.363636363636363,
+        "race score": 434.2370348558504
+    },
+    {
+        "driver": "Gianmaria Bruni",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.8903717578961645,
+        "avg rise/fall factor": 0.7222222222222222,
+        "race score": 427.77502016863224
+    },
+    {
+        "driver": "Nikita Mazepin",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.091042453358316,
+        "avg rise/fall factor": 1.1363636363636365,
+        "race score": 425.72084698525896
+    },
+    {
+        "driver": "Arturo Merzario",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.382026634673881,
+        "avg rise/fall factor": 2.1,
+        "race score": 421.98916491909466
+    },
+    {
+        "driver": "Luciano Burti",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.70805020110221,
+        "avg rise/fall factor": 3.066666666666667,
+        "race score": 419.20617113062207
+    },
+    {
+        "driver": "Howden Ganley",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.713572066704308,
+        "avg rise/fall factor": 3.2195121951219514,
+        "race score": 414.1085729017584
+    },
+    {
+        "driver": "Slim Borgudd",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.70805020110221,
+        "avg rise/fall factor": 6.866666666666666,
+        "race score": 411.6236305675358
+    },
+    {
+        "driver": "Roberto Guerrero",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.332204510175204,
+        "avg rise/fall factor": 1.6071428571428572,
+        "race score": 411.28924239876795
+    },
+    {
+        "driver": "Jo Gartner",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.0794415416798357,
+        "avg rise/fall factor": 6.75,
+        "race score": 409.39005351821766
+    },
+    {
+        "driver": "Mark Donohue",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.3978952727983707,
+        "avg rise/fall factor": 3.6363636363636362,
+        "race score": 407.4242058963777
+    },
+    {
+        "driver": "Robert Doornbos",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.3978952727983707,
+        "avg rise/fall factor": 1.9090909090909092,
+        "race score": 407.4242058963777
+    },
+    {
+        "driver": "Guy Edwards",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.772588722239781,
+        "avg rise/fall factor": 7.3125,
+        "race score": 406.01096101298793
+    },
+    {
+        "driver": "Alex Yoong",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.8903717578961645,
+        "avg rise/fall factor": 4.0,
+        "race score": 403.68858885283095
+    },
+    {
+        "driver": "Jan Lammers",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.713572066704308,
+        "avg rise/fall factor": 5.219512195121951,
+        "race score": 398.0768105650106
+    },
+    {
+        "driver": "Brendon Hartley",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.2188758248682006,
+        "avg rise/fall factor": 0.08,
+        "race score": 394.3766660628519
+    },
+    {
+        "driver": "Tim Schenken",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.58351893845611,
+        "avg rise/fall factor": 1.4722222222222223,
+        "race score": 393.58983007376287
+    },
+    {
+        "driver": "Emanuele Pirro",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.6888794541139363,
+        "avg rise/fall factor": 0.875,
+        "race score": 392.5889959040757
+    },
+    {
+        "driver": "Kazuki Nakajima",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.58351893845611,
+        "avg rise/fall factor": 0.4722222222222222,
+        "race score": 390.3049377135114
+    },
+    {
+        "driver": "Raul Boesel",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.4011973816621555,
+        "avg rise/fall factor": 6.9,
+        "race score": 382.63470543699253
+    },
+    {
+        "driver": "Brian Henton",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.5553480614894135,
+        "avg rise/fall factor": 6.4,
+        "race score": 379.71117296706933
+    },
+    {
+        "driver": "Phil Hill",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.713572066704308,
+        "avg rise/fall factor": -1.024390243902439,
+        "race score": 379.5995251599452
+    },
+    {
+        "driver": "Allan McNish",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.833213344056216,
+        "avg rise/fall factor": 0.23529411764705882,
+        "race score": 377.983992018794
+    },
+    {
+        "driver": "Carel Godin de Beaufort",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.258096538021482,
+        "avg rise/fall factor": 4.923076923076923,
+        "race score": 377.8138870051834
+    },
+    {
+        "driver": "Henri Pescarolo",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.1588830833596715,
+        "avg rise/fall factor": 3.203125,
+        "race score": 376.8337968812927
+    },
+    {
+        "driver": "Martin Donnelly",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.70805020110221,
+        "avg rise/fall factor": -0.4,
+        "race score": 375.87736791298676
+    },
+    {
+        "driver": "David Brabham",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.4011973816621555,
+        "avg rise/fall factor": 6.566666666666666,
+        "race score": 374.13171198283703
+    },
+    {
+        "driver": "Jochen Rindt",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.127134385045092,
+        "avg rise/fall factor": -6.903225806451613,
+        "race score": 373.43909516295105
+    },
+    {
+        "driver": "Liam Lawson",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.3978952727983707,
+        "avg rise/fall factor": 0.45454545454545453,
+        "race score": 373.41769111850994
+    },
+    {
+        "driver": "Roberto Moreno",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.31748811353631,
+        "avg rise/fall factor": 2.48,
+        "race score": 373.0309730095372
+    },
+    {
+        "driver": "Vic Elford",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.5649493574615367,
+        "avg rise/fall factor": 2.5384615384615383,
+        "race score": 372.90417581556187
+    },
+    {
+        "driver": "Shinji Nakano",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.4965075614664802,
+        "avg rise/fall factor": 3.303030303030303,
+        "race score": 372.536987458065
+    },
+    {
+        "driver": "Logan Sargeant",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.58351893845611,
+        "avg rise/fall factor": 0.8611111111111112,
+        "race score": 370.8942101302074
+    },
+    {
+        "driver": "Olivier Beretta",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.302585092994046,
+        "avg rise/fall factor": 6.4,
+        "race score": 370.2556829534426
+    },
+    {
+        "driver": "George Follmer",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.5649493574615367,
+        "avg rise/fall factor": 4.230769230769231,
+        "race score": 369.9446188646448
+    },
+    {
+        "driver": "Beppe Gabbiani",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.833213344056216,
+        "avg rise/fall factor": 6.470588235294118,
+        "race score": 368.9843731612037
+    },
+    {
+        "driver": "Patrick Friesacher",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.3978952727983707,
+        "avg rise/fall factor": 0.45454545454545453,
+        "race score": 363.6081195479711
+    },
+    {
+        "driver": "Rio Haryanto",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.4849066497880004,
+        "avg rise/fall factor": 1.3333333333333333,
+        "race score": 362.17514420660103
+    },
+    {
+        "driver": "Justin Wilson",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.772588722239781,
+        "avg rise/fall factor": 0.5,
+        "race score": 360.7831074814515
+    },
+    {
+        "driver": "Johnny Cecotto",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.1354942159291497,
+        "avg rise/fall factor": 3.782608695652174,
+        "race score": 360.3091831609018
+    },
+    {
+        "driver": "Harald Ertl",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.091042453358316,
+        "avg rise/fall factor": 6.590909090909091,
+        "race score": 356.5938975737912
+    },
+    {
+        "driver": "Nyck de Vries",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.3978952727983707,
+        "avg rise/fall factor": 1.2727272727272727,
+        "race score": 355.7604622915401
+    },
+    {
+        "driver": "Nicolas Kiesa",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.6094379124341003,
+        "avg rise/fall factor": 6.6,
+        "race score": 355.3638910654493
+    },
+    {
+        "driver": "Ricardo Rosset",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.4965075614664802,
+        "avg rise/fall factor": 3.242424242424242,
+        "race score": 354.73658532696294
+    },
+    {
+        "driver": "Claudio Langes",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.6390573296152584,
+        "avg rise/fall factor": 0.0,
+        "race score": 353.44517807347205
+    },
+    {
+        "driver": "Eric van de Poele",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.367295829986474,
+        "avg rise/fall factor": 6.448275862068965,
+        "race score": 346.94758413791664
+    },
+    {
+        "driver": "Andrea Montermini",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.332204510175204,
+        "avg rise/fall factor": 3.5357142857142856,
+        "race score": 345.59721062674254
+    },
+    {
+        "driver": "Fabrizio Barbazza",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.995732273553991,
+        "avg rise/fall factor": 5.9,
+        "race score": 336.12116109275786
+    },
+    {
+        "driver": "Bernd Schneider",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.5263605246161616,
+        "avg rise/fall factor": 3.911764705882353,
+        "race score": 332.3076212020642
+    },
+    {
+        "driver": "Pascal Fabre",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.6390573296152584,
+        "avg rise/fall factor": 10.642857142857142,
+        "race score": 331.955711246605
+    },
+    {
+        "driver": "Rupert Keegan",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.6109179126442243,
+        "avg rise/fall factor": 5.594594594594595,
+        "race score": 329.3742690587638
+    },
+    {
+        "driver": "Joachim Winkelhock",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.9459101490553132,
+        "avg rise/fall factor": 0.0,
+        "race score": 327.7468665337449
+    },
+    {
+        "driver": "Julian Bailey",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.995732273553991,
+        "avg rise/fall factor": 9.3,
+        "race score": 326.2352445900296
+    },
+    {
+        "driver": "Corrado Fabi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.8903717578961645,
+        "avg rise/fall factor": 5.5,
+        "race score": 325.6485513896345
+    },
+    {
+        "driver": "Patrick N\u00e8ve",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.5649493574615367,
+        "avg rise/fall factor": 8.153846153846153,
+        "race score": 323.1836190401536
+    },
+    {
+        "driver": "Gijs van Lennep",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.0794415416798357,
+        "avg rise/fall factor": 10.5,
+        "race score": 321.2737181895346
+    },
+    {
+        "driver": "Hans Binder",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.70805020110221,
+        "avg rise/fall factor": 5.733333333333333,
+        "race score": 319.5499237300608
+    },
+    {
+        "driver": "Alex Zanardi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.784189633918261,
+        "avg rise/fall factor": 0.9545454545454546,
+        "race score": 318.12994217871926
+    },
+    {
+        "driver": "Franco Colapinto",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.1972245773362196,
+        "avg rise/fall factor": 1.6666666666666667,
+        "race score": 317.86515552130646
+    },
+    {
+        "driver": "Giorgio Pantano",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.6390573296152584,
+        "avg rise/fall factor": -0.6428571428571429,
+        "race score": 316.6868795538309
+    },
+    {
+        "driver": "Wolfgang von Trips",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.772588722239781,
+        "avg rise/fall factor": -1.125,
+        "race score": 315.5552539499151
+    },
+    {
+        "driver": "Pedro Chaves",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.5649493574615367,
+        "avg rise/fall factor": 0.0,
+        "race score": 315.488770967769
+    },
+    {
+        "driver": "Huub Rothengatter",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.4011973816621555,
+        "avg rise/fall factor": 6.3,
+        "race score": 314.27063806558317
+    },
+    {
+        "driver": "Franck Montagny",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.9459101490553132,
+        "avg rise/fall factor": 2.7142857142857144,
+        "race score": 311.0676366846993
+    },
+    {
+        "driver": "Riccardo Paletti",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.0794415416798357,
+        "avg rise/fall factor": 1.875,
+        "race score": 310.35665009571545
+    },
+    {
+        "driver": "Alexander Rossi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.6094379124341003,
+        "avg rise/fall factor": 3.4,
+        "race score": 309.9777419348076
+    },
+    {
+        "driver": "Paul Belmondo",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.295836866004329,
+        "avg rise/fall factor": 7.518518518518518,
+        "race score": 308.3438490195161
+    },
+    {
+        "driver": "Lorenzo Bandini",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.7376696182833684,
+        "avg rise/fall factor": -2.142857142857143,
+        "race score": 307.5568143044601
+    },
+    {
+        "driver": "Ant\u00f4nio Pizzonia",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.995732273553991,
+        "avg rise/fall factor": -1.0,
+        "race score": 304.66597222044095
+    },
+    {
+        "driver": "Max Papis",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.9459101490553132,
+        "avg rise/fall factor": 0.7142857142857143,
+        "race score": 300.22613728281976
+    },
+    {
+        "driver": "Jean-Marc Gounon",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.1972245773362196,
+        "avg rise/fall factor": 8.333333333333334,
+        "race score": 298.8225425177259
+    },
+    {
+        "driver": "David Kennedy",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.9459101490553132,
+        "avg rise/fall factor": 6.142857142857143,
+        "race score": 298.5582142979152
+    },
+    {
+        "driver": "Ralph Firman",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.6390573296152584,
+        "avg rise/fall factor": 1.7142857142857142,
+        "race score": 297.4594618666341
+    },
+    {
+        "driver": "Danny Sullivan",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.70805020110221,
+        "avg rise/fall factor": 5.466666666666667,
+        "race score": 294.6358618799204
+    },
+    {
+        "driver": "Jean-Pierre Jabouille",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.02535169073515,
+        "avg rise/fall factor": -6.464285714285714,
+        "race score": 294.5694862255829
+    },
+    {
+        "driver": "Gregor Foitek",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.091042453358316,
+        "avg rise/fall factor": 3.772727272727273,
+        "race score": 292.1035118423608
+    },
+    {
+        "driver": "Mike Hailwood",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.912023005428146,
+        "avg rise/fall factor": -1.04,
+        "race score": 291.9933971251568
+    },
+    {
+        "driver": "Perry McCarthy",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.9459101490553132,
+        "avg rise/fall factor": 1.2857142857142858,
+        "race score": 291.886522358297
+    },
+    {
+        "driver": "Emanuele Naspetti",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.791759469228055,
+        "avg rise/fall factor": 7.333333333333333,
+        "race score": 284.8897556072608
+    },
+    {
+        "driver": "Alex Ribeiro",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.995732273553991,
+        "avg rise/fall factor": 6.9,
+        "race score": 280.8499006456866
+    },
+    {
+        "driver": "Jean-Christophe Boullion",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.3978952727983707,
+        "avg rise/fall factor": 2.727272727272727,
+        "race score": 280.55374691740934
+    },
+    {
+        "driver": "Oscar Larrauri",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.044522437723423,
+        "avg rise/fall factor": 3.9523809523809526,
+        "race score": 279.66113249373734
+    },
+    {
+        "driver": "Taki Inoue",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.8903717578961645,
+        "avg rise/fall factor": 2.888888888888889,
+        "race score": 275.0670456264516
+    },
+    {
+        "driver": "Fran\u00e7ois Hesnault",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.044522437723423,
+        "avg rise/fall factor": 1.2857142857142858,
+        "race score": 265.7433156355731
+    },
+    {
+        "driver": "Esteban Tuero",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.772588722239781,
+        "avg rise/fall factor": 2.125,
+        "race score": 265.648656949599
+    },
+    {
+        "driver": "Allen Berg",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.1972245773362196,
+        "avg rise/fall factor": 8.11111111111111,
+        "race score": 265.1317656652372
+    },
+    {
+        "driver": "Ricardo Zonta",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.6375861597263857,
+        "avg rise/fall factor": 0.05263157894736842,
+        "race score": 265.0651599021674
+    },
+    {
+        "driver": "Wilson Fittipaldi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.4657359027997265,
+        "avg rise/fall factor": 1.15625,
+        "race score": 264.15405834151665
+    },
+    {
+        "driver": "Jan Magnussen",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.2188758248682006,
+        "avg rise/fall factor": 0.16,
+        "race score": 262.66026730924517
+    },
+    {
+        "driver": "Leo Kinnunen",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.791759469228055,
+        "avg rise/fall factor": 9.833333333333334,
+        "race score": 260.7010027726821
+    },
+    {
+        "driver": "Stirling Moss",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.6390573296152584,
+        "avg rise/fall factor": -6.785714285714286,
+        "race score": 259.00462649224033
+    },
+    {
+        "driver": "Peter Revson",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.4657359027997265,
+        "avg rise/fall factor": -1.8125,
+        "race score": 256.68106530110475
+    },
+    {
+        "driver": "Brian Redman",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.70805020110221,
+        "avg rise/fall factor": 3.8,
+        "race score": 252.39027874272594
+    },
+    {
+        "driver": "Jackie Oliver",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.9512437185814275,
+        "avg rise/fall factor": -2.269230769230769,
+        "race score": 252.11974342794568
+    },
+    {
+        "driver": "Michael Bartels",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.3862943611198906,
+        "avg rise/fall factor": 8.75,
+        "race score": 247.45354345990046
+    },
+    {
+        "driver": "Danny Ongais",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.791759469228055,
+        "avg rise/fall factor": 4.166666666666667,
+        "race score": 245.47104728424358
+    },
+    {
+        "driver": "Fran\u00e7ois Cevert",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.871201010907891,
+        "avg rise/fall factor": -2.1666666666666665,
+        "race score": 243.15981349765195
+    },
+    {
+        "driver": "Hideki Noda",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 3.6666666666666665,
+        "race score": 238.3988666409798
+    },
+    {
+        "driver": "Yuji Ide",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.3862943611198906,
+        "avg rise/fall factor": 3.5,
+        "race score": 233.93717343898152
+    },
+    {
+        "driver": "Teo Fabi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.2626798770413155,
+        "avg rise/fall factor": -3.971830985915493,
+        "race score": 233.2466383423311
+    },
+    {
+        "driver": "Satoru Nakajima",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.382026634673881,
+        "avg rise/fall factor": 0.95,
+        "race score": 231.20668031198065
+    },
+    {
+        "driver": "Renzo Zorzi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.9459101490553132,
+        "avg rise/fall factor": 4.714285714285714,
+        "race score": 227.6714874394717
+    },
+    {
+        "driver": "Enrico Bertaggia",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.9459101490553132,
+        "avg rise/fall factor": 0.0,
+        "race score": 226.83752594701937
+    },
+    {
+        "driver": "Nelson Piquet Jr.",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.332204510175204,
+        "avg rise/fall factor": -0.2857142857142857,
+        "race score": 222.42465105419487
+    },
+    {
+        "driver": "Geoff Lees",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.4849066497880004,
+        "avg rise/fall factor": 7.0,
+        "race score": 221.15669183113204
+    },
+    {
+        "driver": "Jos\u00e9 Dolhem",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 6.0,
+        "race score": 219.72245773362192
+    },
+    {
+        "driver": "Vern Schuppan",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.5649493574615367,
+        "avg rise/fall factor": 5.846153846153846,
+        "race score": 219.5991257580531
+    },
+    {
+        "driver": "Michel Lecl\u00e8re",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 9.666666666666666,
+        "race score": 218.62384544495382
+    },
+    {
+        "driver": "Tony Settember",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.9459101490553132,
+        "avg rise/fall factor": 3.4285714285714284,
+        "race score": 216.82998803759202
+    },
+    {
+        "driver": "Innes Ireland",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.8501476017100584,
+        "avg rise/fall factor": -3.021276595744681,
+        "race score": 212.085790230369
+    },
+    {
+        "driver": "Larry Perkins",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.5649493574615367,
+        "avg rise/fall factor": 3.230769230769231,
+        "race score": 211.90427768566855
+    },
+    {
+        "driver": "Andrea Chiesa",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.302585092994046,
+        "avg rise/fall factor": 6.8,
+        "race score": 211.37731153685343
+    },
+    {
+        "driver": "Ian Scheckter",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.8903717578961645,
+        "avg rise/fall factor": 2.0555555555555554,
+        "race score": 210.5154097001039
+    },
+    {
+        "driver": "Michael Bleekemolen",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.6094379124341003,
+        "avg rise/fall factor": 8.6,
+        "race score": 202.78917696669663
+    },
+    {
+        "driver": "Brett Lunger",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.6109179126442243,
+        "avg rise/fall factor": 6.351351351351352,
+        "race score": 201.13788697188502
+    },
+    {
+        "driver": "Miguel \u00c1ngel Guerra",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.3862943611198906,
+        "avg rise/fall factor": 5.5,
+        "race score": 200.66610877210414
+    },
+    {
+        "driver": "Mike Wilds",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.0794415416798357,
+        "avg rise/fall factor": 6.75,
+        "race score": 200.40617857939415
+    },
+    {
+        "driver": "Mike Spence",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.6109179126442243,
+        "avg rise/fall factor": -2.2432432432432434,
+        "race score": 199.96677845967602
+    },
+    {
+        "driver": "Giovanni Lavaggi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.302585092994046,
+        "avg rise/fall factor": 3.0,
+        "race score": 196.1802499230927
+    },
+    {
+        "driver": "Norberto Fontana",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.3862943611198906,
+        "avg rise/fall factor": 4.5,
+        "race score": 194.42778414706464
+    },
+    {
+        "driver": "Tony Maggs",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.295836866004329,
+        "avg rise/fall factor": 2.259259259259259,
+        "race score": 192.98955870936462
+    },
+    {
+        "driver": "David Purley",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.3978952727983707,
+        "avg rise/fall factor": 4.818181818181818,
+        "race score": 192.2676027825603
+    },
+    {
+        "driver": "Mike Beuttler",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.367295829986474,
+        "avg rise/fall factor": 5.137931034482759,
+        "race score": 190.89083946544008
+    },
+    {
+        "driver": "Ludovico Scarfiotti",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.4849066497880004,
+        "avg rise/fall factor": -1.25,
+        "race score": 189.47413204633503
+    },
+    {
+        "driver": "Domenico Schiattarella",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.9459101490553132,
+        "avg rise/fall factor": 5.714285714285714,
+        "race score": 188.47529729421456
+    },
+    {
+        "driver": "Oliver Bearman",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 3.3333333333333335,
+        "race score": 187.86270136224672
+    },
+    {
+        "driver": "Jo Bonnier",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.465908118654584,
+        "avg rise/fall factor": -1.1379310344827587,
+        "race score": 186.02817266671516
+    },
+    {
+        "driver": "Ingo Hoffmann",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.6094379124341003,
+        "avg rise/fall factor": 7.6,
+        "race score": 185.40724751240836
+    },
+    {
+        "driver": "David Hobbs",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.9459101490553132,
+        "avg rise/fall factor": 7.714285714285714,
+        "race score": 185.13945132440557
+    },
+    {
+        "driver": "Ronnie Bucknum",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.3978952727983707,
+        "avg rise/fall factor": -2.8181818181818183,
+        "race score": 183.76597408809332
+    },
+    {
+        "driver": "Lamberto Leoni",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.6094379124341003,
+        "avg rise/fall factor": 4.2,
+        "race score": 183.4759220174874
+    },
+    {
+        "driver": "Piers Courage",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.4011973816621555,
+        "avg rise/fall factor": -3.3333333333333335,
+        "race score": 183.3245388715902
+    },
+    {
+        "driver": "Reine Wisell",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.1354942159291497,
+        "avg rise/fall factor": -1.391304347826087,
+        "race score": 183.2219228786425
+    },
+    {
+        "driver": "Giovanna Amati",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 10.0,
+        "race score": 181.2710276302381
+    },
+    {
+        "driver": "Tony Brooks",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.70805020110221,
+        "avg rise/fall factor": -3.933333333333333,
+        "race score": 173.31521287054142
+    },
+    {
+        "driver": "Bob Evans",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.791759469228055,
+        "avg rise/fall factor": 5.333333333333333,
+        "race score": 172.90478878050732
+    },
+    {
+        "driver": "Gunnar Nilsson",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.332204510175204,
+        "avg rise/fall factor": -2.357142857142857,
+        "race score": 172.44158340156673
+    },
+    {
+        "driver": "Olivier Gendebien",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.0794415416798357,
+        "avg rise/fall factor": 2.5,
+        "race score": 172.33371776671638
+    },
+    {
+        "driver": "Mike Thackwell",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.6094379124341003,
+        "avg rise/fall factor": 4.0,
+        "race score": 168.99098080558053
+    },
+    {
+        "driver": "Kenny Acheson",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.302585092994046,
+        "avg rise/fall factor": 7.6,
+        "race score": 164.40457563977492
+    },
+    {
+        "driver": "Conny Andersson",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.6094379124341003,
+        "avg rise/fall factor": 9.2,
+        "race score": 161.26567882589683
+    },
+    {
+        "driver": "Toshio Suzuki",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 10.5,
+        "race score": 161.15671948018726
+    },
+    {
+        "driver": "Sam Tingle",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.6094379124341003,
+        "avg rise/fall factor": 1.8,
+        "race score": 160.30001607843639
+    },
+    {
+        "driver": "Tommy Byrne",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.6094379124341003,
+        "avg rise/fall factor": 7.8,
+        "race score": 160.30001607843639
+    },
+    {
+        "driver": "Peter Gethin",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.4339872044851463,
+        "avg rise/fall factor": 0.41935483870967744,
+        "race score": 158.51728031026596
+    },
+    {
+        "driver": "Franco Forini",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 6.666666666666667,
+        "race score": 156.00294499087158
+    },
+    {
+        "driver": "Derek Bell",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.772588722239781,
+        "avg rise/fall factor": 3.8125,
+        "race score": 155.4382552405677
+    },
+    {
+        "driver": "Roland Ratzenberger",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 9.333333333333334,
+        "race score": 153.80572041353537
+    },
+    {
+        "driver": "Rikky von Opel",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.6390573296152584,
+        "avg rise/fall factor": 5.428571428571429,
+        "race score": 153.25382921265748
+    },
+    {
+        "driver": "Roelof Wunderink",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 4.333333333333333,
+        "race score": 152.70710812486726
+    },
+    {
+        "driver": "Brian Naylor",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.6094379124341003,
+        "avg rise/fall factor": -0.2,
+        "race score": 152.57471409875268
+    },
+    {
+        "driver": "Hubert Hahne",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.6094379124341003,
+        "avg rise/fall factor": 4.6,
+        "race score": 152.57471409875268
+    },
+    {
+        "driver": "Chris Irwin",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.302585092994046,
+        "avg rise/fall factor": -0.2,
+        "race score": 149.89828955391235
+    },
+    {
+        "driver": "Helmuth Koinigg",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 8.666666666666666,
+        "race score": 149.4112712588629
+    },
+    {
+        "driver": "Boy Hayje",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.9459101490553132,
+        "avg rise/fall factor": 5.428571428571429,
+        "race score": 146.77722267160078
+    },
+    {
+        "driver": "Tom\u00e1\u0161 Enge",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 4.666666666666667,
+        "race score": 146.1154343928586
+    },
+    {
+        "driver": "Roberto Lippi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 9.333333333333334,
+        "race score": 137.32653608351373
+    },
+    {
+        "driver": "Richard Attwood",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.8903717578961645,
+        "avg rise/fall factor": 2.9444444444444446,
+        "race score": 136.81092987375183
+    },
+    {
+        "driver": "Dieter Quester",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 9.0,
+        "race score": 134.1239794383494
+    },
+    {
+        "driver": "Jo Siffert",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.605170185988092,
+        "avg rise/fall factor": -2.01,
+        "race score": 132.62890135645708
+    },
+    {
+        "driver": "Mike Parkes",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.791759469228055,
+        "avg rise/fall factor": -5.833333333333333,
+        "race score": 129.902561519034
+    },
+    {
+        "driver": "Jean-Denis D\u00e9l\u00e9traz",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 6.0,
+        "race score": 128.53763777416884
+    },
+    {
+        "driver": "Nanni Galli",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.995732273553991,
+        "avg rise/fall factor": 3.25,
+        "race score": 127.61819485340007
+    },
+    {
+        "driver": "Divina Galica",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 7.666666666666667,
+        "race score": 125.24180090816454
+    },
+    {
+        "driver": "Adri\u00e1n Campos",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.044522437723423,
+        "avg rise/fall factor": 2.6666666666666665,
+        "race score": 123.08569283938978
+    },
+    {
+        "driver": "Patrick Gaillard",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.6094379124341003,
+        "avg rise/fall factor": 6.0,
+        "race score": 122.63916892747842
+    },
+    {
+        "driver": "Doug Serrurier",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 1.3333333333333333,
+        "race score": 120.84735175349206
+    },
+    {
+        "driver": "Ignazio Giunti",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.3862943611198906,
+        "avg rise/fall factor": -4.0,
+        "race score": 118.52816787575064
+    },
+    {
+        "driver": "Peter Arundell",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.5649493574615367,
+        "avg rise/fall factor": 1.7692307692307692,
+        "race score": 118.38227803668639
+    },
+    {
+        "driver": "Gianfranco Brancatelli",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 6.666666666666667,
+        "race score": 113.15706573281531
+    },
+    {
+        "driver": "Tony Trimmer",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.3862943611198906,
+        "avg rise/fall factor": 6.25,
+        "race score": 109.17068093819138
+    },
+    {
+        "driver": "Tom Bels\u00f8",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.6094379124341003,
+        "avg rise/fall factor": 7.6,
+        "race score": 108.1542277155715
+    },
+    {
+        "driver": "Helmut Marko",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.302585092994046,
+        "avg rise/fall factor": 3.9,
+        "race score": 104.30710471263028
+    },
+    {
+        "driver": "Ian Ashley",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.302585092994046,
+        "avg rise/fall factor": 7.4,
+        "race score": 103.61632918473204
+    },
+    {
+        "driver": "Chuck Daigh",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.791759469228055,
+        "avg rise/fall factor": 0.8333333333333334,
+        "race score": 102.13028974599914
+    },
+    {
+        "driver": "Alberto Colombo",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 5.333333333333333,
+        "race score": 101.07233055746609
+    },
+    {
+        "driver": "Jacques Villeneuve, Sr.",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 7.666666666666667,
+        "race score": 99.973718268798
+    },
+    {
+        "driver": "Andrea de Adamich",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.58351893845611,
+        "avg rise/fall factor": 1.5277777777777777,
+        "race score": 97.65089107292896
+    },
+    {
+        "driver": "Hans Herrmann",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.791759469228055,
+        "avg rise/fall factor": 3.5,
+        "race score": 94.96325186908693
+    },
+    {
+        "driver": "Ricardo Rodr\u00edguez",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.791759469228055,
+        "avg rise/fall factor": -4.666666666666667,
+        "race score": 94.9632518690869
+    },
+    {
+        "driver": "Noritake Takahara",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 7.0,
+        "race score": 94.61459014643253
+    },
+    {
+        "driver": "Al Pease",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": -1.6666666666666667,
+        "race score": 91.18481995945311
+    },
+    {
+        "driver": "John Love",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.302585092994046,
+        "avg rise/fall factor": 3.6,
+        "race score": 90.491594154666
+    },
+    {
+        "driver": "Paolo Barilla",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.70805020110221,
+        "avg rise/fall factor": 5.266666666666667,
+        "race score": 90.44887671681381
+    },
+    {
+        "driver": "Nasif Est\u00e9fano",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 8.0,
+        "race score": 87.3365447505531
+    },
+    {
+        "driver": "Gary Brabham",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 0.0,
+        "race score": 85.25710320887326
+    },
+    {
+        "driver": "Naoki Hattori",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 0.0,
+        "race score": 85.25710320887326
+    },
+    {
+        "driver": "Jo Schlesser",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 2.3333333333333335,
+        "race score": 84.59314622744444
+    },
+    {
+        "driver": "Franck Lagorce",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 4.5,
+        "race score": 83.17766166719343
+    },
+    {
+        "driver": "Jean-Louis Schlesser",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 10.0,
+        "race score": 82.13794089635351
+    },
+    {
+        "driver": "Pietro Fittipaldi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 1.5,
+        "race score": 81.09822012551359
+    },
+    {
+        "driver": "Fran\u00e7ois Migault",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.70805020110221,
+        "avg rise/fall factor": 4.8,
+        "race score": 77.99184579174363
+    },
+    {
+        "driver": "Lance Reventlow",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.3862943611198906,
+        "avg rise/fall factor": 0.25,
+        "race score": 77.97905781299384
+    },
+    {
+        "driver": "Peter de Klerk",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.3862943611198906,
+        "avg rise/fall factor": 2.25,
+        "race score": 75.899616271314
+    },
+    {
+        "driver": "Tiff Needell",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 4.5,
+        "race score": 75.899616271314
+    },
+    {
+        "driver": "Chris Craft",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 7.5,
+        "race score": 74.85989550047408
+    },
+    {
+        "driver": "Jackie Pretorius",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.3862943611198906,
+        "avg rise/fall factor": 1.75,
+        "race score": 72.78045395879425
+    },
+    {
+        "driver": "Lucien Bianchi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.8903717578961645,
+        "avg rise/fall factor": 2.4444444444444446,
+        "race score": 66.4785504316118
+    },
+    {
+        "driver": "Teddy Pilette",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.3862943611198906,
+        "avg rise/fall factor": 11.0,
+        "race score": 65.50240856291482
+    },
+    {
+        "driver": "Ricardo Zunino",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.3978952727983707,
+        "avg rise/fall factor": 5.090909090909091,
+        "race score": 65.39714380359194
+    },
+    {
+        "driver": "Mikko Kozarowitzky",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 5.5,
+        "race score": 64.4626877920749
+    },
+    {
+        "driver": "Giancarlo Baghetti",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.044522437723423,
+        "avg rise/fall factor": 2.2857142857142856,
+        "race score": 64.36990296900944
+    },
+    {
+        "driver": "Sam Posey",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 4.5,
+        "race score": 63.42296702123499
+    },
+    {
+        "driver": "Bernard de Dryver",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 5.5,
+        "race score": 61.343525479555154
+    },
+    {
+        "driver": "Edgar Barth",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 2.5,
+        "race score": 60.303804708715234
+    },
+    {
+        "driver": "Roy Salvadori",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.833213344056216,
+        "avg rise/fall factor": -2.8823529411764706,
+        "race score": 58.99750139975889
+    },
+    {
+        "driver": "Philippe Adams",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 7.5,
+        "race score": 57.184642396195486
+    },
+    {
+        "driver": "Giorgio Francia",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 12.0,
+        "race score": 50.946317771155975
+    },
+    {
+        "driver": "Bob Anderson",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.367295829986474,
+        "avg rise/fall factor": 0.27586206896551724,
+        "race score": 50.85777839772678
+    },
+    {
+        "driver": "Jim Crawford",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 8.5,
+        "race score": 49.906597000316054
+    },
+    {
+        "driver": "Siegfried Stohr",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.5649493574615367,
+        "avg rise/fall factor": 4.230769230769231,
+        "race score": 46.760999824491066
+    },
+    {
+        "driver": "John Nicholson",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 10.0,
+        "race score": 45.747713916956386
+    },
+    {
+        "driver": "Bobby Unser",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 0.0,
+        "race score": 44.70799314611647
+    },
+    {
+        "driver": "John Campbell-Jones",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 9.0,
+        "race score": 44.70799314611647
+    },
+    {
+        "driver": "Kazuyoshi Hoshino",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 0.5,
+        "race score": 44.70799314611647
+    },
+    {
+        "driver": "Kurt Ahrens, Jr.",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.3862943611198906,
+        "avg rise/fall factor": 5.5,
+        "race score": 43.66827237527655
+    },
+    {
+        "driver": "Loris Kessel",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.3862943611198906,
+        "avg rise/fall factor": 8.5,
+        "race score": 43.66827237527655
+    },
+    {
+        "driver": "Roger Penske",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 6.0,
+        "race score": 43.66827237527655
+    },
+    {
+        "driver": "Bob Bondurant",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.1972245773362196,
+        "avg rise/fall factor": 0.8888888888888888,
+        "race score": 42.479675161833605
+    },
+    {
+        "driver": "Keith Greene",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.3862943611198906,
+        "avg rise/fall factor": 3.0,
+        "race score": 38.46966852107696
+    },
+    {
+        "driver": "Cliff Allison",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.3862943611198906,
+        "avg rise/fall factor": 2.5,
+        "race score": 37.42994775023704
+    },
+    {
+        "driver": "Giorgio Scarlatti",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.3862943611198906,
+        "avg rise/fall factor": -2.25,
+        "race score": 37.42994775023704
+    },
+    {
+        "driver": "Eddie Keizan",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 7.0,
+        "race score": 37.35281781471572
+    },
+    {
+        "driver": "Andr\u00e9 Pilette",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.6094379124341003,
+        "avg rise/fall factor": 5.4,
+        "race score": 36.69518440349751
+    },
+    {
+        "driver": "Trevor Taylor",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.332204510175204,
+        "avg rise/fall factor": -2.142857142857143,
+        "race score": 36.41623500405754
+    },
+    {
+        "driver": "Roger Williamson",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 0.0,
+        "race score": 33.27106466687737
+    },
+    {
+        "driver": "Damien Magee",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 7.5,
+        "race score": 31.191623125197538
+    },
+    {
+        "driver": "Jackie Lewis",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.302585092994046,
+        "avg rise/fall factor": 3.0,
+        "race score": 31.08489875541961
+    },
+    {
+        "driver": "John Taylor",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.6094379124341003,
+        "avg rise/fall factor": 7.8,
+        "race score": 29.935545171274278
+    },
+    {
+        "driver": "Alex Soler-Roig",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.302585092994046,
+        "avg rise/fall factor": 1.0,
+        "race score": 26.940245588030376
+    },
+    {
+        "driver": "G\u00e9rard Larrousse",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 9.0,
+        "race score": 25.993019270997948
+    },
+    {
+        "driver": "George Eaton",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.5649493574615367,
+        "avg rise/fall factor": 1.1538461538461537,
+        "race score": 25.452189777887483
+    },
+    {
+        "driver": "Silvio Moser",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.995732273553991,
+        "avg rise/fall factor": 2.25,
+        "race score": 25.16415109785353
+    },
+    {
+        "driver": "Michael Andretti",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.5649493574615367,
+        "avg rise/fall factor": -4.384615384615385,
+        "race score": 23.084544217153837
+    },
+    {
+        "driver": "Basil van Rooyen",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": -5.5,
+        "race score": 19.75469464595844
+    },
+    {
+        "driver": "Johnny Servoz-Gavin",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.5649493574615367,
+        "avg rise/fall factor": -1.3846153846153846,
+        "race score": 18.94116448586979
+    },
+    {
+        "driver": "Ernesto Brambilla",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 0.5,
+        "race score": 17.675253104278603
+    },
+    {
+        "driver": "Gerhard Mitter",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.9459101490553132,
+        "avg rise/fall factor": 3.857142857142857,
+        "race score": 16.679229849045555
+    },
+    {
+        "driver": "Alan Rees",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 7.666666666666667,
+        "race score": 16.479184330021663
+    },
+    {
+        "driver": "Jack Fairman",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 0.3333333333333333,
+        "race score": 16.479184330021653
+    },
+    {
+        "driver": "Bill Brack",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 0.6666666666666666,
+        "race score": 15.380572041353535
+    },
+    {
+        "driver": "Trevor Blokdyk",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 4.0,
+        "race score": 13.516370020918933
+    },
+    {
+        "driver": "M\u00e1rio de Ara\u00fajo Cabral",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.3862943611198906,
+        "avg rise/fall factor": -1.0,
+        "race score": 12.476649250079014
+    },
+    {
+        "driver": "Nino Vaccarella",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.6094379124341003,
+        "avg rise/fall factor": 2.0,
+        "race score": 11.587952969525507
+    },
+    {
+        "driver": "Paul Hawkins",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 3.6666666666666665,
+        "race score": 10.986122886681082
+    },
+    {
+        "driver": "Bobby Rahal",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 4.0,
+        "race score": 9.35748693755926
+    },
+    {
+        "driver": "Lella Lombardi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.3978952727983707,
+        "avg rise/fall factor": 8.0,
+        "race score": 5.885742942323262
+    },
+    {
+        "driver": "Walt Hansgen",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 3.0,
+        "race score": 4.1588830833596715
+    },
+    {
+        "driver": "Massimo Natili",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 4.0,
+        "race score": 3.1191623125197534
+    },
+    {
+        "driver": "Jim Hall",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.4849066497880004,
+        "avg rise/fall factor": 3.5833333333333335,
+        "race score": 1.863679987340964
+    },
+    {
+        "driver": "Alan Rollinson",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 2.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Alberto Rodriguez Larreta",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 6.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Alfonso Thiele",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": -11.0,
+        "race score": -0.0
+    },
+    {
+        "driver": "Andr\u00e9 Lotterer",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 1.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Andy Sutcliffe",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 0.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Antonio Creus",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 2.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Arthur Owen",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": -9.0,
+        "race score": -0.0
+    },
+    {
+        "driver": "Ben Pon",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": -2.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Bertil Roos",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 3.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Bob Drake",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 9.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Brian Gubby",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 4.0,
+        "race score": -0.0
+    },
+    {
+        "driver": "Brian Hart",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 5.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Brian McGuire",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 0.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Bruce Johnstone",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 8.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Carlo Facetti",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 7.0,
+        "race score": -0.0
+    },
+    {
+        "driver": "Carlo Franchi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 8.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Carlos Mendit\u00e9guy",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 8.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Clive Puzey",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 0.0,
+        "race score": -0.0
+    },
+    {
+        "driver": "Dave Morgan",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 5.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Desir\u00e9 Wilson",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 7.0,
+        "race score": -0.0
+    },
+    {
+        "driver": "Emilio Zapico",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 7.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Ernesto Prinoth",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 7.0,
+        "race score": -0.0
+    },
+    {
+        "driver": "Ettore Chimeri",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 1.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Frank Dochnal",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 0.0,
+        "race score": -0.0
+    },
+    {
+        "driver": "Fran\u00e7ois Mazet",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 11.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Fred Gamble",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 4.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Gaetano Starrabba",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 10.0,
+        "race score": -0.0
+    },
+    {
+        "driver": "Giorgio Bassi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 2.0,
+        "race score": -0.0
+    },
+    {
+        "driver": "Giulio Cabianca",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 0.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Graham McRae",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 8.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Gus Hutchison",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 2.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Guy Tunmer",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 14.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "G\u00fcnther Seiffert",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 10.0,
+        "race score": -0.0
+    },
+    {
+        "driver": "Hans Heyer",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 7.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Harry Schell",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": -11.0,
+        "race score": -0.0
+    },
+    {
+        "driver": "Heini Walter",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 0.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Heinz Schiller",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 0.0,
+        "race score": -0.0
+    },
+    {
+        "driver": "Hiroshi Fushida",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 8.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Horace Gould",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 0.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Jack Aitken",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 2.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Jack Doohan",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 5.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Jean-Claude Rudaz",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 0.0,
+        "race score": -0.0
+    },
+    {
+        "driver": "John Cannon",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 12.0,
+        "race score": -0.0
+    },
+    {
+        "driver": "John Cordts",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": -1.0,
+        "race score": -0.0
+    },
+    {
+        "driver": "John Rhodes",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 3.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Jonathan Williams",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 8.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Jos\u00e9 Froil\u00e1n Gonz\u00e1lez",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 1.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Juan Manuel Bordeu",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 0.0,
+        "race score": -0.0
+    },
+    {
+        "driver": "Kunimitsu Takahashi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 13.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Kurt Kuhnke",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 6.0,
+        "race score": -0.0
+    },
+    {
+        "driver": "Lloyd Ruby",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": -1.0,
+        "race score": -0.0
+    },
+    {
+        "driver": "Luiz Bueno",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 8.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Luki Botha",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": -3.0,
+        "race score": -0.0
+    },
+    {
+        "driver": "Marco Apicella",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 3.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Markus Winkelhock",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 2.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Masahiro Hasemi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": -1.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Masami Kuwashima",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 6.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Max Jean",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 3.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Mike Harris",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": -5.0,
+        "race score": -0.0
+    },
+    {
+        "driver": "Mike Taylor",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": -1.0,
+        "race score": -0.0
+    },
+    {
+        "driver": "Peter Broeker",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 14.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Peter Ryan",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 4.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Piero Drogo",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 7.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Renato Pirocchi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 17.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Ricardo Londo\u00f1o",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 0.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Rob Schroeder",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 7.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Roberto Bonomi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 6.0,
+        "race score": -0.0
+    },
+    {
+        "driver": "Robin Widdows",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": -2.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Rodger Ward",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": -3.0,
+        "race score": -0.0
+    },
+    {
+        "driver": "Stephen South",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 7.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "St\u00e9phane Sarrazin",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": -2.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Timmy Mayer",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": -8.0,
+        "race score": -0.0
+    },
+    {
+        "driver": "Tom Jones",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": -1.0,
+        "race score": -0.0
+    },
+    {
+        "driver": "Torsten Palm",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 11.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Vincenzo Sospiri",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 3.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Warwick Brown",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 9.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "William Ferguson",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 7.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Xavier Perrot",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.0,
+        "avg rise/fall factor": 14.0,
+        "race score": 0.0
+    },
+    {
+        "driver": "Ron Flockhart",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 1.5,
+        "race score": -3.1191623125197534
+    },
+    {
+        "driver": "Frank Gardner",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.1972245773362196,
+        "avg rise/fall factor": -0.7777777777777778,
+        "race score": -5.12685734711785
+    },
+    {
+        "driver": "Richard Robarts",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.3862943611198906,
+        "avg rise/fall factor": 5.5,
+        "race score": -7.278045395879425
+    },
+    {
+        "driver": "Ian Raby",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.9459101490553132,
+        "avg rise/fall factor": 2.857142857142857,
+        "race score": -8.339614924522783
+    },
+    {
+        "driver": "Peter Westbury",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 7.5,
+        "race score": -12.476649250079014
+    },
+    {
+        "driver": "Hap Sharp",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.791759469228055,
+        "avg rise/fall factor": 3.6666666666666665,
+        "race score": -15.229955488438467
+    },
+    {
+        "driver": "Chris Lawrence",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 7.0,
+        "race score": -18.71497387511852
+    },
+    {
+        "driver": "Neville Lederle",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 3.0,
+        "race score": -18.71497387511852
+    },
+    {
+        "driver": "Paddy Driver",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 3.5,
+        "race score": -29.1121815835177
+    },
+    {
+        "driver": "Bruce Halford",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 2.5,
+        "race score": -31.191623125197538
+    },
+    {
+        "driver": "David Prophet",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": -0.5,
+        "race score": -31.191623125197538
+    },
+    {
+        "driver": "Willy Mairesse",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.5649493574615367,
+        "avg rise/fall factor": -6.384615384615385,
+        "race score": -31.96321506990528
+    },
+    {
+        "driver": "Roberto Bussinello",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 4.333333333333333,
+        "race score": -34.056980948711406
+    },
+    {
+        "driver": "David Piper",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 6.5,
+        "race score": -37.42994775023704
+    },
+    {
+        "driver": "Eppie Wietzes",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 1.5,
+        "race score": -39.50938929191688
+    },
+    {
+        "driver": "Vic Wilson",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": -3.0,
+        "race score": -40.549110062756796
+    },
+    {
+        "driver": "Henry Taylor",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.302585092994046,
+        "avg rise/fall factor": 4.5,
+        "race score": -42.13730720179108
+    },
+    {
+        "driver": "Kevin Cogan",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 6.5,
+        "race score": -42.62855160443663
+    },
+    {
+        "driver": "Mike Fisher",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 2.5,
+        "race score": -44.70799314611647
+    },
+    {
+        "driver": "Skip Barber",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.791759469228055,
+        "avg rise/fall factor": 4.0,
+        "race score": -49.27338540377149
+    },
+    {
+        "driver": "Chris Bristow",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": -13.333333333333334,
+        "race score": -54.93061443340549
+    },
+    {
+        "driver": "Maurice Trintignant",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.2188758248682006,
+        "avg rise/fall factor": 2.44,
+        "race score": -55.62217425372258
+    },
+    {
+        "driver": "Alessandro Pesenti-Rossi",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.3862943611198906,
+        "avg rise/fall factor": 8.5,
+        "race score": -57.184642396195486
+    },
+    {
+        "driver": "Guy Ligier",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.5649493574615367,
+        "avg rise/fall factor": 2.230769230769231,
+        "race score": -61.558784579076885
+    },
+    {
+        "driver": "Johnny Dumfries",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.772588722239781,
+        "avg rise/fall factor": -1.25,
+        "race score": -64.98254817749486
+    },
+    {
+        "driver": "Emilio de Villota",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.6390573296152584,
+        "avg rise/fall factor": 6.285714285714286,
+        "race score": -65.03391276551883
+    },
+    {
+        "driver": "Alan Stacey",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.3862943611198906,
+        "avg rise/fall factor": -7.0,
+        "race score": -65.50240856291482
+    },
+    {
+        "driver": "Giacomo Russo",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 4.666666666666667,
+        "race score": -67.01534960875468
+    },
+    {
+        "driver": "Brausch Niemann",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 0.6931471805599453,
+        "avg rise/fall factor": 2.5,
+        "race score": -71.74073318795433
+    },
+    {
+        "driver": "Masten Gregory",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 3.367295829986474,
+        "avg rise/fall factor": -1.1724137931034482,
+        "race score": -82.20846371139389
+    },
+    {
+        "driver": "Otto Stuppacher",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 6.666666666666667,
+        "race score": -88.98759538211688
+    },
+    {
+        "driver": "Tony Marsh",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 4.666666666666667,
+        "race score": -91.1848199594531
+    },
+    {
+        "driver": "Tim Parnell",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 10.333333333333334,
+        "race score": -91.18481995945311
+    },
+    {
+        "driver": "Michael May",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 4.0,
+        "race score": -93.38204453678934
+    },
+    {
+        "driver": "Ernie Pieterse",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 0.0,
+        "race score": -94.48065682545744
+    },
+    {
+        "driver": "Tony Shelly",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 2.3333333333333335,
+        "race score": -97.77649369146177
+    },
+    {
+        "driver": "Gino Munaron",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.6094379124341003,
+        "avg rise/fall factor": 1.6,
+        "race score": -103.32591397826924
+    },
+    {
+        "driver": "John Miles",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.70805020110221,
+        "avg rise/fall factor": -3.3333333333333335,
+        "race score": -103.44751768210443
+    },
+    {
+        "driver": "Ian Burgess",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.6390573296152584,
+        "avg rise/fall factor": 4.5,
+        "race score": -109.1438709890882
+    },
+    {
+        "driver": "Mois\u00e9s Solana",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.0794415416798357,
+        "avg rise/fall factor": -4.875,
+        "race score": -126.32607365705002
+    },
+    {
+        "driver": "H\u00e9ctor Rebaque",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 4.060443010546419,
+        "avg rise/fall factor": 3.206896551724138,
+        "race score": -130.42422980427557
+    },
+    {
+        "driver": "Jay Chamberlain",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.0986122886681098,
+        "avg rise/fall factor": 7.666666666666667,
+        "race score": -141.72098523818613
+    },
+    {
+        "driver": "David Walker",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.3978952727983707,
+        "avg rise/fall factor": 3.5454545454545454,
+        "race score": -147.79754499611778
+    },
+    {
+        "driver": "Gerry Ashmore",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.3862943611198906,
+        "avg rise/fall factor": 6.0,
+        "race score": -153.87867408430785
+    },
+    {
+        "driver": "Bernard Collomb",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 1.791759469228055,
+        "avg rise/fall factor": 2.6666666666666665,
+        "race score": -156.7789535574548
+    },
+    {
+        "driver": "Wolfgang Seidel",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.1972245773362196,
+        "avg rise/fall factor": 3.5555555555555554,
+        "race score": -161.12980233798945
+    },
+    {
+        "driver": "Pete Lovely",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.302585092994046,
+        "avg rise/fall factor": 5.5,
+        "race score": -170.62155539085876
+    },
+    {
+        "driver": "Dave Charlton",
+        "avg race position": 18.523809523809526,
+        "teammate race comp": 1.0546875,
+        "normalisation factor": 2.6390573296152584,
+        "avg rise/fall factor": -1.1428571428571428,
+        "race score": -179.267394318865
+    }
+]

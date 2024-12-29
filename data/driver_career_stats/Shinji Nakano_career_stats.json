@@ -1,7 +1,10 @@
 {
     "total races": 33,
-    "average weekend score": 168.87878787878788,
+    "wins": 0,
+    "win percentage": 0.0,
+    "average weekend score": 182.5151515151515,
     "average race position": 14.818181818181818,
+    "points per weekend": 1.3636363636363635,
     "average quali position": 18.12121212121212,
     "average fp1 position": 17.939393939393938,
     "average fp2 position": 17.151515151515152,
@@ -11,5 +14,7 @@
     "average teammate comp race": -1.1818181818181819,
     "average teammate comp quali": -3.4545454545454546,
     "average driver standings position": 12.575757575757576,
-    "average constructor standings position": 5.181818181818182
+    "average constructor standings position": 5.181818181818182,
+    "normalisation factor": 3.4965075614664802,
+    "career score": 638.1656073549275
 }

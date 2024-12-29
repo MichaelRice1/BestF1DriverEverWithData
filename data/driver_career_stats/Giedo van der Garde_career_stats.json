@@ -1,7 +1,10 @@
 {
     "total races": 19,
+    "wins": 0,
+    "win percentage": 0.0,
     "average weekend score": 106.0,
     "average race position": 17.736842105263158,
+    "points per weekend": 0.0,
     "average quali position": 19.68421052631579,
     "average fp1 position": 16.894736842105264,
     "average fp2 position": 20.105263157894736,
@@ -11,5 +14,7 @@
     "average teammate comp race": -0.2631578947368421,
     "average teammate comp quali": 0.05263157894736842,
     "average driver standings position": 21.0,
-    "average constructor standings position": 11.0
+    "average constructor standings position": 11.0,
+    "normalisation factor": 2.9444389791664403,
+    "career score": 312.11053179164264
 }
