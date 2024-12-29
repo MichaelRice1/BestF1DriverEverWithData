@@ -1,20 +1,36 @@
 # **Who is the Greatest F1 Driver of All Time?**
 
-This project explores the fascinating question of who the greatest Formula 1 driver of all time is, using a data-driven approach. By analyzing performances relative to teammates, teams, and competitors across various eras, we aim to bring objectivity to this perennial debate.
+One of my favourite things about having the skills I do is being able to apply them wherever I like, for whatever use I want. In this instance, an innocent conversation between friends has turned into using data analytics tools to produce a definite result. 
 
-The analysis is powered by a **custom, comprehensive dataset**, meticulously scraped and cleaned from official Formula 1 sources and race archives. No pre-made datasets were used, ensuring the data is complete, accurate, and tailored for this project.
+I used a range of performance metrics, both custom and pre-defined to measure performance of drivers from the 1960 season all the way up to modern day, the 2024 season.
+
+The analysis is powered by a **custom, comprehensive dataset**, meticulously scraped and cleaned from race archives. No pre-made datasets were used, ensuring the data is complete, accurate, and tailored for this project. The dataset can be found at : ______ .
 
 ---
 
 ## **Project Overview**
 
-Formula 1 is a sport of immense complexity, where success depends not only on driver skill but also on team dynamics, car performance, and the competitive landscape. This project leverages historical F1 data to compare drivers using metrics that normalize for these variables, such as:
+Formula 1 is a sport of immense complexity, where success depends not only on driver skill but also on team dynamics, car performance, and the competitive landscape. This project leverages historical F1 data to compare drivers using the wide variety of metrics as detailed below:
 
-- Performance relative to teammates in identical machinery.
-- Performance compared to competitors in similar competitive contexts.
-- Adjusted metrics for dominance during an era (e.g., driver skill vs. car advantage).
+- Average Race Position.
+- Average Qualifying Position.
+- Average FP1, FP2 and FP3 Positions.
+- Average Fastest Lap Race Rank.
+- Average Number of Places Lost/Gained in Races.
+- Average Number of Places Above/Below Teammate in Race.
+- Average Number of Places Above/Below Teammate in Qualification.
+- Average Driver Standings Position.
+- Average Constructor Standings Position.
+- Win Percentage.
+- Number of Races Normalisation.
 
-The custom dataset includes detailed information from every race since Formula 1 began in 1950, including qualifying, race results, lap-by-lap performance, and contextual data such as weather and circuit characteristics.
+Custom Scores I Defined Were:
+
+- Weekend Score
+- Career Score
+
+
+The custom dataset includes detailed information from every race since Formula 1 began in 1950, including qualifying, race results and contextual data such as weather and circuit characteristics.
 
 ---
 
